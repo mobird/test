@@ -1,0 +1,17 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$interface_c_c_atlas_node.html" title="CCAtlasNode" alt="" coords="208,30,304,58"/>
+<area shape="rect" id="node9" href="$interface_c_c_label_b_m_font.html" title="CCLabelBMFont" alt="" coords="199,82,313,110"/>
+<area shape="rect" id="node11" href="$interface_c_c_layer_color.html" title="CCLayerColor" alt="" coords="206,134,306,162"/>
+<area shape="rect" id="node15" href="$interface_c_c_menu.html" title="CCMenu" alt="" coords="221,186,291,214"/>
+<area shape="rect" id="node17" href="$interface_c_c_menu_item_label.html" title="CCMenuItemLabel" alt="" coords="193,238,319,266"/>
+<area shape="rect" id="node23" href="$interface_c_c_menu_item_sprite.html" title="CCMenuItemSprite" alt="" coords="193,290,319,318"/>
+<area shape="rect" id="node27" href="$interface_c_c_menu_item_toggle.html" title="CCMenuItemToggle" alt="" coords="190,342,322,370"/>
+<area shape="rect" id="node29" href="$interface_c_c_sprite.html" title="CCSprite" alt="" coords="221,394,291,422"/>
+<area shape="rect" id="node5" href="$interface_c_c_label_atlas.html" title="CCLabelAtlas" alt="" coords="395,5,493,33"/>
+<area shape="rect" id="node7" href="$interface_c_c_tile_map_atlas.html" title="CCTileMapAtlas" alt="" coords="387,57,501,85"/>
+<area shape="rect" id="node13" href="$interface_c_c_layer_gradient.html" title="CCLayerGradient" alt="" coords="386,134,502,162"/>
+<area shape="rect" id="node19" href="$interface_c_c_menu_item_atlas_font.html" title="CCMenuItemAtlasFont" alt="" coords="370,186,518,214"/>
+<area shape="rect" id="node21" href="$interface_c_c_menu_item_font.html" title="CCMenuItemFont" alt="" coords="384,238,504,266"/>
+<area shape="rect" id="node25" href="$interface_c_c_menu_item_image.html" title="CCMenuItemImage" alt="" coords="380,290,508,318"/>
+<area shape="rect" id="node31" href="$interface_c_c_label_t_t_f.html" title="CCLabelTTF" alt="" coords="397,394,491,422"/>
+</map>

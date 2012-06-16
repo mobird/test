@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node13" href="$interface_c_c_fade_out_b_l_tiles.html" title="CCFadeOutBLTiles" alt="" coords="5,470,133,498"/>
+<area shape="rect" id="node15" href="$interface_c_c_fade_out_up_tiles.html" title="CCFadeOutUpTiles" alt="" coords="157,470,284,498"/>
+<area shape="rect" id="node2" href="$interface_c_c_tiled_grid3_d_action.html" title="CCTiledGrid3DAction" alt="" coords="73,315,217,343"/>
+<area shape="rect" id="node4" href="$interface_c_c_grid_action.html" title="CCGridAction" alt="" coords="95,238,195,266"/>
+<area shape="rect" id="node6" href="$interface_c_c_action_interval.html" title="CCActionInterval" alt="" coords="87,161,203,189"/>
+<area shape="rect" id="node8" href="$interface_c_c_finite_time_action.html" title="CCFiniteTimeAction" alt="" coords="78,83,212,111"/>
+<area shape="rect" id="node10" href="$interface_c_c_action.html" title="CCAction" alt="" coords="108,6,183,34"/>
+<area shape="rect" id="node17" href="$interface_c_c_fade_out_down_tiles.html" title="CCFadeOutDownTiles" alt="" coords="149,547,293,575"/>
+</map>

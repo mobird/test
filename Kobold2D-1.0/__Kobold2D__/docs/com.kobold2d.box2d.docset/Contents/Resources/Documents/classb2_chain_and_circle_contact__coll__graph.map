@@ -1,0 +1,16 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$classb2_contact.html" title="b2Contact" alt="" coords="173,429,248,457"/>
+<area shape="rect" id="node33" href="$structb2_contact_edge.html" title="b2ContactEdge" alt="" coords="168,541,271,569"/>
+<area shape="rect" id="node4" href="$structb2_contact_register.html" title="b2ContactRegister" alt="" coords="137,318,257,346"/>
+<area shape="rect" id="node7" href="$structb2_manifold.html" title="b2Manifold" alt="" coords="29,318,112,346"/>
+<area shape="rect" id="node9" href="$structb2_vec2.html" title="A 2D column vector." alt="" coords="153,99,215,127"/>
+<area shape="rect" id="node11" href="$structb2_manifold_point.html" title="b2ManifoldPoint" alt="" coords="14,210,127,238"/>
+<area shape="rect" id="node24" href="$structb2_a_a_b_b.html" title="An axis aligned bounding box." alt="" coords="632,265,703,293"/>
+<area shape="rect" id="node14" href="$unionb2_contact_i_d.html" title="Contact ids to facilitate warm starting." alt="" coords="18,99,107,127"/>
+<area shape="rect" id="node16" href="$structb2_contact_feature.html" title="b2ContactFeature" alt="" coords="5,6,120,34"/>
+<area shape="rect" id="node18" href="$classb2_fixture.html" title="b2Fixture" alt="" coords="461,318,533,346"/>
+<area shape="rect" id="node22" href="$structb2_fixture_proxy.html" title="This proxy is used internally to connect fixtures to the broad&#45;phase." alt="" coords="535,429,640,457"/>
+<area shape="rect" id="node20" href="$classb2_body.html" title="A rigid body. These are created via b2World::CreateBody." alt="" coords="359,210,421,238"/>
+<area shape="rect" id="node28" href="$classb2_shape.html" title="b2Shape" alt="" coords="460,210,527,238"/>
+<area shape="rect" id="node30" href="$structb2_filter.html" title="This holds contact filtering data." alt="" coords="551,210,613,238"/>
+</map>

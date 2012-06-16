@@ -1,0 +1,29 @@
+<map id="G" name="G">
+<area shape="rect" id="node9" href="$interface_c_c_grid3_d_action.html" title="CCGrid3DAction" alt="" coords="643,239,759,267"/>
+<area shape="rect" id="node31" href="$interface_c_c_tiled_grid3_d_action.html" title="CCTiledGrid3DAction" alt="" coords="629,655,773,683"/>
+<area shape="rect" id="node2" href="$interface_c_c_action_interval.html" title="CCActionInterval" alt="" coords="315,447,432,475"/>
+<area shape="rect" id="node4" href="$interface_c_c_finite_time_action.html" title="CCFiniteTimeAction" alt="" coords="131,447,266,475"/>
+<area shape="rect" id="node6" href="$interface_c_c_action.html" title="CCAction" alt="" coords="6,447,82,475"/>
+<area shape="rect" id="node11" href="$interface_c_c_flip_x3_d.html" title="CCFlipX3D" alt="" coords="845,5,931,33"/>
+<area shape="rect" id="node15" href="$interface_c_c_lens3_d.html" title="CCLens3D" alt="" coords="847,57,929,85"/>
+<area shape="rect" id="node17" href="$interface_c_c_liquid.html" title="CCLiquid" alt="" coords="851,109,925,137"/>
+<area shape="rect" id="node19" href="$interface_c_c_page_turn3_d.html" title="CCPageTurn3D" alt="" coords="834,161,942,189"/>
+<area shape="rect" id="node21" href="$interface_c_c_ripple3_d.html" title="CCRipple3D" alt="" coords="843,213,933,241"/>
+<area shape="rect" id="node23" href="$interface_c_c_shaky3_d.html" title="CCShaky3D" alt="" coords="844,265,932,293"/>
+<area shape="rect" id="node25" href="$interface_c_c_twirl.html" title="CCTwirl" alt="" coords="854,317,922,345"/>
+<area shape="rect" id="node27" href="$interface_c_c_waves.html" title="CCWaves" alt="" coords="850,369,926,397"/>
+<area shape="rect" id="node29" href="$interface_c_c_waves3_d.html" title="CCWaves3D" alt="" coords="842,421,934,449"/>
+<area shape="rect" id="node13" href="$interface_c_c_flip_y3_d.html" title="CCFlipY3D" alt="" coords="1025,5,1111,33"/>
+<area shape="rect" id="node33" href="$interface_c_c_fade_out_t_r_tiles.html" title="CCFadeOutTRTiles" alt="" coords="824,473,952,501"/>
+<area shape="rect" id="node41" href="$interface_c_c_jump_tiles3_d.html" title="CCJumpTiles3D" alt="" coords="833,525,943,553"/>
+<area shape="rect" id="node43" href="$interface_c_c_shaky_tiles3_d.html" title="CCShakyTiles3D" alt="" coords="830,577,946,605"/>
+<area shape="rect" id="node45" href="$interface_c_c_shattered_tiles3_d.html" title="CCShatteredTiles3D" alt="" coords="822,629,954,657"/>
+<area shape="rect" id="node47" href="$interface_c_c_shuffle_tiles.html" title="CCShuffleTiles" alt="" coords="835,681,941,709"/>
+<area shape="rect" id="node49" href="$interface_c_c_split_cols.html" title="CCSplitCols" alt="" coords="844,733,932,761"/>
+<area shape="rect" id="node51" href="$interface_c_c_split_rows.html" title="CCSplitRows" alt="" coords="841,785,935,813"/>
+<area shape="rect" id="node53" href="$interface_c_c_turn_off_tiles.html" title="CCTurnOffTiles" alt="" coords="833,837,943,865"/>
+<area shape="rect" id="node55" href="$interface_c_c_waves_tiles3_d.html" title="CCWavesTiles3D" alt="" coords="829,889,947,917"/>
+<area shape="rect" id="node35" href="$interface_c_c_fade_out_b_l_tiles.html" title="CCFadeOutBLTiles" alt="" coords="1004,446,1132,474"/>
+<area shape="rect" id="node37" href="$interface_c_c_fade_out_up_tiles.html" title="CCFadeOutUpTiles" alt="" coords="1004,498,1132,526"/>
+<area shape="rect" id="node39" href="$interface_c_c_fade_out_down_tiles.html" title="CCFadeOutDownTiles" alt="" coords="1181,498,1325,526"/>
+</map>

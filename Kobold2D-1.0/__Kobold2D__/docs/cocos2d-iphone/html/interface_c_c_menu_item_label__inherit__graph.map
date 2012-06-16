@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node9" href="$interface_c_c_menu_item_atlas_font.html" title="CCMenuItemAtlasFont" alt="" coords="5,238,152,266"/>
+<area shape="rect" id="node11" href="$interface_c_c_menu_item_font.html" title="CCMenuItemFont" alt="" coords="176,238,295,266"/>
+<area shape="rect" id="node2" href="$interface_c_c_menu_item.html" title="CCMenuItem" alt="" coords="41,83,135,111"/>
+<area shape="rect" id="node4" href="$interface_c_c_node.html" title="CCNode" alt="" coords="54,6,121,34"/>
+<area shape="rect" id="node6" href="$protocol_c_c_r_g_b_a_protocol-p.html" title="CC RGBA protocol." alt="" coords="160,83,296,111"/>
+</map>

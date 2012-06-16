@@ -1,0 +1,5 @@
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/kobold2d/kkARCSupport.h:55: warning: documentation for unknown define KK_ARC_ENABLED found.
+
+Project logo '/depot/Kobold2D-Dev/Kobold2D-0.9/__kobold2d__/templates/project/_Hello-Kobold2D-Template_/Projectfiles-iOS/Resources/Icon.png' specified by PROJECT_LOGO does not exist!
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/kobold2d/cocos2d-ext/CCNodeExtensions.h:15: warning: explicit link request to 'ifdef' could not be resolved
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/kobold2d/KKInput.h:229: warning: explicit link request to 'ifdef' could not be resolved

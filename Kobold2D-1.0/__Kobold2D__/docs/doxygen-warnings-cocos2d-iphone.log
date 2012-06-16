@@ -1,0 +1,807 @@
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Platforms/iOS/ES1Renderer.h:42: warning: Compound ES1Renderer is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Support/CCProfiling.h:44: warning: Compound CCProfilingTimer is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Support/ccCArray.h:56: warning: Compound ccArray is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Support/ZipUtils.h:27: warning: Compound CCZHeader is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Support/CCProfiling.h:32: warning: Compound CCProfiler is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Support/uthash.h:961: warning: Compound UT_hash_handle is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Platforms/iOS/CCTouchDispatcher.h:54: warning: Compound ccTouchHandlerHelperData is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTMXXMLParser.h:104: warning: Compound CCTMXTilesetInfo is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTextureCache.h:141: warning: Compound CCTextureCache(Debug) is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTextureCache.h:115: warning: Compound CCTextureCache(PVRSupport) is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Support/uthash.h:904: warning: Compound UT_hash_bucket is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Support/uthash.h:928: warning: Compound UT_hash_table is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTexture2D.h:295: warning: Compound CCTexture2D(PixelFormat) is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTransition.h:247: warning: Compound CCTransitionCrossFade is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Platforms/iOS/CCDirectorIOS.h:149: warning: Compound CCDirector(iOSExtensionClassMethods) is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTMXXMLParser.h:68: warning: Compound CCTMXLayerInfo is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTMXXMLParser.h:151: warning: Compound CCTMXMapInfo is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTexture2D.h:262: warning: Compound CCTexture2D(GLFilter) is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Platforms/iOS/ESRenderer.h:39: warning: Compound ESRenderer-p is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Platforms/iOS/EAGLView.h:84: warning: Compound EAGLTouchDelegate-p is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTexturePVR.h:57: warning: Compound CCPVRMipmap is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionManager.h:37: warning: Compound tHashElement is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCBlockSupport.h:38: warning: Member NS_BLOCKS_AVAILABLE (define) of file CCBlockSupport.h is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Support/ccCArray.h:54: warning: Member CCARRAYDATA_FOREACH(__array__, __object__) (define) of file ccCArray.h is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Support/ccCArray.h:140: warning: Member ccCArray (typedef) of file ccCArray.h is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/ccConfig.h:304: warning: Member CC_LABELATLAS_DEBUG_DRAW (define) of file ccConfig.h is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/ccConfig.h:324: warning: Member CC_IS_RETINA_DISPLAY_SUPPORTED (define) of file ccConfig.h is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/ccMacros.h:53: warning: Member CCLOG(...) (define) of file ccMacros.h is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/ccMacros.h:54: warning: Member CCLOGINFO(...) (define) of file ccMacros.h is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/ccMacros.h:55: warning: Member CCLOGERROR(...) (define) of file ccMacros.h is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/ccMacros.h:102: warning: Member CC_BLEND_DST (define) of file ccMacros.h is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Support/CGPointExtension.h:324: warning: Member ccpSegmentIntersect(CGPoint A, CGPoint B, CGPoint C, CGPoint D) (function) of file CGPointExtension.h is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Support/CGPointExtension.h:330: warning: Member ccpIntersectPoint(CGPoint A, CGPoint B, CGPoint C, CGPoint D) (function) of file CGPointExtension.h is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Support/TGAlib.h:50: warning: Member tgaRGBtogreyscale(tImageTGA *info) (function) of file TGAlib.h is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionGrid.h:109: warning: Member rate_ (variable) of class CCAccelAmplitude is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionGrid.h:110: warning: Member other_ (variable) of class CCAccelAmplitude is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionGrid.h:90: warning: Member rate_ (variable) of class CCAccelDeccelAmplitude is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionGrid.h:91: warning: Member other_ (variable) of class CCAccelDeccelAmplitude is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCAction.h:71: warning: Member copyWithZone:(NSZone *zone) (function) of class CCAction is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCAction.h:43: warning: Member originalTarget_ (variable) of class CCAction is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCAction.h:44: warning: Member target_ (variable) of class CCAction is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCAction.h:45: warning: Member tag_ (variable) of class CCAction is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionCamera.h:36: warning: Member centerXOrig_ (variable) of class CCActionCamera is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionCamera.h:37: warning: Member centerYOrig_ (variable) of class CCActionCamera is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionCamera.h:38: warning: Member centerZOrig_ (variable) of class CCActionCamera is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionCamera.h:40: warning: Member eyeXOrig_ (variable) of class CCActionCamera is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionCamera.h:41: warning: Member eyeYOrig_ (variable) of class CCActionCamera is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionCamera.h:42: warning: Member eyeZOrig_ (variable) of class CCActionCamera is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionCamera.h:44: warning: Member upXOrig_ (variable) of class CCActionCamera is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionCamera.h:45: warning: Member upYOrig_ (variable) of class CCActionCamera is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionCamera.h:46: warning: Member upZOrig_ (variable) of class CCActionCamera is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionEase.h:34: warning: Member other (variable) of class CCActionEase is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionInterval.h:53: warning: Member elapsed_ (variable) of class CCActionInterval is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionInterval.h:54: warning: Member firstTick_ (variable) of class CCActionInterval is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionManager.h:60: warning: Member targets (variable) of class CCActionManager is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionManager.h:61: warning: Member currentTarget (variable) of class CCActionManager is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionManager.h:62: warning: Member currentTargetSalvaged (variable) of class CCActionManager is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionTween.h:50: warning: Member key_ (variable) of class CCActionTween is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionTween.h:52: warning: Member from_ (variable) of class CCActionTween is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionTween.h:52: warning: Member to_ (variable) of class CCActionTween is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionTween.h:53: warning: Member delta_ (variable) of class CCActionTween is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionInterval.h:420: warning: Member animation_ (variable) of class CCAnimate is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionInterval.h:421: warning: Member origFrame_ (variable) of class CCAnimate is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionInterval.h:422: warning: Member restoreOriginalFrame_ (variable) of class CCAnimate is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCAnimation.h:70: warning: Member animationWithFrames:delay:(NSArray *frames,[delay] float delay) (function) of class CCAnimation is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCAnimation.h:45: warning: Member name_ (variable) of class CCAnimation is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCAnimation.h:46: warning: Member delay_ (variable) of class CCAnimation is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCAnimation.h:47: warning: Member frames_ (variable) of class CCAnimation is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCAnimationCache.h:40: warning: Member animations_ (variable) of class CCAnimationCache is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Support/CCArray.h:58: warning: Member initWithCapacity:(NSUInteger capacity) (function) of class CCArray is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Support/CCArray.h:59: warning: Member initWithArray:(CCArray *otherArray) (function) of class CCArray is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Support/CCArray.h:60: warning: Member initWithNSArray:(NSArray *otherArray) (function) of class CCArray is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Support/CCArray.h:65: warning: Member count() (function) of class CCArray is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Support/CCArray.h:66: warning: Member capacity() (function) of class CCArray is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Support/CCArray.h:67: warning: Member indexOfObject:(id object) (function) of class CCArray is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Support/CCArray.h:68: warning: Member objectAtIndex:(NSUInteger index) (function) of class CCArray is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Support/CCArray.h:69: warning: Member containsObject:(id object) (function) of class CCArray is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Support/CCArray.h:70: warning: Member randomObject() (function) of class CCArray is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Support/CCArray.h:71: warning: Member lastObject() (function) of class CCArray is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Support/CCArray.h:72: warning: Member getNSArray() (function) of class CCArray is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Support/CCArray.h:77: warning: Member addObject:(id object) (function) of class CCArray is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Support/CCArray.h:78: warning: Member addObjectsFromArray:(CCArray *otherArray) (function) of class CCArray is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Support/CCArray.h:79: warning: Member addObjectsFromNSArray:(NSArray *otherArray) (function) of class CCArray is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Support/CCArray.h:80: warning: Member insertObject:atIndex:(id object,[atIndex] NSUInteger index) (function) of class CCArray is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Support/CCArray.h:85: warning: Member removeLastObject() (function) of class CCArray is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Support/CCArray.h:86: warning: Member removeObject:(id object) (function) of class CCArray is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Support/CCArray.h:87: warning: Member removeObjectAtIndex:(NSUInteger index) (function) of class CCArray is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Support/CCArray.h:88: warning: Member removeObjectsInArray:(CCArray *otherArray) (function) of class CCArray is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Support/CCArray.h:89: warning: Member removeAllObjects() (function) of class CCArray is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Support/CCArray.h:90: warning: Member fastRemoveObject:(id object) (function) of class CCArray is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Support/CCArray.h:91: warning: Member fastRemoveObjectAtIndex:(NSUInteger index) (function) of class CCArray is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Support/CCArray.h:96: warning: Member exchangeObject:withObject:(id object1,[withObject] id object2) (function) of class CCArray is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Support/CCArray.h:97: warning: Member exchangeObjectAtIndex:withObjectAtIndex:(NSUInteger index1,[withObjectAtIndex] NSUInteger index2) (function) of class CCArray is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Support/CCArray.h:98: warning: Member reverseObjects() (function) of class CCArray is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Support/CCArray.h:99: warning: Member reduceMemoryFootprint() (function) of class CCArray is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Support/CCArray.h:103: warning: Member makeObjectsPerformSelector:(SEL aSelector) (function) of class CCArray is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Support/CCArray.h:104: warning: Member makeObjectsPerformSelector:withObject:(SEL aSelector,[withObject] id object) (function) of class CCArray is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Support/CCArray.h:52: warning: Member array() (function) of class CCArray is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Support/CCArray.h:53: warning: Member arrayWithCapacity:(NSUInteger capacity) (function) of class CCArray is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Support/CCArray.h:54: warning: Member arrayWithArray:(CCArray *otherArray) (function) of class CCArray is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Support/CCArray.h:55: warning: Member arrayWithNSArray:(NSArray *otherArray) (function) of class CCArray is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Support/CCArray.h:49: warning: Member data (variable) of class CCArray is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Support/ccCArray.h:57: warning: Member num (variable) of class ccArray is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Support/ccCArray.h:57: warning: Member max (variable) of class ccArray is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Support/ccCArray.h:58: warning: Member arr (variable) of class ccArray is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCAtlasNode.h:45: warning: Member textureAtlas_ (variable) of class CCAtlasNode is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCAtlasNode.h:48: warning: Member itemsPerRow_ (variable) of class CCAtlasNode is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCAtlasNode.h:50: warning: Member itemsPerColumn_ (variable) of class CCAtlasNode is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCAtlasNode.h:53: warning: Member itemWidth_ (variable) of class CCAtlasNode is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCAtlasNode.h:55: warning: Member itemHeight_ (variable) of class CCAtlasNode is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCAtlasNode.h:58: warning: Member quadsToDraw_ (variable) of class CCAtlasNode is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCAtlasNode.h:61: warning: Member blendFunc_ (variable) of class CCAtlasNode is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCAtlasNode.h:64: warning: Member opacity_ (variable) of class CCAtlasNode is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCAtlasNode.h:65: warning: Member color_ (variable) of class CCAtlasNode is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCAtlasNode.h:66: warning: Member colorUnmodified_ (variable) of class CCAtlasNode is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCAtlasNode.h:67: warning: Member opacityModifyRGB_ (variable) of class CCAtlasNode is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionInterval.h:258: warning: Member config_ (variable) of class CCBezierBy is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionInterval.h:259: warning: Member startPosition_ (variable) of class CCBezierBy is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionInterval.h:315: warning: Member times_ (variable) of class CCBlink is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCLabelBMFont.h:85: warning: Member BMFontArray_[kCCBMFontMaxChars] (variable) of class CCBMFontConfiguration is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCLabelBMFont.h:88: warning: Member commonHeight_ (variable) of class CCBMFontConfiguration is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCLabelBMFont.h:91: warning: Member padding_ (variable) of class CCBMFontConfiguration is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCLabelBMFont.h:94: warning: Member atlasName_ (variable) of class CCBMFontConfiguration is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCLabelBMFont.h:97: warning: Member kerningDictionary_ (variable) of class CCBMFontConfiguration is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionInstant.h:100: warning: Member targetCallback_ (variable) of class CCCallFunc is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionInstant.h:101: warning: Member selector_ (variable) of class CCCallFunc is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionInstant.h:129: warning: Member data_ (variable) of class CCCallFuncND is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionInstant.h:130: warning: Member callbackMethod_ (variable) of class CCCallFuncND is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionInstant.h:148: warning: Member object_ (variable) of class CCCallFuncO is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCCamera.h:55: warning: Member eyeX_ (variable) of class CCCamera is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCCamera.h:56: warning: Member eyeY_ (variable) of class CCCamera is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCCamera.h:57: warning: Member eyeZ_ (variable) of class CCCamera is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCCamera.h:59: warning: Member centerX_ (variable) of class CCCamera is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCCamera.h:60: warning: Member centerY_ (variable) of class CCCamera is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCCamera.h:61: warning: Member centerZ_ (variable) of class CCCamera is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCCamera.h:63: warning: Member upX_ (variable) of class CCCamera is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCCamera.h:64: warning: Member upY_ (variable) of class CCCamera is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCCamera.h:65: warning: Member upZ_ (variable) of class CCCamera is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCCamera.h:67: warning: Member dirty_ (variable) of class CCCamera is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/ccTypes.h:46: warning: Member r (variable) of class ccColor3B is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/ccTypes.h:47: warning: Member g (variable) of class ccColor3B is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/ccTypes.h:48: warning: Member b (variable) of class ccColor3B is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/ccTypes.h:83: warning: Member r (variable) of class ccColor4B is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/ccTypes.h:84: warning: Member g (variable) of class ccColor4B is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/ccTypes.h:85: warning: Member b (variable) of class ccColor4B is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/ccTypes.h:86: warning: Member a (variable) of class ccColor4B is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/ccTypes.h:101: warning: Member r (variable) of class ccColor4F is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/ccTypes.h:102: warning: Member g (variable) of class ccColor4F is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/ccTypes.h:103: warning: Member b (variable) of class ccColor4F is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/ccTypes.h:104: warning: Member a (variable) of class ccColor4F is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCConfiguration.h:60: warning: Member maxTextureSize_ (variable) of class CCConfiguration is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCConfiguration.h:61: warning: Member maxModelviewStackDepth_ (variable) of class CCConfiguration is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCConfiguration.h:62: warning: Member supportsPVRTC_ (variable) of class CCConfiguration is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCConfiguration.h:63: warning: Member supportsNPOT_ (variable) of class CCConfiguration is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCConfiguration.h:64: warning: Member supportsBGRA8888_ (variable) of class CCConfiguration is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCConfiguration.h:65: warning: Member supportsDiscardFramebuffer_ (variable) of class CCConfiguration is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCConfiguration.h:66: warning: Member OSVersion_ (variable) of class CCConfiguration is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCConfiguration.h:67: warning: Member maxSamplesAllowed_ (variable) of class CCConfiguration is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionGrid.h:128: warning: Member rate_ (variable) of class CCDeccelAmplitude is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionGrid.h:129: warning: Member other_ (variable) of class CCDeccelAmplitude is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCDirector.h:307: warning: Member showProfilers() (function) of class CCDirector is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Platforms/iOS/CCDirectorIOS.h:115: warning: Member applyOrientation() (function) of class CCDirector is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCDirector.h:82: warning: Member openGLView_ (variable) of class CCDirector is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCDirector.h:85: warning: Member animationInterval_ (variable) of class CCDirector is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCDirector.h:86: warning: Member oldAnimationInterval_ (variable) of class CCDirector is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCDirector.h:89: warning: Member displayFPS_ (variable) of class CCDirector is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCDirector.h:91: warning: Member frames_ (variable) of class CCDirector is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCDirector.h:92: warning: Member totalFrames_ (variable) of class CCDirector is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCDirector.h:94: warning: Member accumDt_ (variable) of class CCDirector is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCDirector.h:95: warning: Member frameRate_ (variable) of class CCDirector is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCDirector.h:97: warning: Member FPSLabel_ (variable) of class CCDirector is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCDirector.h:101: warning: Member isPaused_ (variable) of class CCDirector is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCDirector.h:104: warning: Member runningScene_ (variable) of class CCDirector is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCDirector.h:107: warning: Member notificationNode_ (variable) of class CCDirector is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCDirector.h:111: warning: Member nextScene_ (variable) of class CCDirector is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCDirector.h:114: warning: Member sendCleanupToScene_ (variable) of class CCDirector is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCDirector.h:117: warning: Member scenesStack_ (variable) of class CCDirector is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCDirector.h:120: warning: Member lastUpdate_ (variable) of class CCDirector is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCDirector.h:122: warning: Member dt (variable) of class CCDirector is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCDirector.h:124: warning: Member nextDeltaTimeZero_ (variable) of class CCDirector is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCDirector.h:127: warning: Member projection_ (variable) of class CCDirector is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCDirector.h:130: warning: Member projectionDelegate_ (variable) of class CCDirector is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCDirector.h:133: warning: Member winSizeInPoints_ (variable) of class CCDirector is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCDirector.h:136: warning: Member winSizeInPixels_ (variable) of class CCDirector is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCDirector.h:139: warning: Member runningThread_ (variable) of class CCDirector is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Platforms/iOS/CCDirectorIOS.h:217: warning: Member mainLoop:(id sender) (function) of class CCDirectorDisplayLink is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Platforms/iOS/CCDirectorIOS.h:215: warning: Member displayLink (variable) of class CCDirectorDisplayLink is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Platforms/iOS/CCDirectorIOS.h:199: warning: Member mainLoop() (function) of class CCDirectorFastThreaded is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Platforms/iOS/CCDirectorIOS.h:197: warning: Member isRunning (variable) of class CCDirectorFastThreaded is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Platforms/iOS/CCDirectorIOS.h:178: warning: Member deviceOrientation_ (variable) of class CCDirectorIOS is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Platforms/iOS/CCDirectorIOS.h:181: warning: Member isContentScaleSupported_ (variable) of class CCDirectorIOS is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Platforms/iOS/CCDirectorIOS.h:233: warning: Member mainLoop() (function) of class CCDirectorTimer is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Platforms/iOS/CCDirectorIOS.h:231: warning: Member animationTimer (variable) of class CCDirectorTimer is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionEase.h:94: warning: Member period_ (variable) of class CCEaseElastic is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionInterval.h:347: warning: Member toOpacity_ (variable) of class CCFadeTo is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionInterval.h:348: warning: Member fromOpacity_ (variable) of class CCFadeTo is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionInstant.h:68: warning: Member initWithFlipX:(BOOL x) (function) of class CCFlipX is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionInstant.h:67: warning: Member actionWithFlipX:(BOOL x) (function) of class CCFlipX is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionInstant.h:65: warning: Member flipX (variable) of class CCFlipX is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionInstant.h:79: warning: Member initWithFlipY:(BOOL y) (function) of class CCFlipY is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionInstant.h:78: warning: Member actionWithFlipY:(BOOL y) (function) of class CCFlipY is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionInstant.h:76: warning: Member flipY (variable) of class CCFlipY is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCAction.h:165: warning: Member followedNode_ (variable) of class CCFollow is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCAction.h:171: warning: Member boundaryFullyCovered (variable) of class CCFollow is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCAction.h:174: warning: Member halfScreenSize (variable) of class CCFollow is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCAction.h:175: warning: Member fullScreenSize (variable) of class CCFollow is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCAction.h:178: warning: Member leftBoundary (variable) of class CCFollow is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCAction.h:179: warning: Member rightBoundary (variable) of class CCFollow is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCAction.h:180: warning: Member topBoundary (variable) of class CCFollow is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCAction.h:181: warning: Member bottomBoundary (variable) of class CCFollow is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCGrabber.h:39: warning: Member grab:(CCTexture2D *texture) (function) of class CCGrabber is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCGrabber.h:40: warning: Member beforeRender:(CCTexture2D *texture) (function) of class CCGrabber is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCGrabber.h:41: warning: Member afterRender:(CCTexture2D *texture) (function) of class CCGrabber is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCGrabber.h:35: warning: Member fbo (variable) of class CCGrabber is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCGrabber.h:36: warning: Member oldFBO (variable) of class CCGrabber is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCGrid.h:85: warning: Member texCoordinates (variable) of class CCGrid3D is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCGrid.h:86: warning: Member vertices (variable) of class CCGrid3D is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCGrid.h:87: warning: Member originalVertices (variable) of class CCGrid3D is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCGrid.h:88: warning: Member indices (variable) of class CCGrid3D is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionGrid.h:36: warning: Member gridSize_ (variable) of class CCGridAction is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCGrid.h:67: warning: Member initWithSize:texture:flippedTexture:(ccGridSize gridSize,[texture] CCTexture2D *texture,[flippedTexture] BOOL flipped) (function) of class CCGridBase is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCGrid.h:68: warning: Member initWithSize:(ccGridSize gridSize) (function) of class CCGridBase is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCGrid.h:69: warning: Member beforeDraw() (function) of class CCGridBase is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCGrid.h:70: warning: Member afterDraw:(CCNode *target) (function) of class CCGridBase is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCGrid.h:71: warning: Member blit() (function) of class CCGridBase is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCGrid.h:72: warning: Member reuse() (function) of class CCGridBase is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCGrid.h:74: warning: Member calculateVertexPoints() (function) of class CCGridBase is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCGrid.h:64: warning: Member gridWithSize:texture:flippedTexture:(ccGridSize gridSize,[texture] CCTexture2D *texture,[flippedTexture] BOOL flipped) (function) of class CCGridBase is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCGrid.h:65: warning: Member gridWithSize:(ccGridSize gridSize) (function) of class CCGridBase is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCGrid.h:40: warning: Member active_ (variable) of class CCGridBase is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCGrid.h:41: warning: Member reuseGrid_ (variable) of class CCGridBase is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCGrid.h:42: warning: Member gridSize_ (variable) of class CCGridBase is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCGrid.h:43: warning: Member texture_ (variable) of class CCGridBase is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCGrid.h:44: warning: Member step_ (variable) of class CCGridBase is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCGrid.h:45: warning: Member grabber_ (variable) of class CCGridBase is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCGrid.h:46: warning: Member isTextureFlipped_ (variable) of class CCGridBase is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/ccTypes.h:187: warning: Member x (variable) of class ccGridSize is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/ccTypes.h:188: warning: Member y (variable) of class ccGridSize is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionInterval.h:223: warning: Member startPosition_ (variable) of class CCJumpBy is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionInterval.h:224: warning: Member delta_ (variable) of class CCJumpBy is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionInterval.h:225: warning: Member height_ (variable) of class CCJumpBy is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionInterval.h:226: warning: Member jumps_ (variable) of class CCJumpBy is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionTiledGrid.h:166: warning: Member jumps (variable) of class CCJumpTiles3D is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCLabelAtlas.h:46: warning: Member string_ (variable) of class CCLabelAtlas is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCLabelAtlas.h:49: warning: Member mapStartChar_ (variable) of class CCLabelAtlas is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCLabelBMFont.h:140: warning: Member string_ (variable) of class CCLabelBMFont is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCLabelBMFont.h:142: warning: Member configuration_ (variable) of class CCLabelBMFont is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCLabelBMFont.h:145: warning: Member opacity_ (variable) of class CCLabelBMFont is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCLabelBMFont.h:146: warning: Member color_ (variable) of class CCLabelBMFont is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCLabelBMFont.h:147: warning: Member opacityModifyRGB_ (variable) of class CCLabelBMFont is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCLabelTTF.h:43: warning: Member dimensions_ (variable) of class CCLabelTTF is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCLabelTTF.h:44: warning: Member alignment_ (variable) of class CCLabelTTF is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCLabelTTF.h:45: warning: Member fontName_ (variable) of class CCLabelTTF is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCLabelTTF.h:46: warning: Member fontSize_ (variable) of class CCLabelTTF is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCLabelTTF.h:47: warning: Member lineBreakMode_ (variable) of class CCLabelTTF is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCLabelTTF.h:48: warning: Member string_ (variable) of class CCLabelTTF is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCLayer.h:53: warning: Member isTouchEnabled_ (variable) of class CCLayer is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCLayer.h:54: warning: Member isAccelerometerEnabled_ (variable) of class CCLayer is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCLayer.h:159: warning: Member color_ (variable) of class CCLayerColor is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCLayer.h:160: warning: Member squareVertices_[4] (variable) of class CCLayerColor is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCLayer.h:161: warning: Member squareColors_[4] (variable) of class CCLayerColor is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCLayer.h:163: warning: Member blendFunc_ (variable) of class CCLayerColor is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCLayer.h:158: warning: Member opacity_ (property) of class CCLayerColor is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCLayer.h:219: warning: Member startOpacity_ (variable) of class CCLayerGradient is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCLayer.h:220: warning: Member endOpacity_ (variable) of class CCLayerGradient is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCLayer.h:221: warning: Member vector_ (variable) of class CCLayerGradient is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCLayer.h:222: warning: Member compressedInterpolation_ (variable) of class CCLayerGradient is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCLayer.h:218: warning: Member endColor_ (property) of class CCLayerGradient is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCLayer.h:263: warning: Member layers_ (variable) of class CCLayerMultiplex is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCLayer.h:262: warning: Member enabledLayer_ (property) of class CCLayerMultiplex is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionGrid3D.h:75: warning: Member position_ (variable) of class CCLens3D is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionGrid3D.h:76: warning: Member positionInPixels_ (variable) of class CCLens3D is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionGrid3D.h:77: warning: Member radius_ (variable) of class CCLens3D is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionGrid3D.h:78: warning: Member lensEffect_ (variable) of class CCLens3D is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionGrid3D.h:79: warning: Member dirty_ (variable) of class CCLens3D is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionGrid3D.h:142: warning: Member waves (variable) of class CCLiquid is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCMenu.h:82: warning: Member alignItemsInColumns:vaList:(NSNumber *columns,[vaList] va_list args) (function) of class CCMenu is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCMenu.h:86: warning: Member alignItemsInRows:vaList:(NSNumber *rows,[vaList] va_list args) (function) of class CCMenu is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCMenu.h:53: warning: Member state_ (variable) of class CCMenu is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCMenu.h:54: warning: Member selectedItem_ (variable) of class CCMenu is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCMenu.h:55: warning: Member opacity_ (variable) of class CCMenu is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCMenu.h:56: warning: Member color_ (variable) of class CCMenu is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCMenuItem.h:44: warning: Member invocation_ (variable) of class CCMenuItem is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCMenuItem.h:50: warning: Member isEnabled_ (variable) of class CCMenuItem is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCMenuItem.h:51: warning: Member isSelected_ (variable) of class CCMenuItem is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCMenuItem.h:191: warning: Member fontSize_ (variable) of class CCMenuItemFont is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCMenuItem.h:192: warning: Member fontName_ (variable) of class CCMenuItemFont is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCMenuItem.h:108: warning: Member label_ (variable) of class CCMenuItemLabel is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCMenuItem.h:109: warning: Member colorBackup (variable) of class CCMenuItemLabel is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCMenuItem.h:110: warning: Member disabledColor_ (variable) of class CCMenuItemLabel is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCMenuItem.h:111: warning: Member originalScale_ (variable) of class CCMenuItemLabel is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCMenuItem.h:254: warning: Member normalImage_ (variable) of class CCMenuItemSprite is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCMenuItem.h:254: warning: Member selectedImage_ (variable) of class CCMenuItemSprite is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCMenuItem.h:254: warning: Member disabledImage_ (variable) of class CCMenuItemSprite is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCMenuItem.h:341: warning: Member selectedIndex_ (variable) of class CCMenuItemToggle is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCMenuItem.h:342: warning: Member subItems_ (variable) of class CCMenuItemToggle is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCMenuItem.h:343: warning: Member opacity_ (variable) of class CCMenuItemToggle is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCMenuItem.h:344: warning: Member color_ (variable) of class CCMenuItemToggle is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCMotionStreak.h:50: warning: Member ribbon_ (variable) of class CCMotionStreak is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCMotionStreak.h:51: warning: Member segThreshold_ (variable) of class CCMotionStreak is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCMotionStreak.h:52: warning: Member width_ (variable) of class CCMotionStreak is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCMotionStreak.h:53: warning: Member lastLocation_ (variable) of class CCMotionStreak is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionInterval.h:164: warning: Member endPosition_ (variable) of class CCMoveTo is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionInterval.h:165: warning: Member startPosition_ (variable) of class CCMoveTo is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionInterval.h:166: warning: Member delta_ (variable) of class CCMoveTo is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCNode.h:446: warning: Member unscheduleUpdate() (function) of class CCNode is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCNode.h:102: warning: Member rotation_ (variable) of class CCNode is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCNode.h:105: warning: Member scaleX_ (variable) of class CCNode is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCNode.h:105: warning: Member scaleY_ (variable) of class CCNode is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCNode.h:108: warning: Member position_ (variable) of class CCNode is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCNode.h:109: warning: Member positionInPixels_ (variable) of class CCNode is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCNode.h:112: warning: Member skewX_ (variable) of class CCNode is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCNode.h:112: warning: Member skewY_ (variable) of class CCNode is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCNode.h:115: warning: Member visible_ (variable) of class CCNode is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCNode.h:118: warning: Member anchorPointInPixels_ (variable) of class CCNode is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCNode.h:120: warning: Member anchorPoint_ (variable) of class CCNode is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCNode.h:124: warning: Member isRelativeAnchorPoint_ (variable) of class CCNode is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCNode.h:127: warning: Member contentSize_ (variable) of class CCNode is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCNode.h:128: warning: Member contentSizeInPixels_ (variable) of class CCNode is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCNode.h:131: warning: Member transform_ (variable) of class CCNode is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCNode.h:131: warning: Member inverse_ (variable) of class CCNode is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCNode.h:133: warning: Member transformGL_[16] (variable) of class CCNode is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCNode.h:137: warning: Member vertexZ_ (variable) of class CCNode is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCNode.h:140: warning: Member camera_ (variable) of class CCNode is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCNode.h:143: warning: Member grid_ (variable) of class CCNode is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCNode.h:146: warning: Member zOrder_ (variable) of class CCNode is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCNode.h:149: warning: Member children_ (variable) of class CCNode is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCNode.h:152: warning: Member parent_ (variable) of class CCNode is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCNode.h:155: warning: Member tag_ (variable) of class CCNode is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCNode.h:158: warning: Member userData_ (variable) of class CCNode is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCNode.h:161: warning: Member isRunning_ (variable) of class CCNode is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCNode.h:164: warning: Member isTransformDirty_ (variable) of class CCNode is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCNode.h:165: warning: Member isInverseDirty_ (variable) of class CCNode is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCNode.h:167: warning: Member isTransformGLDirty_ (variable) of class CCNode is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionCamera.h:56: warning: Member radius_ (variable) of class CCOrbitCamera is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionCamera.h:57: warning: Member deltaRadius_ (variable) of class CCOrbitCamera is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionCamera.h:58: warning: Member angleZ_ (variable) of class CCOrbitCamera is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionCamera.h:59: warning: Member deltaAngleZ_ (variable) of class CCOrbitCamera is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionCamera.h:60: warning: Member angleX_ (variable) of class CCOrbitCamera is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionCamera.h:61: warning: Member deltaAngleX_ (variable) of class CCOrbitCamera is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionCamera.h:63: warning: Member radZ_ (variable) of class CCOrbitCamera is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionCamera.h:64: warning: Member radDeltaZ_ (variable) of class CCOrbitCamera is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionCamera.h:65: warning: Member radX_ (variable) of class CCOrbitCamera is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionCamera.h:66: warning: Member radDeltaX_ (variable) of class CCOrbitCamera is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCParallaxNode.h:37: warning: Member parallaxArray_ (variable) of class CCParallaxNode is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCParallaxNode.h:38: warning: Member lastPosition (variable) of class CCParallaxNode is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCParticleSystem.h:177: warning: Member elapsed (variable) of class CCParticleSystem is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCParticleSystem.h:191: warning: Member emitterMode_ (variable) of class CCParticleSystem is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCParticleSystem.h:230: warning: Member mode (variable) of class CCParticleSystem is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCParticleSystem.h:266: warning: Member particles (variable) of class CCParticleSystem is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCParticleSystem.h:277: warning: Member emitCounter (variable) of class CCParticleSystem is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCParticleSystem.h:280: warning: Member texture_ (variable) of class CCParticleSystem is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCParticleSystem.h:282: warning: Member blendFunc_ (variable) of class CCParticleSystem is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCParticleSystem.h:285: warning: Member positionType_ (variable) of class CCParticleSystem is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCParticleSystem.h:288: warning: Member autoRemoveOnFinish_ (variable) of class CCParticleSystem is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCParticleSystem.h:291: warning: Member particleIdx (variable) of class CCParticleSystem is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCParticleSystem.h:294: warning: Member updateParticleImp (variable) of class CCParticleSystem is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCParticleSystem.h:295: warning: Member updateParticleSel (variable) of class CCParticleSystem is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCParticleSystem.h:256: warning: Member startSpin (property) of class CCParticleSystem is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCParticleSystem.h:258: warning: Member startSpinVar (property) of class CCParticleSystem is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCParticleSystem.h:260: warning: Member endSpin (property) of class CCParticleSystem is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCParticleSystem.h:262: warning: Member endSpinVar (property) of class CCParticleSystem is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCParticleSystemPoint.h:50: warning: Member vertices (variable) of class CCParticleSystemPoint is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCParticleSystemQuad.h:51: warning: Member quads_ (variable) of class CCParticleSystemQuad is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCParticleSystemQuad.h:52: warning: Member indices_ (variable) of class CCParticleSystemQuad is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionInstant.h:87: warning: Member position (variable) of class CCPlace is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/ccTypes.h:162: warning: Member pos (variable) of class ccPointSprite is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/ccTypes.h:163: warning: Member color (variable) of class ccPointSprite is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/ccTypes.h:164: warning: Member size (variable) of class ccPointSprite is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Support/CCProfiling.h:39: warning: Member displayTimers() (function) of class CCProfiler is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Support/CCProfiling.h:36: warning: Member sharedProfiler() (function) of class CCProfiler is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Support/CCProfiling.h:37: warning: Member timerWithName:andInstance:(NSString *timerName,[andInstance] id instance) (function) of class CCProfiler is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Support/CCProfiling.h:38: warning: Member releaseTimer:(CCProfilingTimer *timer) (function) of class CCProfiler is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Support/CCProfiling.h:33: warning: Member activeTimers (variable) of class CCProfiler is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Support/CCProfiling.h:45: warning: Member name (variable) of class CCProfilingTimer is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Support/CCProfiling.h:46: warning: Member startTime (variable) of class CCProfilingTimer is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Support/CCProfiling.h:47: warning: Member averageTime (variable) of class CCProfilingTimer is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionProgressTimer.h:54: warning: Member to_ (variable) of class CCProgressFromTo is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionProgressTimer.h:55: warning: Member from_ (variable) of class CCProgressFromTo is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCProgressTimer.h:55: warning: Member type_ (variable) of class CCProgressTimer is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCProgressTimer.h:56: warning: Member percentage_ (variable) of class CCProgressTimer is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCProgressTimer.h:57: warning: Member sprite_ (variable) of class CCProgressTimer is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCProgressTimer.h:59: warning: Member vertexDataCount_ (variable) of class CCProgressTimer is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCProgressTimer.h:60: warning: Member vertexData_ (variable) of class CCProgressTimer is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionProgressTimer.h:38: warning: Member to_ (variable) of class CCProgressTo is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionProgressTimer.h:39: warning: Member from_ (variable) of class CCProgressTo is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTexturePVR.h:58: warning: Member address (variable) of class CCPVRMipmap is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTexturePVR.h:59: warning: Member len (variable) of class CCPVRMipmap is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/ccTypes.h:169: warning: Member tl (variable) of class ccQuad2 is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/ccTypes.h:170: warning: Member tr (variable) of class ccQuad2 is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/ccTypes.h:171: warning: Member bl (variable) of class ccQuad2 is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/ccTypes.h:172: warning: Member br (variable) of class ccQuad2 is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/ccTypes.h:178: warning: Member bl (variable) of class ccQuad3 is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/ccTypes.h:179: warning: Member br (variable) of class ccQuad3 is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/ccTypes.h:180: warning: Member tl (variable) of class ccQuad3 is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/ccTypes.h:181: warning: Member tr (variable) of class ccQuad3 is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCRenderTexture.h:100: warning: Member getUIImageAsDataFromBuffer:(int format) (function) of class CCRenderTexture is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCRenderTexture.h:102: warning: Member getUIImageFromBuffer() (function) of class CCRenderTexture is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCRenderTexture.h:56: warning: Member fbo_ (variable) of class CCRenderTexture is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCRenderTexture.h:57: warning: Member oldFBO_ (variable) of class CCRenderTexture is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCRenderTexture.h:58: warning: Member texture_ (variable) of class CCRenderTexture is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCRenderTexture.h:59: warning: Member sprite_ (variable) of class CCRenderTexture is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCRenderTexture.h:61: warning: Member pixelFormat_ (variable) of class CCRenderTexture is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionInterval.h:96: warning: Member times_ (variable) of class CCRepeat is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionInterval.h:97: warning: Member total_ (variable) of class CCRepeat is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionInterval.h:98: warning: Member innerAction_ (variable) of class CCRepeat is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCAction.h:119: warning: Member innerAction_ (variable) of class CCRepeatForever is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionGrid.h:159: warning: Member t_ (variable) of class CCReuseGrid is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionInterval.h:405: warning: Member other_ (variable) of class CCReverseTime is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCRibbon.h:50: warning: Member segments_ (variable) of class CCRibbon is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCRibbon.h:51: warning: Member deletedSegments_ (variable) of class CCRibbon is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCRibbon.h:53: warning: Member lastPoint1_ (variable) of class CCRibbon is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCRibbon.h:54: warning: Member lastPoint2_ (variable) of class CCRibbon is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCRibbon.h:55: warning: Member lastLocation_ (variable) of class CCRibbon is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCRibbon.h:56: warning: Member vertCount_ (variable) of class CCRibbon is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCRibbon.h:57: warning: Member texVPos_ (variable) of class CCRibbon is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCRibbon.h:58: warning: Member curTime_ (variable) of class CCRibbon is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCRibbon.h:59: warning: Member fadeTime_ (variable) of class CCRibbon is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCRibbon.h:60: warning: Member delta_ (variable) of class CCRibbon is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCRibbon.h:61: warning: Member lastWidth_ (variable) of class CCRibbon is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCRibbon.h:62: warning: Member lastSign_ (variable) of class CCRibbon is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCRibbon.h:63: warning: Member pastFirstPoint_ (variable) of class CCRibbon is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCRibbon.h:66: warning: Member texture_ (variable) of class CCRibbon is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCRibbon.h:69: warning: Member textureLength_ (variable) of class CCRibbon is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCRibbon.h:72: warning: Member color_ (variable) of class CCRibbon is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCRibbon.h:75: warning: Member blendFunc_ (variable) of class CCRibbon is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCRibbon.h:115: warning: Member init() (function) of class CCRibbonSegment is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCRibbon.h:116: warning: Member reset() (function) of class CCRibbonSegment is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCRibbon.h:117: warning: Member draw:fadeTime:color:(float curTime,[fadeTime] float fadeTime,[color] ccColor4B color) (function) of class CCRibbonSegment is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCRibbon.h:107: warning: Member verts[50 *6] (variable) of class CCRibbonSegment is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCRibbon.h:108: warning: Member coords[50 *4] (variable) of class CCRibbonSegment is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCRibbon.h:109: warning: Member colors[50 *8] (variable) of class CCRibbonSegment is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCRibbon.h:110: warning: Member creationTime[50] (variable) of class CCRibbonSegment is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCRibbon.h:111: warning: Member finished (variable) of class CCRibbonSegment is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCRibbon.h:112: warning: Member end (variable) of class CCRibbonSegment is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCRibbon.h:113: warning: Member begin (variable) of class CCRibbonSegment is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionGrid3D.h:99: warning: Member position_ (variable) of class CCRipple3D is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionGrid3D.h:100: warning: Member positionInPixels_ (variable) of class CCRipple3D is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionGrid3D.h:101: warning: Member radius_ (variable) of class CCRipple3D is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionGrid3D.h:102: warning: Member waves_ (variable) of class CCRipple3D is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionGrid3D.h:103: warning: Member amplitude_ (variable) of class CCRipple3D is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionGrid3D.h:104: warning: Member amplitudeRate_ (variable) of class CCRipple3D is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionInterval.h:150: warning: Member angle_ (variable) of class CCRotateBy is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionInterval.h:151: warning: Member startAngle_ (variable) of class CCRotateBy is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionInterval.h:135: warning: Member dstAngle_ (variable) of class CCRotateTo is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionInterval.h:136: warning: Member startAngle_ (variable) of class CCRotateTo is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionInterval.h:137: warning: Member diffAngle_ (variable) of class CCRotateTo is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionInterval.h:283: warning: Member scaleX_ (variable) of class CCScaleTo is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionInterval.h:284: warning: Member scaleY_ (variable) of class CCScaleTo is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionInterval.h:285: warning: Member startScaleX_ (variable) of class CCScaleTo is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionInterval.h:286: warning: Member startScaleY_ (variable) of class CCScaleTo is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionInterval.h:287: warning: Member endScaleX_ (variable) of class CCScaleTo is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionInterval.h:288: warning: Member endScaleY_ (variable) of class CCScaleTo is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionInterval.h:289: warning: Member deltaX_ (variable) of class CCScaleTo is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionInterval.h:290: warning: Member deltaY_ (variable) of class CCScaleTo is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCScheduler.h:97: warning: Member timeScale_ (variable) of class CCScheduler is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCScheduler.h:102: warning: Member updatesNeg (variable) of class CCScheduler is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCScheduler.h:103: warning: Member updates0 (variable) of class CCScheduler is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCScheduler.h:104: warning: Member updatesPos (variable) of class CCScheduler is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCScheduler.h:105: warning: Member hashForUpdates (variable) of class CCScheduler is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCScheduler.h:108: warning: Member hashForSelectors (variable) of class CCScheduler is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCScheduler.h:109: warning: Member currentTarget (variable) of class CCScheduler is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCScheduler.h:110: warning: Member currentTargetSalvaged (variable) of class CCScheduler is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCScheduler.h:113: warning: Member impMethod (variable) of class CCScheduler is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCScheduler.h:114: warning: Member updateSelector (variable) of class CCScheduler is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCScheduler.h:116: warning: Member updateHashLocked (variable) of class CCScheduler is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionInterval.h:75: warning: Member actions_[2] (variable) of class CCSequence is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionInterval.h:76: warning: Member split_ (variable) of class CCSequence is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionInterval.h:77: warning: Member last_ (variable) of class CCSequence is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionGrid3D.h:126: warning: Member randrange (variable) of class CCShaky3D is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionGrid3D.h:127: warning: Member shakeZ (variable) of class CCShaky3D is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionTiledGrid.h:31: warning: Member randrange (variable) of class CCShakyTiles3D is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionTiledGrid.h:32: warning: Member shakeZ (variable) of class CCShakyTiles3D is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionTiledGrid.h:47: warning: Member randrange (variable) of class CCShatteredTiles3D is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionTiledGrid.h:48: warning: Member once (variable) of class CCShatteredTiles3D is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionTiledGrid.h:49: warning: Member shatterZ (variable) of class CCShatteredTiles3D is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionTiledGrid.h:66: warning: Member seed (variable) of class CCShuffleTiles is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionTiledGrid.h:67: warning: Member tilesCount (variable) of class CCShuffleTiles is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionTiledGrid.h:68: warning: Member tilesOrder (variable) of class CCShuffleTiles is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionTiledGrid.h:69: warning: Member tiles (variable) of class CCShuffleTiles is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionInterval.h:194: warning: Member skewX_ (variable) of class CCSkewTo is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionInterval.h:195: warning: Member skewY_ (variable) of class CCSkewTo is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionInterval.h:196: warning: Member startSkewX_ (variable) of class CCSkewTo is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionInterval.h:197: warning: Member startSkewY_ (variable) of class CCSkewTo is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionInterval.h:198: warning: Member endSkewX_ (variable) of class CCSkewTo is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionInterval.h:199: warning: Member endSkewY_ (variable) of class CCSkewTo is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionInterval.h:200: warning: Member deltaX_ (variable) of class CCSkewTo is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionInterval.h:201: warning: Member deltaY_ (variable) of class CCSkewTo is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionInterval.h:115: warning: Member one_ (variable) of class CCSpawn is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionInterval.h:116: warning: Member two_ (variable) of class CCSpawn is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCAction.h:138: warning: Member innerAction_ (variable) of class CCSpeed is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCAction.h:139: warning: Member speed_ (variable) of class CCSpeed is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionTiledGrid.h:203: warning: Member cols (variable) of class CCSplitCols is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionTiledGrid.h:204: warning: Member winSize (variable) of class CCSplitCols is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionTiledGrid.h:188: warning: Member rows (variable) of class CCSplitRows is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionTiledGrid.h:189: warning: Member winSize (variable) of class CCSplitRows is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCSprite.h:135: warning: Member updateMethod)(id, SEL) (variable) of class CCSprite is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCSprite.h:90: warning: Member textureAtlas_ (variable) of class CCSprite is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCSprite.h:91: warning: Member atlasIndex_ (variable) of class CCSprite is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCSprite.h:92: warning: Member batchNode_ (variable) of class CCSprite is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCSprite.h:93: warning: Member honorParentTransform_ (variable) of class CCSprite is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCSprite.h:94: warning: Member dirty_ (variable) of class CCSprite is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCSprite.h:95: warning: Member recursiveDirty_ (variable) of class CCSprite is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCSprite.h:96: warning: Member hasChildren_ (variable) of class CCSprite is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCSprite.h:101: warning: Member blendFunc_ (variable) of class CCSprite is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCSprite.h:102: warning: Member texture_ (variable) of class CCSprite is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCSprite.h:109: warning: Member usesBatchNode_ (variable) of class CCSprite is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCSprite.h:112: warning: Member rect_ (variable) of class CCSprite is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCSprite.h:113: warning: Member rectInPixels_ (variable) of class CCSprite is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCSprite.h:114: warning: Member rectRotated_ (variable) of class CCSprite is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCSprite.h:117: warning: Member offsetPositionInPixels_ (variable) of class CCSprite is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCSprite.h:118: warning: Member unflippedOffsetPositionFromCenter_ (variable) of class CCSprite is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCSprite.h:121: warning: Member quad_ (variable) of class CCSprite is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCSprite.h:124: warning: Member opacity_ (variable) of class CCSprite is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCSprite.h:125: warning: Member color_ (variable) of class CCSprite is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCSprite.h:126: warning: Member colorUnmodified_ (variable) of class CCSprite is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCSprite.h:127: warning: Member opacityModifyRGB_ (variable) of class CCSprite is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCSprite.h:130: warning: Member flipX_ (variable) of class CCSprite is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCSprite.h:131: warning: Member flipY_ (variable) of class CCSprite is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCSpriteBatchNode.h:105: warning: Member increaseAtlasCapacity() (function) of class CCSpriteBatchNode is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCSpriteBatchNode.h:117: warning: Member insertChild:inAtlasAtIndex:(CCSprite *child,[inAtlasAtIndex] NSUInteger index) (function) of class CCSpriteBatchNode is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCSpriteBatchNode.h:118: warning: Member removeSpriteFromAtlas:(CCSprite *sprite) (function) of class CCSpriteBatchNode is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCSpriteBatchNode.h:120: warning: Member rebuildIndexInOrder:atlasIndex:(CCSprite *parent,[atlasIndex] NSUInteger index) (function) of class CCSpriteBatchNode is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCSpriteBatchNode.h:121: warning: Member atlasIndexForChild:atZ:(CCSprite *sprite,[atZ] NSInteger z) (function) of class CCSpriteBatchNode is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCSpriteBatchNode.h:57: warning: Member textureAtlas_ (variable) of class CCSpriteBatchNode is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCSpriteBatchNode.h:58: warning: Member blendFunc_ (variable) of class CCSpriteBatchNode is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCSpriteBatchNode.h:61: warning: Member descendants_ (variable) of class CCSpriteBatchNode is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCSpriteFrame.h:44: warning: Member rect_ (variable) of class CCSpriteFrame is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCSpriteFrame.h:45: warning: Member rectInPixels_ (variable) of class CCSpriteFrame is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCSpriteFrame.h:46: warning: Member rotated_ (variable) of class CCSpriteFrame is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCSpriteFrame.h:47: warning: Member offsetInPixels_ (variable) of class CCSpriteFrame is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCSpriteFrame.h:48: warning: Member originalSizeInPixels_ (variable) of class CCSpriteFrame is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCSpriteFrame.h:49: warning: Member texture_ (variable) of class CCSpriteFrame is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCSpriteFrameCache.h:51: warning: Member spriteFrames_ (variable) of class CCSpriteFrameCache is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCSpriteFrameCache.h:52: warning: Member spriteFramesAliases_ (variable) of class CCSpriteFrameCache is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Platforms/iOS/CCTouchDelegateProtocol.h:69: warning: Member ccTouchesBegan:withEvent:(NSSet *touches,[withEvent] UIEvent *event) (function) of class CCStandardTouchDelegate-p is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Platforms/iOS/CCTouchDelegateProtocol.h:70: warning: Member ccTouchesMoved:withEvent:(NSSet *touches,[withEvent] UIEvent *event) (function) of class CCStandardTouchDelegate-p is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Platforms/iOS/CCTouchDelegateProtocol.h:71: warning: Member ccTouchesEnded:withEvent:(NSSet *touches,[withEvent] UIEvent *event) (function) of class CCStandardTouchDelegate-p is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Platforms/iOS/CCTouchDelegateProtocol.h:72: warning: Member ccTouchesCancelled:withEvent:(NSSet *touches,[withEvent] UIEvent *event) (function) of class CCStandardTouchDelegate-p is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Platforms/iOS/CCTouchDelegateProtocol.h:56: warning: Member ccTouchMoved:withEvent:(UITouch *touch,[withEvent] UIEvent *event) (function) of class CCTargetedTouchDelegate-p is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Platforms/iOS/CCTouchDelegateProtocol.h:57: warning: Member ccTouchEnded:withEvent:(UITouch *touch,[withEvent] UIEvent *event) (function) of class CCTargetedTouchDelegate-p is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Platforms/iOS/CCTouchDelegateProtocol.h:58: warning: Member ccTouchCancelled:withEvent:(UITouch *touch,[withEvent] UIEvent *event) (function) of class CCTargetedTouchDelegate-p is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/ccTypes.h:154: warning: Member u (variable) of class ccTex2F is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/ccTypes.h:155: warning: Member v (variable) of class ccTex2F is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTexture2D.h:256: warning: Member minFilter (variable) of class ccTexParams is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTexture2D.h:257: warning: Member magFilter (variable) of class ccTexParams is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTexture2D.h:258: warning: Member wrapS (variable) of class ccTexParams is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTexture2D.h:259: warning: Member wrapT (variable) of class ccTexParams is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTexture2D.h:138: warning: Member keepData:length:(void *data,[length] NSUInteger length) (function) of class CCTexture2D is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTexture2D.h:124: warning: Member name_ (variable) of class CCTexture2D is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTexture2D.h:125: warning: Member size_ (variable) of class CCTexture2D is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTexture2D.h:126: warning: Member width_ (variable) of class CCTexture2D is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTexture2D.h:127: warning: Member height_ (variable) of class CCTexture2D is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTexture2D.h:128: warning: Member format_ (variable) of class CCTexture2D is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTexture2D.h:129: warning: Member maxS_ (variable) of class CCTexture2D is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTexture2D.h:130: warning: Member maxT_ (variable) of class CCTexture2D is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTexture2D.h:131: warning: Member hasPremultipliedAlpha_ (variable) of class CCTexture2D is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTextureAtlas.h:45: warning: Member totalQuads_ (variable) of class CCTextureAtlas is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTextureAtlas.h:46: warning: Member capacity_ (variable) of class CCTextureAtlas is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTextureAtlas.h:47: warning: Member quads_ (variable) of class CCTextureAtlas is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTextureAtlas.h:48: warning: Member indices_ (variable) of class CCTextureAtlas is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTextureAtlas.h:49: warning: Member texture_ (variable) of class CCTextureAtlas is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTextureCache.h:43: warning: Member textures_ (variable) of class CCTextureCache is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTextureCache.h:44: warning: Member dictLock_ (variable) of class CCTextureCache is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTextureCache.h:45: warning: Member contextLock_ (variable) of class CCTextureCache is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTexturePVR.h:90: warning: Member mipmaps_[CC_PVRMIPMAP_MAX] (variable) of class CCTexturePVR is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTexturePVR.h:91: warning: Member numberOfMipmaps_ (variable) of class CCTexturePVR is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTexturePVR.h:93: warning: Member tableFormatIndex_ (variable) of class CCTexturePVR is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTexturePVR.h:94: warning: Member width_ (variable) of class CCTexturePVR is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTexturePVR.h:94: warning: Member height_ (variable) of class CCTexturePVR is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTexturePVR.h:95: warning: Member name_ (variable) of class CCTexturePVR is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTexturePVR.h:96: warning: Member hasAlpha_ (variable) of class CCTexturePVR is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTexturePVR.h:99: warning: Member retainName_ (variable) of class CCTexturePVR is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTexturePVR.h:100: warning: Member format_ (variable) of class CCTexturePVR is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTexturePVR.h:122: warning: Member retainName (property) of class CCTexturePVR is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTexturePVR.h:123: warning: Member format (property) of class CCTexturePVR is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCGrid.h:108: warning: Member texCoordinates (variable) of class CCTiledGrid3D is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCGrid.h:109: warning: Member vertices (variable) of class CCTiledGrid3D is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCGrid.h:110: warning: Member originalVertices (variable) of class CCTiledGrid3D is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCGrid.h:111: warning: Member indices (variable) of class CCTiledGrid3D is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCScheduler.h:46: warning: Member selector (variable) of class CCTimer is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCScheduler.h:39: warning: Member target (variable) of class CCTimer is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCScheduler.h:40: warning: Member impMethod (variable) of class CCTimer is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCScheduler.h:42: warning: Member elapsed (variable) of class CCTimer is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionInterval.h:378: warning: Member deltaR_ (variable) of class CCTintBy is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionInterval.h:378: warning: Member deltaG_ (variable) of class CCTintBy is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionInterval.h:378: warning: Member deltaB_ (variable) of class CCTintBy is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionInterval.h:379: warning: Member fromR_ (variable) of class CCTintBy is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionInterval.h:379: warning: Member fromG_ (variable) of class CCTintBy is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionInterval.h:379: warning: Member fromB_ (variable) of class CCTintBy is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionInterval.h:363: warning: Member to_ (variable) of class CCTintTo is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionInterval.h:364: warning: Member from_ (variable) of class CCTintTo is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTMXLayer.h:67: warning: Member tileset_ (variable) of class CCTMXLayer is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTMXLayer.h:68: warning: Member layerName_ (variable) of class CCTMXLayer is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTMXLayer.h:69: warning: Member layerSize_ (variable) of class CCTMXLayer is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTMXLayer.h:70: warning: Member mapTileSize_ (variable) of class CCTMXLayer is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTMXLayer.h:71: warning: Member tiles_ (variable) of class CCTMXLayer is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTMXLayer.h:72: warning: Member layerOrientation_ (variable) of class CCTMXLayer is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTMXLayer.h:73: warning: Member properties_ (variable) of class CCTMXLayer is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTMXLayer.h:75: warning: Member opacity_ (variable) of class CCTMXLayer is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTMXLayer.h:77: warning: Member minGID_ (variable) of class CCTMXLayer is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTMXLayer.h:78: warning: Member maxGID_ (variable) of class CCTMXLayer is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTMXLayer.h:81: warning: Member vertexZvalue_ (variable) of class CCTMXLayer is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTMXLayer.h:82: warning: Member useAutomaticVertexZ_ (variable) of class CCTMXLayer is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTMXLayer.h:83: warning: Member alphaFuncValue_ (variable) of class CCTMXLayer is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTMXLayer.h:86: warning: Member reusedTile_ (variable) of class CCTMXLayer is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTMXLayer.h:87: warning: Member atlasIndexArray_ (variable) of class CCTMXLayer is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTMXXMLParser.h:69: warning: Member name_ (variable) of class CCTMXLayerInfo is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTMXXMLParser.h:70: warning: Member layerSize_ (variable) of class CCTMXLayerInfo is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTMXXMLParser.h:71: warning: Member tiles_ (variable) of class CCTMXLayerInfo is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTMXXMLParser.h:72: warning: Member visible_ (variable) of class CCTMXLayerInfo is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTMXXMLParser.h:73: warning: Member opacity_ (variable) of class CCTMXLayerInfo is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTMXXMLParser.h:74: warning: Member ownTiles_ (variable) of class CCTMXLayerInfo is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTMXXMLParser.h:75: warning: Member minGID_ (variable) of class CCTMXLayerInfo is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTMXXMLParser.h:76: warning: Member maxGID_ (variable) of class CCTMXLayerInfo is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTMXXMLParser.h:77: warning: Member properties_ (variable) of class CCTMXLayerInfo is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTMXXMLParser.h:78: warning: Member offset_ (variable) of class CCTMXLayerInfo is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTMXXMLParser.h:81: warning: Member name (property) of class CCTMXLayerInfo is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTMXXMLParser.h:82: warning: Member layerSize (property) of class CCTMXLayerInfo is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTMXXMLParser.h:83: warning: Member tiles (property) of class CCTMXLayerInfo is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTMXXMLParser.h:84: warning: Member visible (property) of class CCTMXLayerInfo is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTMXXMLParser.h:85: warning: Member opacity (property) of class CCTMXLayerInfo is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTMXXMLParser.h:86: warning: Member ownTiles (property) of class CCTMXLayerInfo is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTMXXMLParser.h:87: warning: Member minGID (property) of class CCTMXLayerInfo is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTMXXMLParser.h:88: warning: Member maxGID (property) of class CCTMXLayerInfo is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTMXXMLParser.h:89: warning: Member properties (property) of class CCTMXLayerInfo is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTMXXMLParser.h:90: warning: Member offset (property) of class CCTMXLayerInfo is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTMXXMLParser.h:152: warning: Member currentString (variable) of class CCTMXMapInfo is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTMXXMLParser.h:153: warning: Member storingCharacters (variable) of class CCTMXMapInfo is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTMXXMLParser.h:154: warning: Member layerAttribs (variable) of class CCTMXMapInfo is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTMXXMLParser.h:155: warning: Member parentElement (variable) of class CCTMXMapInfo is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTMXXMLParser.h:156: warning: Member parentGID_ (variable) of class CCTMXMapInfo is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTMXXMLParser.h:160: warning: Member filename_ (variable) of class CCTMXMapInfo is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTMXXMLParser.h:163: warning: Member orientation_ (variable) of class CCTMXMapInfo is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTMXXMLParser.h:166: warning: Member mapSize_ (variable) of class CCTMXMapInfo is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTMXXMLParser.h:169: warning: Member tileSize_ (variable) of class CCTMXMapInfo is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTMXXMLParser.h:172: warning: Member layers_ (variable) of class CCTMXMapInfo is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTMXXMLParser.h:175: warning: Member tilesets_ (variable) of class CCTMXMapInfo is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTMXXMLParser.h:178: warning: Member objectGroups_ (variable) of class CCTMXMapInfo is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTMXXMLParser.h:181: warning: Member properties_ (variable) of class CCTMXMapInfo is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTMXXMLParser.h:184: warning: Member tileProperties_ (variable) of class CCTMXMapInfo is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTMXXMLParser.h:187: warning: Member orientation (property) of class CCTMXMapInfo is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTMXXMLParser.h:188: warning: Member mapSize (property) of class CCTMXMapInfo is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTMXXMLParser.h:189: warning: Member tileSize (property) of class CCTMXMapInfo is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTMXXMLParser.h:190: warning: Member layers (property) of class CCTMXMapInfo is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTMXXMLParser.h:191: warning: Member tilesets (property) of class CCTMXMapInfo is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTMXXMLParser.h:192: warning: Member filename (property) of class CCTMXMapInfo is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTMXXMLParser.h:193: warning: Member objectGroups (property) of class CCTMXMapInfo is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTMXXMLParser.h:194: warning: Member properties (property) of class CCTMXMapInfo is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTMXXMLParser.h:195: warning: Member tileProperties (property) of class CCTMXMapInfo is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTMXObjectGroup.h:44: warning: Member groupName_ (variable) of class CCTMXObjectGroup is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTMXObjectGroup.h:45: warning: Member positionOffset_ (variable) of class CCTMXObjectGroup is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTMXObjectGroup.h:46: warning: Member objects_ (variable) of class CCTMXObjectGroup is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTMXObjectGroup.h:47: warning: Member properties_ (variable) of class CCTMXObjectGroup is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTMXTiledMap.h:103: warning: Member mapSize_ (variable) of class CCTMXTiledMap is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTMXTiledMap.h:104: warning: Member tileSize_ (variable) of class CCTMXTiledMap is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTMXTiledMap.h:105: warning: Member mapOrientation_ (variable) of class CCTMXTiledMap is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTMXTiledMap.h:106: warning: Member objectGroups_ (variable) of class CCTMXTiledMap is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTMXTiledMap.h:107: warning: Member properties_ (variable) of class CCTMXTiledMap is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTMXTiledMap.h:108: warning: Member tileProperties_ (variable) of class CCTMXTiledMap is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTMXXMLParser.h:125: warning: Member rectForGID:(unsigned int gid) (function) of class CCTMXTilesetInfo is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTMXXMLParser.h:106: warning: Member firstGid_ (variable) of class CCTMXTilesetInfo is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTMXXMLParser.h:107: warning: Member tileSize_ (variable) of class CCTMXTilesetInfo is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTMXXMLParser.h:108: warning: Member spacing_ (variable) of class CCTMXTilesetInfo is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTMXXMLParser.h:109: warning: Member margin_ (variable) of class CCTMXTilesetInfo is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTMXXMLParser.h:112: warning: Member sourceImage_ (variable) of class CCTMXTilesetInfo is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTMXXMLParser.h:115: warning: Member imageSize_ (variable) of class CCTMXTilesetInfo is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTMXXMLParser.h:105: warning: Member name_ (property) of class CCTMXTilesetInfo is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTMXXMLParser.h:117: warning: Member name (property) of class CCTMXTilesetInfo is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTMXXMLParser.h:118: warning: Member firstGid (property) of class CCTMXTilesetInfo is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTMXXMLParser.h:119: warning: Member tileSize (property) of class CCTMXTilesetInfo is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTMXXMLParser.h:120: warning: Member spacing (property) of class CCTMXTilesetInfo is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTMXXMLParser.h:121: warning: Member margin (property) of class CCTMXTilesetInfo is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTMXXMLParser.h:122: warning: Member sourceImage (property) of class CCTMXTilesetInfo is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTMXXMLParser.h:123: warning: Member imageSize (property) of class CCTMXTilesetInfo is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Platforms/iOS/CCTouchDispatcher.h:121: warning: Member sortByPriority(id first, id second, void *context) (function) of class CCTouchDispatcher is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Platforms/iOS/CCTouchDispatcher.h:79: warning: Member targetedHandlers (variable) of class CCTouchDispatcher is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Platforms/iOS/CCTouchDispatcher.h:80: warning: Member standardHandlers (variable) of class CCTouchDispatcher is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Platforms/iOS/CCTouchDispatcher.h:82: warning: Member locked (variable) of class CCTouchDispatcher is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Platforms/iOS/CCTouchDispatcher.h:83: warning: Member toAdd (variable) of class CCTouchDispatcher is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Platforms/iOS/CCTouchDispatcher.h:84: warning: Member toRemove (variable) of class CCTouchDispatcher is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Platforms/iOS/CCTouchDispatcher.h:85: warning: Member handlersToAdd (variable) of class CCTouchDispatcher is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Platforms/iOS/CCTouchDispatcher.h:86: warning: Member handlersToRemove (variable) of class CCTouchDispatcher is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Platforms/iOS/CCTouchDispatcher.h:87: warning: Member toQuit (variable) of class CCTouchDispatcher is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Platforms/iOS/CCTouchDispatcher.h:92: warning: Member handlerHelperData[kCCTouchMax] (variable) of class CCTouchDispatcher is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Platforms/iOS/CCTouchHandler.h:48: warning: Member enabledSelectors_ (variable) of class CCTouchHandler is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Platforms/iOS/CCTouchDispatcher.h:55: warning: Member touchesSel (variable) of class ccTouchHandlerHelperData is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Platforms/iOS/CCTouchDispatcher.h:56: warning: Member touchSel (variable) of class ccTouchHandlerHelperData is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Platforms/iOS/CCTouchDispatcher.h:57: warning: Member type (variable) of class ccTouchHandlerHelperData is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTransition.h:230: warning: Member color (variable) of class CCTransitionFade is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTransition.h:280: warning: Member actionWithSize:(ccGridSize vector) (function) of class CCTransitionFadeTR is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTransitionPageTurn.h:58: warning: Member actionWithSize:(ccGridSize vector) (function) of class CCTransitionPageTurn is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTransitionPageTurn.h:42: warning: Member back_ (variable) of class CCTransitionPageTurn is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTransition.h:59: warning: Member inScene_ (variable) of class CCTransitionScene is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTransition.h:60: warning: Member outScene_ (variable) of class CCTransitionScene is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTransition.h:61: warning: Member duration_ (variable) of class CCTransitionScene is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTransition.h:62: warning: Member inSceneOnTop_ (variable) of class CCTransitionScene is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTransition.h:63: warning: Member sendCleanupToScene_ (variable) of class CCTransitionScene is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTransition.h:80: warning: Member orientation (variable) of class CCTransitionSceneOriented is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCTransition.h:264: warning: Member action() (function) of class CCTransitionSplitCols is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionTiledGrid.h:126: warning: Member seed (variable) of class CCTurnOffTiles is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionTiledGrid.h:127: warning: Member tilesCount (variable) of class CCTurnOffTiles is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionTiledGrid.h:128: warning: Member tilesOrder (variable) of class CCTurnOffTiles is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionGrid3D.h:189: warning: Member position_ (variable) of class CCTwirl is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionGrid3D.h:190: warning: Member positionInPixels_ (variable) of class CCTwirl is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionGrid3D.h:191: warning: Member twirls_ (variable) of class CCTwirl is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionGrid3D.h:192: warning: Member amplitude_ (variable) of class CCTwirl is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionGrid3D.h:193: warning: Member amplitudeRate_ (variable) of class CCTwirl is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/ccTypes.h:233: warning: Member texCoords (variable) of class ccV3F_C4B_T2F is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/ccTypes.h:136: warning: Member x (variable) of class ccVertex2F is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/ccTypes.h:137: warning: Member y (variable) of class ccVertex2F is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/ccTypes.h:145: warning: Member x (variable) of class ccVertex3F is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/ccTypes.h:146: warning: Member y (variable) of class ccVertex3F is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/ccTypes.h:147: warning: Member z (variable) of class ccVertex3F is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionGrid3D.h:165: warning: Member waves (variable) of class CCWaves is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionGrid3D.h:168: warning: Member vertical (variable) of class CCWaves is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionGrid3D.h:169: warning: Member horizontal (variable) of class CCWaves is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionGrid3D.h:43: warning: Member initWithWaves:amplitude:grid:duration:(int wav,[amplitude] float amp,[grid] ccGridSize gridSize,[duration] ccTime d) (function) of class CCWaves3D is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionGrid3D.h:42: warning: Member actionWithWaves:amplitude:grid:duration:(int wav,[amplitude] float amp,[grid] ccGridSize gridSize,[duration] ccTime d) (function) of class CCWaves3D is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionGrid3D.h:32: warning: Member waves (variable) of class CCWaves3D is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionTiledGrid.h:142: warning: Member waves (variable) of class CCWavesTiles3D is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Support/ZipUtils.h:28: warning: Member sig[4] (variable) of class CCZHeader is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Support/ZipUtils.h:29: warning: Member compression_type (variable) of class CCZHeader is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Support/ZipUtils.h:30: warning: Member version (variable) of class CCZHeader is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Support/ZipUtils.h:31: warning: Member reserved (variable) of class CCZHeader is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Support/ZipUtils.h:32: warning: Member len (variable) of class CCZHeader is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Platforms/iOS/EAGLView.h:85: warning: Member touchesBegan:withEvent:(NSSet *touches,[withEvent] UIEvent *event) (function) of class EAGLTouchDelegate-p is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Platforms/iOS/EAGLView.h:86: warning: Member touchesEnded:withEvent:(NSSet *touches,[withEvent] UIEvent *event) (function) of class EAGLTouchDelegate-p is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Platforms/iOS/EAGLView.h:87: warning: Member touchesMoved:withEvent:(NSSet *touches,[withEvent] UIEvent *event) (function) of class EAGLTouchDelegate-p is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Platforms/iOS/EAGLView.h:88: warning: Member touchesCancelled:withEvent:(NSSet *touches,[withEvent] UIEvent *event) (function) of class EAGLTouchDelegate-p is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Platforms/iOS/EAGLView.h:151: warning: Member convertPointFromViewToSurface:(CGPoint point) (function) of class EAGLView is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Platforms/iOS/EAGLView.h:152: warning: Member convertRectFromViewToSurface:(CGRect rect) (function) of class EAGLView is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Platforms/iOS/EAGLView.h:100: warning: Member renderer_ (variable) of class EAGLView is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Platforms/iOS/EAGLView.h:101: warning: Member context_ (variable) of class EAGLView is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Platforms/iOS/EAGLView.h:103: warning: Member pixelformat_ (variable) of class EAGLView is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Platforms/iOS/EAGLView.h:104: warning: Member depthFormat_ (variable) of class EAGLView is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Platforms/iOS/EAGLView.h:105: warning: Member preserveBackbuffer_ (variable) of class EAGLView is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Platforms/iOS/EAGLView.h:107: warning: Member size_ (variable) of class EAGLView is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Platforms/iOS/EAGLView.h:108: warning: Member discardFramebufferSupported_ (variable) of class EAGLView is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Platforms/iOS/EAGLView.h:109: warning: Member touchDelegate_ (variable) of class EAGLView is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Platforms/iOS/EAGLView.h:112: warning: Member multisampling_ (variable) of class EAGLView is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Platforms/iOS/EAGLView.h:113: warning: Member requestedSamples_ (variable) of class EAGLView is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Platforms/iOS/EAGLView.h:143: warning: Member multiSampling (property) of class EAGLView is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Platforms/iOS/ES1Renderer.h:69: warning: Member resizeFromLayer:(CAEAGLLayer *layer) (function) of class ES1Renderer is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Platforms/iOS/ES1Renderer.h:44: warning: Member backingWidth_ (variable) of class ES1Renderer is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Platforms/iOS/ES1Renderer.h:45: warning: Member backingHeight_ (variable) of class ES1Renderer is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Platforms/iOS/ES1Renderer.h:47: warning: Member samplesToUse_ (variable) of class ES1Renderer is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Platforms/iOS/ES1Renderer.h:48: warning: Member multiSampling_ (variable) of class ES1Renderer is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Platforms/iOS/ES1Renderer.h:50: warning: Member depthFormat_ (variable) of class ES1Renderer is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Platforms/iOS/ES1Renderer.h:51: warning: Member pixelFormat_ (variable) of class ES1Renderer is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Platforms/iOS/ES1Renderer.h:54: warning: Member defaultFramebuffer_ (variable) of class ES1Renderer is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Platforms/iOS/ES1Renderer.h:55: warning: Member colorRenderbuffer_ (variable) of class ES1Renderer is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Platforms/iOS/ES1Renderer.h:56: warning: Member depthBuffer_ (variable) of class ES1Renderer is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Platforms/iOS/ES1Renderer.h:60: warning: Member msaaFramebuffer_ (variable) of class ES1Renderer is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Platforms/iOS/ES1Renderer.h:61: warning: Member msaaColorbuffer_ (variable) of class ES1Renderer is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Platforms/iOS/ES1Renderer.h:63: warning: Member context_ (variable) of class ES1Renderer is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Platforms/iOS/ESRenderer.h:41: warning: Member initWithDepthFormat:withPixelFormat:withSharegroup:withMultiSampling:withNumberOfSamples:(unsigned int depthFormat,[withPixelFormat] unsigned int pixelFormat,[withSharegroup] EAGLSharegroup *sharegroup,[withMultiSampling] BOOL multiSampling,[withNumberOfSamples] unsigned int requestedSamples) (function) of class ESRenderer-p is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Platforms/iOS/ESRenderer.h:43: warning: Member resizeFromLayer:(CAEAGLLayer *layer) (function) of class ESRenderer-p is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Platforms/iOS/ESRenderer.h:45: warning: Member context() (function) of class ESRenderer-p is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Platforms/iOS/ESRenderer.h:46: warning: Member backingSize() (function) of class ESRenderer-p is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Platforms/iOS/ESRenderer.h:48: warning: Member colorRenderBuffer() (function) of class ESRenderer-p is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Platforms/iOS/ESRenderer.h:49: warning: Member defaultFrameBuffer() (function) of class ESRenderer-p is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Platforms/iOS/ESRenderer.h:50: warning: Member msaaFrameBuffer() (function) of class ESRenderer-p is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Platforms/iOS/ESRenderer.h:51: warning: Member msaaColorBuffer() (function) of class ESRenderer-p is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCParticleSystem.h:89: warning: Member pos (variable) of class tCCParticle is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCParticleSystem.h:90: warning: Member startPos (variable) of class tCCParticle is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCParticleSystem.h:92: warning: Member color (variable) of class tCCParticle is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCParticleSystem.h:93: warning: Member deltaColor (variable) of class tCCParticle is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCParticleSystem.h:95: warning: Member size (variable) of class tCCParticle is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCParticleSystem.h:96: warning: Member deltaSize (variable) of class tCCParticle is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCParticleSystem.h:98: warning: Member rotation (variable) of class tCCParticle is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCParticleSystem.h:99: warning: Member deltaRotation (variable) of class tCCParticle is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCParticleSystem.h:101: warning: Member timeToLive (variable) of class tCCParticle is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCParticleSystem.h:118: warning: Member mode (variable) of class tCCParticle is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionManager.h:38: warning: Member actions (variable) of class tHashElement is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionManager.h:39: warning: Member target (variable) of class tHashElement is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionManager.h:40: warning: Member actionIndex (variable) of class tHashElement is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionManager.h:41: warning: Member currentAction (variable) of class tHashElement is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionManager.h:42: warning: Member currentActionSalvaged (variable) of class tHashElement is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionManager.h:43: warning: Member paused (variable) of class tHashElement is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCActionManager.h:44: warning: Member hh (variable) of class tHashElement is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Support/TGAlib.h:26: warning: Member status (variable) of class tImageTGA is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Support/TGAlib.h:27: warning: Member type (variable) of class tImageTGA is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Support/TGAlib.h:27: warning: Member pixelDepth (variable) of class tImageTGA is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Support/TGAlib.h:37: warning: Member flipped (variable) of class tImageTGA is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Support/uthash.h:905: warning: Member hh_head (variable) of class UT_hash_bucket is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Support/uthash.h:906: warning: Member count (variable) of class UT_hash_bucket is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Support/uthash.h:920: warning: Member expand_mult (variable) of class UT_hash_bucket is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Support/uthash.h:962: warning: Member tbl (variable) of class UT_hash_handle is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Support/uthash.h:963: warning: Member prev (variable) of class UT_hash_handle is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Support/uthash.h:964: warning: Member next (variable) of class UT_hash_handle is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Support/uthash.h:965: warning: Member hh_prev (variable) of class UT_hash_handle is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Support/uthash.h:966: warning: Member hh_next (variable) of class UT_hash_handle is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Support/uthash.h:967: warning: Member key (variable) of class UT_hash_handle is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Support/uthash.h:968: warning: Member keylen (variable) of class UT_hash_handle is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Support/uthash.h:969: warning: Member hashv (variable) of class UT_hash_handle is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Support/uthash.h:929: warning: Member buckets (variable) of class UT_hash_table is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Support/uthash.h:930: warning: Member num_buckets (variable) of class UT_hash_table is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Support/uthash.h:930: warning: Member log2_num_buckets (variable) of class UT_hash_table is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Support/uthash.h:931: warning: Member num_items (variable) of class UT_hash_table is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Support/uthash.h:932: warning: Member tail (variable) of class UT_hash_table is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Support/uthash.h:933: warning: Member hho (variable) of class UT_hash_table is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Support/uthash.h:937: warning: Member ideal_chain_maxlen (variable) of class UT_hash_table is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Support/uthash.h:942: warning: Member nonideal_items (variable) of class UT_hash_table is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Support/uthash.h:950: warning: Member ineff_expands (variable) of class UT_hash_table is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Support/uthash.h:950: warning: Member noexpand (variable) of class UT_hash_table is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Support/uthash.h:952: warning: Member signature (variable) of class UT_hash_table is not documented.

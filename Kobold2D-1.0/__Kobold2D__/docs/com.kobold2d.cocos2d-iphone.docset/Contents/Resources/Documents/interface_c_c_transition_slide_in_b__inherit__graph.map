@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$interface_c_c_transition_slide_in_l.html" title="CCTransitionSlideInL" alt="" coords="82,238,221,266"/>
+<area shape="rect" id="node4" href="$interface_c_c_transition_scene.html" title="CCTransitionScene" alt="" coords="5,161,131,189"/>
+<area shape="rect" id="node6" href="$interface_c_c_scene.html" title="CCScene" alt="" coords="33,83,103,111"/>
+<area shape="rect" id="node8" href="$interface_c_c_node.html" title="CCNode" alt="" coords="34,6,101,34"/>
+<area shape="rect" id="node10" href="$protocol_c_c_transition_ease_scene-p.html" title="\&lt;CCTransitionEaseScene\&gt;" alt="" coords="154,161,320,189"/>
+</map>

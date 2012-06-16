@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node9" href="$interface_c_c_label_b_m_font.html" title="CCLabelBMFont" alt="" coords="5,238,120,266"/>
+<area shape="rect" id="node11" href="$interface_c_c_t_m_x_layer.html" title="CCTMXLayer" alt="" coords="143,238,243,266"/>
+<area shape="rect" id="node2" href="$interface_c_c_node.html" title="CCNode" alt="" coords="30,83,97,111"/>
+<area shape="rect" id="node4" href="$protocol_c_c_texture_protocol-p.html" title="\&lt;CCTextureProtocol\&gt;" alt="" coords="122,83,261,111"/>
+<area shape="rect" id="node6" href="$protocol_c_c_blend_protocol-p.html" title="\&lt;CCBlendProtocol\&gt;" alt="" coords="126,6,257,34"/>
+</map>

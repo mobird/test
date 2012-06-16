@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$protocol_a_l_sound_source-p.html" title="Manages all properties relating to an OpenAL sound source." alt="" coords="4,6,128,34"/>
+<area shape="rect" id="node4" href="$struct_a_l_vector.html" title="Represents a 3&#45;dimensional vector for certain ObjectAL properties." alt="" coords="153,6,228,34"/>
+<area shape="rect" id="node6" href="$struct_a_l_point.html" title="Represents a 3&#45;dimensional point for certain ObjectAL properties." alt="" coords="252,6,319,34"/>
+</map>

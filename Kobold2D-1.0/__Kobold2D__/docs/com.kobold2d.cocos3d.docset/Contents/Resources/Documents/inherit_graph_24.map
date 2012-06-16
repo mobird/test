@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" id="node1" href="$interface_c_c3_rotate_by_angle.html" title="CC3RotateByAngle is a CCActionInterval that rotates a target CC3Node by a specific amount..." alt="" coords="6,5,135,33"/>
+<area shape="rect" id="node3" href="$interface_c_c3_rotate_to_angle.html" title="CC3RotateToAngle is a CCActionInterval that rotates a target CC3Node to a specific rotationAngle..." alt="" coords="184,5,312,33"/>
+</map>

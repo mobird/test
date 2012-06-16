@@ -1,0 +1,18 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$interface_c_c_layer_color.html" title="CCLayerColor" alt="" coords="204,57,305,85"/>
+<area shape="rect" id="node7" href="$protocol_c_c_texture_protocol-p.html" title="\&lt;CCTextureProtocol\&gt;" alt="" coords="184,161,325,189"/>
+<area shape="rect" id="node5" href="$interface_c_c_layer_gradient.html" title="CCLayerGradient" alt="" coords="380,5,497,33"/>
+<area shape="rect" id="node9" href="$interface_c_c_atlas_node.html" title="CCAtlasNode" alt="" coords="391,57,487,85"/>
+<area shape="rect" id="node15" href="$interface_c_c_motion_streak.html" title="CCMotionStreak" alt="" coords="382,109,495,137"/>
+<area shape="rect" id="node17" href="$interface_c_c_particle_system.html" title="CCParticleSystem" alt="" coords="379,161,498,189"/>
+<area shape="rect" id="node23" href="$interface_c_c_ribbon.html" title="CCRibbon" alt="" coords="399,213,478,241"/>
+<area shape="rect" id="node25" href="$interface_c_c_sprite.html" title="CCSprite" alt="" coords="403,265,474,293"/>
+<area shape="rect" id="node29" href="$interface_c_c_sprite_batch_node.html" title="CCSpriteBatchNode" alt="" coords="373,317,504,345"/>
+<area shape="rect" id="node11" href="$interface_c_c_label_atlas.html" title="CCLabelAtlas" alt="" coords="578,31,675,59"/>
+<area shape="rect" id="node13" href="$interface_c_c_tile_map_atlas.html" title="CCTileMapAtlas" alt="" coords="570,83,683,111"/>
+<area shape="rect" id="node19" href="$interface_c_c_particle_system_quad.html" title="CCParticleSystemQuad" alt="" coords="553,161,701,189"/>
+<area shape="rect" id="node21" href="$interface_c_c_particle_system_point.html" title="CCParticleSystemPoint" alt="" coords="749,161,896,189"/>
+<area shape="rect" id="node27" href="$interface_c_c_label_t_t_f.html" title="CCLabelTTF" alt="" coords="580,265,673,293"/>
+<area shape="rect" id="node31" href="$interface_c_c_label_b_m_font.html" title="CCLabelBMFont" alt="" coords="569,317,684,345"/>
+<area shape="rect" id="node33" href="$interface_c_c_t_m_x_layer.html" title="CCTMXLayer" alt="" coords="577,369,677,397"/>
+</map>

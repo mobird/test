@@ -1,0 +1,11 @@
+<map id="G" name="G">
+<area shape="rect" id="node9" href="$interface_c_c_transition_flip_angular.html" title="CCTransitionFlipAngular" alt="" coords="654,5,813,33"/>
+<area shape="rect" id="node11" href="$interface_c_c_transition_flip_x.html" title="CCTransitionFlipX" alt="" coords="671,57,796,85"/>
+<area shape="rect" id="node13" href="$interface_c_c_transition_flip_y.html" title="CCTransitionFlipY" alt="" coords="671,109,796,137"/>
+<area shape="rect" id="node15" href="$interface_c_c_transition_zoom_flip_angular.html" title="CCTransitionZoomFlipAngular" alt="" coords="638,161,829,189"/>
+<area shape="rect" id="node17" href="$interface_c_c_transition_zoom_flip_x.html" title="CCTransitionZoomFlipX" alt="" coords="655,213,812,241"/>
+<area shape="rect" id="node19" href="$interface_c_c_transition_zoom_flip_y.html" title="CCTransitionZoomFlipY" alt="" coords="655,265,812,293"/>
+<area shape="rect" id="node2" href="$interface_c_c_transition_scene.html" title="CCTransitionScene" alt="" coords="242,135,368,163"/>
+<area shape="rect" id="node4" href="$interface_c_c_scene.html" title="CCScene" alt="" coords="123,135,194,163"/>
+<area shape="rect" id="node6" href="$interface_c_c_node.html" title="CCNode" alt="" coords="6,135,74,163"/>
+</map>

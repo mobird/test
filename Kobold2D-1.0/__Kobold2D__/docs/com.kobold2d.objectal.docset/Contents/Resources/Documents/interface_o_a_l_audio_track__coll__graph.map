@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$protocol_o_a_l_suspend_manager-p.html" title="A suspend manager is a listener that also allows other objects to subscribe to receive events as the ..." alt="" coords="5,115,160,143"/>
+<area shape="rect" id="node4" href="$protocol_o_a_l_suspend_listener-p.html" title="Allows an object to participate in interrupt and suspend operations." alt="" coords="6,6,159,34"/>
+<area shape="rect" id="node6" href="$interface_o_a_l_suspend_handler.html" title="Provides two controls (interrupted and manuallySuspended) for suspending a slave object, and also propagates such control messages to interested listeners." alt="" coords="185,115,321,143"/>
+<area shape="rect" id="node10" href="$interface_o_a_l_action.html" title="Represents an action that can be performed on an object." alt="" coords="345,115,429,143"/>
+</map>

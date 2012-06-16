@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$interface_c_c3_material.html" title="CC3Material manages information about a material that is used to cover one or more meshes..." alt="" coords="19,83,109,111"/>
+<area shape="rect" id="node4" href="$interface_c_c3_identifiable.html" title="This is a base subclass for any class that uses tags or names to identify individual instances..." alt="" coords="10,6,117,34"/>
+</map>

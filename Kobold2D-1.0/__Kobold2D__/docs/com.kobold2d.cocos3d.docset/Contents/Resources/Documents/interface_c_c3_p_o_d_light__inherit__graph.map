@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$interface_c_c3_light.html" title="CC3Light represents the light in the 3D world." alt="" coords="32,238,107,266"/>
+<area shape="rect" id="node4" href="$interface_c_c3_targetting_node.html" title="This is a node class representing a 3D model node that can be pointed in a particular direction..." alt="" coords="4,161,133,189"/>
+<area shape="rect" id="node6" href="$interface_c_c3_node.html" title="CC3Node and its subclasses form the basis of all 3D artifacts in the 3D world, including visible mesh..." alt="" coords="32,83,105,111"/>
+<area shape="rect" id="node8" href="$interface_c_c3_identifiable.html" title="This is a base subclass for any class that uses tags or names to identify individual instances..." alt="" coords="16,6,123,34"/>
+</map>

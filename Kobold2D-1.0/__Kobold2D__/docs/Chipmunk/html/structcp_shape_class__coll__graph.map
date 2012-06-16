@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$structcp_shape.html" title="Opaque collision shape struct." alt="" coords="96,243,162,271"/>
+<area shape="rect" id="node4" href="$structcp_vect.html" title="cpVect" alt="" coords="14,6,72,34"/>
+<area shape="rect" id="node6" href="$structcp_body.html" title="Chipmunk&#39;s rigid body struct." alt="" coords="84,149,146,177"/>
+<area shape="rect" id="node10" href="$structcp_b_b.html" title="Chipmunk&#39;s axis&#45;aligned 2D bounding box type. (left, bottom, right, top)" alt="" coords="271,149,322,177"/>
+</map>

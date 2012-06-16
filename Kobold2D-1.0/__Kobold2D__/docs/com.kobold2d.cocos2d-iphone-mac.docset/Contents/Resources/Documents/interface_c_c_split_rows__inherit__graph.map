@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$interface_c_c_tiled_grid3_d_action.html" title="CCTiledGrid3DAction" alt="" coords="5,315,149,343"/>
+<area shape="rect" id="node4" href="$interface_c_c_grid_action.html" title="CCGridAction" alt="" coords="27,238,127,266"/>
+<area shape="rect" id="node6" href="$interface_c_c_action_interval.html" title="CCActionInterval" alt="" coords="19,161,135,189"/>
+<area shape="rect" id="node8" href="$interface_c_c_finite_time_action.html" title="CCFiniteTimeAction" alt="" coords="10,83,144,111"/>
+<area shape="rect" id="node10" href="$interface_c_c_action.html" title="CCAction" alt="" coords="40,6,115,34"/>
+</map>

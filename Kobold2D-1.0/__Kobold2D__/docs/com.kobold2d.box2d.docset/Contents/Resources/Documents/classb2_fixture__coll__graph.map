@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="node4" href="$structb2_fixture_proxy.html" title="This proxy is used internally to connect fixtures to the broad&#45;phase." alt="" coords="89,209,193,237"/>
+<area shape="rect" id="node2" href="$classb2_body.html" title="A rigid body. These are created via b2World::CreateBody." alt="" coords="98,6,160,34"/>
+<area shape="rect" id="node6" href="$structb2_a_a_b_b.html" title="An axis aligned bounding box." alt="" coords="27,115,97,143"/>
+<area shape="rect" id="node8" href="$structb2_vec2.html" title="A 2D column vector." alt="" coords="5,6,67,34"/>
+<area shape="rect" id="node11" href="$classb2_shape.html" title="b2Shape" alt="" coords="185,6,252,34"/>
+<area shape="rect" id="node13" href="$structb2_filter.html" title="This holds contact filtering data." alt="" coords="276,6,339,34"/>
+</map>

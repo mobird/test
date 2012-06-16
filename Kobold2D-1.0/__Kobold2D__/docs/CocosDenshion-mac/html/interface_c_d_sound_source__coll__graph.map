@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$protocol_c_d_audio_transport_protocol-p.html" title="\&lt;CDAudioTransportProtocol\&gt;" alt="" coords="5,99,189,127"/>
+<area shape="rect" id="node4" href="$protocol_c_d_audio_interrupt_protocol-p.html" title="\&lt;CDAudioInterruptProtocol\&gt;" alt="" coords="118,6,297,34"/>
+<area shape="rect" id="node6" href="$interface_c_d_sound_engine.html" title="CDSoundEngine" alt="" coords="304,99,415,127"/>
+<area shape="rect" id="node9" href="$structbuffer_info.html" title="bufferInfo" alt="" coords="322,6,397,34"/>
+<area shape="rect" id="node11" href="$structsource_group.html" title="sourceGroup" alt="" coords="422,6,511,34"/>
+<area shape="rect" id="node13" href="$structsource_info.html" title="sourceInfo" alt="" coords="538,6,616,34"/>
+</map>

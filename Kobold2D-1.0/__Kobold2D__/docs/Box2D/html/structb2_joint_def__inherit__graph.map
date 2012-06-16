@@ -1,0 +1,13 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$structb2_distance_joint_def.html" title="b2DistanceJointDef" alt="" coords="135,5,262,33"/>
+<area shape="rect" id="node5" href="$structb2_friction_joint_def.html" title="Friction joint definition." alt="" coords="137,57,260,85"/>
+<area shape="rect" id="node7" href="$structb2_gear_joint_def.html" title="b2GearJointDef" alt="" coords="145,109,252,137"/>
+<area shape="rect" id="node9" href="$structb2_line_joint_def.html" title="b2LineJointDef" alt="" coords="146,161,251,189"/>
+<area shape="rect" id="node11" href="$structb2_mouse_joint_def.html" title="b2MouseJointDef" alt="" coords="140,213,257,241"/>
+<area shape="rect" id="node13" href="$structb2_prismatic_joint_def.html" title="b2PrismaticJointDef" alt="" coords="133,265,264,293"/>
+<area shape="rect" id="node15" href="$structb2_pulley_joint_def.html" title="b2PulleyJointDef" alt="" coords="141,317,256,345"/>
+<area shape="rect" id="node17" href="$structb2_revolute_joint_def.html" title="b2RevoluteJointDef" alt="" coords="134,369,263,397"/>
+<area shape="rect" id="node19" href="$structb2_rope_joint_def.html" title="b2RopeJointDef" alt="" coords="144,421,253,449"/>
+<area shape="rect" id="node21" href="$structb2_weld_joint_def.html" title="b2WeldJointDef" alt="" coords="144,473,253,501"/>
+<area shape="rect" id="node23" href="$structb2_wheel_joint_def.html" title="b2WheelJointDef" alt="" coords="141,525,256,553"/>
+</map>

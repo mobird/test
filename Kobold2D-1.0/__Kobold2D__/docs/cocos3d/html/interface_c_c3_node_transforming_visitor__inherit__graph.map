@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node5" href="$interface_c_c3_node_bounding_box_visitor.html" title="Specialized transforming visitor that measures the bounding box of a node and all its descendants..." alt="" coords="4,161,189,189"/>
+<area shape="rect" id="node7" href="$interface_c_c3_node_updating_visitor.html" title="CC3NodeUpdatingVisitor is a CC3NodeVisitor that is passed to a node when it is visited during updatin..." alt="" coords="214,161,375,189"/>
+<area shape="rect" id="node9" href="$interface_c_c3_skeleton_rest_pose_binding_visitor.html" title="CC3SkeletonRestPoseBindingVisitor is a CC3NodeVisitor that is passed to an assembly of bone nodes (a ..." alt="" coords="399,161,619,189"/>
+<area shape="rect" id="node2" href="$interface_c_c3_node_visitor.html" title="A CC3NodeVisitor is a context object that is passed to a node when it is visited during a traversal o..." alt="" coords="239,6,349,34"/>
+</map>

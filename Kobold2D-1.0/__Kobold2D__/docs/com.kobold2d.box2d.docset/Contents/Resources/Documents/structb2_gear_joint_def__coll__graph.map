@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$structb2_joint_def.html" title="Joint definitions are used to construct joints." alt="" coords="5,117,85,145"/>
+<area shape="rect" id="node4" href="$classb2_body.html" title="A rigid body. These are created via b2World::CreateBody." alt="" coords="108,6,171,34"/>
+<area shape="rect" id="node6" href="$classb2_joint.html" title="b2Joint" alt="" coords="110,117,169,145"/>
+<area shape="rect" id="node9" href="$structb2_joint_edge.html" title="b2JointEdge" alt="" coords="168,229,255,257"/>
+</map>

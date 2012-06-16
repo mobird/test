@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$interfacecp_c_c_node.html" title="cpCCNode" alt="" coords="33,83,113,111"/>
+<area shape="rect" id="node9" href="$interfacecp_c_c_node_impl.html" title="cpCCNodeImpl" alt="" coords="138,83,243,111"/>
+<area shape="rect" id="node11" href="$interfacecp_c_c_sprite.html" title="cpCCSprite" alt="" coords="268,83,351,111"/>
+<area shape="rect" id="node5" href="$interfacecp_shape_node.html" title="cpShapeNode" alt="" coords="26,161,120,189"/>
+<area shape="rect" id="node7" href="$interfacecp_shape_texture_node.html" title="cpShapeTextureNode" alt="" coords="5,238,141,266"/>
+</map>

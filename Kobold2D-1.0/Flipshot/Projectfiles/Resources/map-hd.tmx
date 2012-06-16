@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="15" height="10" tilewidth="64" tileheight="64">
+ <tileset firstgid="1" name="bg1-hd" tilewidth="960" tileheight="512">
+  <image source="bg1-hd.png" width="960" height="512"/>
+ </tileset>
+ <tileset firstgid="2" name="bg2-hd" tilewidth="960" tileheight="256">
+  <image source="bg2-hd.png" width="960" height="256"/>
+ </tileset>
+ <tileset firstgid="3" name="ball-hd" tilewidth="64" tileheight="64">
+  <image source="ball-hd.png" width="64" height="64"/>
+ </tileset>
+ <tileset firstgid="4" name="p1_stand-hd" tilewidth="128" tileheight="128">
+  <image source="p1_stand-hd.png" width="128" height="128"/>
+ </tileset>
+ <tileset firstgid="5" name="e1_stand-hd" tilewidth="64" tileheight="128">
+  <image source="e1_stand-hd.png" width="64" height="128"/>
+ </tileset>
+ <tileset firstgid="6" name="uil-hd" tilewidth="960" tileheight="64">
+  <image source="uil-hd.png" width="960" height="64"/>
+ </tileset>
+ <layer name="bg2" width="15" height="10">
+  <data encoding="base64" compression="zlib">
+   eJxjYBh6gGmgHTAKCAIABaAAAw==
+  </data>
+ </layer>
+ <layer name="bg1" width="15" height="10">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFowA7YKRALwAClAAC
+  </data>
+ </layer>
+ <objectgroup name="enemy" width="15" height="10">
+  <object gid="5" x="512" y="256"/>
+  <object gid="5" x="704" y="256"/>
+  <object gid="5" x="576" y="320"/>
+  <object gid="5" x="704" y="320"/>
+  <object gid="5" x="832" y="320"/>
+  <object gid="5" x="896" y="320"/>
+  <object gid="5" x="512" y="448"/>
+  <object gid="5" x="640" y="448"/>
+  <object gid="5" x="832" y="448"/>
+  <object gid="5" x="896" y="448"/>
+  <object gid="5" x="640" y="512"/>
+  <object gid="5" x="768" y="512"/>
+  <object gid="5" x="896" y="512"/>
+  <object gid="5" x="576" y="576"/>
+  <object gid="5" x="768" y="576"/>
+  <object gid="5" x="704" y="640"/>
+  <object gid="5" x="768" y="640"/>
+  <object gid="5" x="896" y="640"/>
+ </objectgroup>
+ <objectgroup name="player" width="15" height="10">
+  <object name="player" gid="4" x="128" y="448"/>
+ </objectgroup>
+ <objectgroup name="ball" width="15" height="10">
+  <object gid="3" x="192" y="448"/>
+ </objectgroup>
+ <objectgroup name="ui" width="15" height="10">
+  <object gid="6" x="0" y="64"/>
+ </objectgroup>
+</map>

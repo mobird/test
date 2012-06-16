@@ -1,0 +1,13 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$interface_c_c_transition_scene_oriented.html" title="CCTransitionSceneOriented" alt="" coords="252,462,424,490"/>
+<area shape="rect" id="node4" href="$interface_c_c_transition_scene.html" title="CCTransitionScene" alt="" coords="276,382,401,410"/>
+<area shape="rect" id="node6" href="$interface_c_c_scene.html" title="CCScene" alt="" coords="303,273,373,301"/>
+<area shape="rect" id="node8" href="$interface_c_c_node.html" title="CCNode" alt="" coords="305,193,372,221"/>
+<area shape="rect" id="node11" href="$interface_c_c_grid_base.html" title="CCGridBase" alt="" coords="134,99,223,127"/>
+<area shape="rect" id="node13" href="$structcc_grid_size.html" title="A 2D grid size." alt="" coords="5,6,85,34"/>
+<area shape="rect" id="node15" href="$interface_c_c_grabber.html" title="CCGrabber" alt="" coords="109,6,192,34"/>
+<area shape="rect" id="node17" href="$interface_c_c_texture2_d.html" title="CCTexture2D" alt="" coords="216,6,312,34"/>
+<area shape="rect" id="node19" href="$interface_c_c_array.html" title="CCArray" alt="" coords="304,99,373,127"/>
+<area shape="rect" id="node21" href="$structcc_array.html" title="ccArray" alt="" coords="336,6,400,34"/>
+<area shape="rect" id="node23" href="$interface_c_c_camera.html" title="CCCamera" alt="" coords="398,99,479,127"/>
+</map>

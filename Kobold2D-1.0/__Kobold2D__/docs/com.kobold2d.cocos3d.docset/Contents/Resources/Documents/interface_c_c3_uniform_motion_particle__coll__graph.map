@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$interface_c_c3_mortal_point_particle.html" title="CC3MortalPointParticle is a type of CC3PointParticle that has a finite life." alt="" coords="15,83,165,111"/>
+<area shape="rect" id="node4" href="$interface_c_c3_point_particle.html" title="CC3PointParticle is an abstract class that represents a single particle emitted by a CC3PointParticle..." alt="" coords="33,6,147,34"/>
+</map>

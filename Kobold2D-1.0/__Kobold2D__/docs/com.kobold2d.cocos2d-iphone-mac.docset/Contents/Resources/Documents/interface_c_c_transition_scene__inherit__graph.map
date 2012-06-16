@@ -1,0 +1,34 @@
+<map id="G" name="G">
+<area shape="rect" id="node7" href="$interface_c_c_transition_cross_fade.html" title="CCTransitionCrossFade" alt="" coords="428,18,578,46"/>
+<area shape="rect" id="node9" href="$interface_c_c_transition_fade.html" title="CCTransitionFade" alt="" coords="443,70,563,98"/>
+<area shape="rect" id="node11" href="$interface_c_c_transition_fade_t_r.html" title="CCTransitionFadeTR" alt="" coords="434,122,571,150"/>
+<area shape="rect" id="node19" href="$interface_c_c_transition_jump_zoom.html" title="CCTransitionJumpZoom" alt="" coords="425,199,580,227"/>
+<area shape="rect" id="node21" href="$interface_c_c_transition_move_in_l.html" title="CCTransitionMoveInL" alt="" coords="431,251,575,279"/>
+<area shape="rect" id="node29" href="$interface_c_c_transition_page_turn.html" title="CCTransitionPageTurn" alt="" coords="430,303,576,331"/>
+<area shape="rect" id="node31" href="$interface_c_c_transition_radial_c_c_w.html" title="CCTransitionRadialCCW" alt="" coords="423,355,582,383"/>
+<area shape="rect" id="node35" href="$interface_c_c_transition_roto_zoom.html" title="CCTransitionRotoZoom" alt="" coords="427,407,579,435"/>
+<area shape="rect" id="node37" href="$interface_c_c_transition_scene_oriented.html" title="CCTransitionSceneOriented" alt="" coords="416,466,589,494"/>
+<area shape="rect" id="node51" href="$interface_c_c_transition_shrink_grow.html" title="CCTransitionShrinkGrow" alt="" coords="423,518,583,546"/>
+<area shape="rect" id="node53" href="$interface_c_c_transition_slide_in_l.html" title="CCTransitionSlideInL" alt="" coords="432,681,573,709"/>
+<area shape="rect" id="node61" href="$interface_c_c_transition_split_cols.html" title="CCTransitionSplitCols" alt="" coords="431,733,574,761"/>
+<area shape="rect" id="node65" href="$interface_c_c_transition_turn_off_tiles.html" title="CCTransitionTurnOffTiles" alt="" coords="420,785,585,813"/>
+<area shape="rect" id="node2" href="$interface_c_c_scene.html" title="CCScene" alt="" coords="123,355,194,383"/>
+<area shape="rect" id="node4" href="$interface_c_c_node.html" title="CCNode" alt="" coords="6,355,74,383"/>
+<area shape="rect" id="node13" href="$interface_c_c_transition_fade_b_l.html" title="CCTransitionFadeBL" alt="" coords="665,5,802,33"/>
+<area shape="rect" id="node15" href="$interface_c_c_transition_fade_down.html" title="CCTransitionFadeDown" alt="" coords="657,57,810,85"/>
+<area shape="rect" id="node17" href="$interface_c_c_transition_fade_up.html" title="CCTransitionFadeUp" alt="" coords="665,109,801,137"/>
+<area shape="rect" id="node23" href="$interface_c_c_transition_move_in_b.html" title="CCTransitionMoveInB" alt="" coords="661,161,806,189"/>
+<area shape="rect" id="node25" href="$interface_c_c_transition_move_in_r.html" title="CCTransitionMoveInR" alt="" coords="661,213,806,241"/>
+<area shape="rect" id="node27" href="$interface_c_c_transition_move_in_t.html" title="CCTransitionMoveInT" alt="" coords="661,265,805,293"/>
+<area shape="rect" id="node33" href="$interface_c_c_transition_radial_c_w.html" title="CCTransitionRadialCW" alt="" coords="658,317,808,345"/>
+<area shape="rect" id="node39" href="$interface_c_c_transition_flip_angular.html" title="CCTransitionFlipAngular" alt="" coords="654,369,813,397"/>
+<area shape="rect" id="node41" href="$interface_c_c_transition_flip_x.html" title="CCTransitionFlipX" alt="" coords="671,421,796,449"/>
+<area shape="rect" id="node43" href="$interface_c_c_transition_flip_y.html" title="CCTransitionFlipY" alt="" coords="671,473,796,501"/>
+<area shape="rect" id="node45" href="$interface_c_c_transition_zoom_flip_angular.html" title="CCTransitionZoomFlipAngular" alt="" coords="638,525,829,553"/>
+<area shape="rect" id="node47" href="$interface_c_c_transition_zoom_flip_x.html" title="CCTransitionZoomFlipX" alt="" coords="655,577,812,605"/>
+<area shape="rect" id="node49" href="$interface_c_c_transition_zoom_flip_y.html" title="CCTransitionZoomFlipY" alt="" coords="655,629,812,657"/>
+<area shape="rect" id="node55" href="$interface_c_c_transition_slide_in_b.html" title="CCTransitionSlideInB" alt="" coords="663,681,804,709"/>
+<area shape="rect" id="node57" href="$interface_c_c_transition_slide_in_r.html" title="CCTransitionSlideInR" alt="" coords="663,733,804,761"/>
+<area shape="rect" id="node59" href="$interface_c_c_transition_slide_in_t.html" title="CCTransitionSlideInT" alt="" coords="663,785,804,813"/>
+<area shape="rect" id="node63" href="$interface_c_c_transition_split_rows.html" title="CCTransitionSplitRows" alt="" coords="659,837,808,865"/>
+</map>

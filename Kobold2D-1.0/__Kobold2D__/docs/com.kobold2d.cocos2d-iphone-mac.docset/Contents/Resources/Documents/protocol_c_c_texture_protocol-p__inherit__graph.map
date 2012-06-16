@@ -1,0 +1,16 @@
+<map id="G" name="G">
+<area shape="rect" id="node5" href="$interface_c_c_atlas_node.html" title="CCAtlasNode" alt="" coords="77,161,173,189"/>
+<area shape="rect" id="node11" href="$interface_c_c_motion_streak.html" title="CCMotionStreak" alt="" coords="197,161,309,189"/>
+<area shape="rect" id="node13" href="$interface_c_c_particle_system.html" title="CCParticleSystem" alt="" coords="334,161,452,189"/>
+<area shape="rect" id="node19" href="$interface_c_c_ribbon.html" title="CCRibbon" alt="" coords="477,161,555,189"/>
+<area shape="rect" id="node21" href="$interface_c_c_sprite.html" title="CCSprite" alt="" coords="579,161,649,189"/>
+<area shape="rect" id="node25" href="$interface_c_c_sprite_batch_node.html" title="CCSpriteBatchNode" alt="" coords="676,161,807,189"/>
+<area shape="rect" id="node2" href="$protocol_c_c_blend_protocol-p.html" title="\&lt;CCBlendProtocol\&gt;" alt="" coords="389,6,520,34"/>
+<area shape="rect" id="node7" href="$interface_c_c_label_atlas.html" title="CCLabelAtlas" alt="" coords="5,238,101,266"/>
+<area shape="rect" id="node9" href="$interface_c_c_tile_map_atlas.html" title="CCTileMapAtlas" alt="" coords="126,238,239,266"/>
+<area shape="rect" id="node15" href="$interface_c_c_particle_system_quad.html" title="CCParticleSystemQuad" alt="" coords="319,238,467,266"/>
+<area shape="rect" id="node17" href="$interface_c_c_particle_system_point.html" title="CCParticleSystemPoint" alt="" coords="320,315,467,343"/>
+<area shape="rect" id="node23" href="$interface_c_c_label_t_t_f.html" title="CCLabelTTF" alt="" coords="567,238,659,266"/>
+<area shape="rect" id="node27" href="$interface_c_c_label_b_m_font.html" title="CCLabelBMFont" alt="" coords="684,238,799,266"/>
+<area shape="rect" id="node29" href="$interface_c_c_t_m_x_layer.html" title="CCTMXLayer" alt="" coords="822,238,921,266"/>
+</map>

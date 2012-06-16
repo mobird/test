@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$protocol_a_l_sound_source-p.html" title="Manages all properties relating to an OpenAL sound source." alt="" coords="4,83,128,111"/>
+<area shape="rect" id="node4" href="$protocol_o_a_l_suspend_manager-p.html" title="A suspend manager is a listener that also allows other objects to subscribe to receive events as the ..." alt="" coords="154,83,309,111"/>
+<area shape="rect" id="node6" href="$protocol_o_a_l_suspend_listener-p.html" title="Allows an object to participate in interrupt and suspend operations." alt="" coords="156,6,308,34"/>
+</map>

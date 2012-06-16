@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$interface_o_a_l_function_action.html" title="An action that applies a function to the proportionComplete parameter in [update] before applying the..." alt="" coords="24,179,156,207"/>
+<area shape="rect" id="node4" href="$interface_o_a_l_action.html" title="Represents an action that can be performed on an object." alt="" coords="4,86,88,114"/>
+<area shape="rect" id="node6" href="$interface_o_a_l_reverse_function.html" title="Returns the reverse of another function." alt="" coords="113,86,252,114"/>
+<area shape="rect" id="node8" href="$protocol_o_a_l_function-p.html" title="A function takes a value from 0.0 to 1.0 and returns another value from 0.0 to 1.0." alt="" coords="127,6,237,34"/>
+</map>

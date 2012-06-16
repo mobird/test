@@ -1,0 +1,9 @@
+<map id="G" name="G">
+<area shape="rect" id="node7" href="$interface_c_c3_camera.html" title="CC3Camera represents the camera viewing the 3D world." alt="" coords="24,238,111,266"/>
+<area shape="rect" id="node11" href="$interface_c_c3_light.html" title="CC3Light represents the light in the 3D world." alt="" coords="149,238,224,266"/>
+<area shape="rect" id="node15" href="$interface_c_c3_light_tracker.html" title="CC3LightTracker is a specialized CC3TargettingNode that tracks a target and automatically updates its..." alt="" coords="249,238,364,266"/>
+<area shape="rect" id="node2" href="$interface_c_c3_node.html" title="CC3Node and its subclasses form the basis of all 3D artifacts in the 3D world, including visible mesh..." alt="" coords="149,83,223,111"/>
+<area shape="rect" id="node4" href="$interface_c_c3_identifiable.html" title="This is a base subclass for any class that uses tags or names to identify individual instances..." alt="" coords="133,6,240,34"/>
+<area shape="rect" id="node9" href="$interface_c_c3_p_o_d_camera.html" title="A CC3Camera whose content originates from POD resource data." alt="" coords="4,315,117,343"/>
+<area shape="rect" id="node13" href="$interface_c_c3_p_o_d_light.html" title="A CC3Light whose content originates from POD resource data." alt="" coords="143,315,244,343"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$interface_c_c_ease_elastic.html" title="CCEaseElastic" alt="" coords="22,339,121,367"/>
+<area shape="rect" id="node4" href="$interface_c_c_action_ease.html" title="CCActionEase" alt="" coords="22,259,121,287"/>
+<area shape="rect" id="node6" href="$interface_c_c_action_interval.html" title="CCActionInterval" alt="" coords="14,166,129,194"/>
+<area shape="rect" id="node8" href="$interface_c_c_finite_time_action.html" title="CCFiniteTimeAction" alt="" coords="5,86,139,114"/>
+<area shape="rect" id="node10" href="$interface_c_c_action.html" title="CCAction" alt="" coords="34,6,109,34"/>
+</map>

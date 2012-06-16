@@ -1,0 +1,18 @@
+<map id="G" name="G">
+<area shape="rect" id="node11" href="$interface_c_c_fade_out_t_r_tiles.html" title="CCFadeOutTRTiles" alt="" coords="824,31,952,59"/>
+<area shape="rect" id="node19" href="$interface_c_c_jump_tiles3_d.html" title="CCJumpTiles3D" alt="" coords="833,83,943,111"/>
+<area shape="rect" id="node21" href="$interface_c_c_shaky_tiles3_d.html" title="CCShakyTiles3D" alt="" coords="830,135,946,163"/>
+<area shape="rect" id="node23" href="$interface_c_c_shattered_tiles3_d.html" title="CCShatteredTiles3D" alt="" coords="822,187,954,215"/>
+<area shape="rect" id="node25" href="$interface_c_c_shuffle_tiles.html" title="CCShuffleTiles" alt="" coords="835,239,941,267"/>
+<area shape="rect" id="node27" href="$interface_c_c_split_cols.html" title="CCSplitCols" alt="" coords="844,291,932,319"/>
+<area shape="rect" id="node29" href="$interface_c_c_split_rows.html" title="CCSplitRows" alt="" coords="841,343,935,371"/>
+<area shape="rect" id="node31" href="$interface_c_c_turn_off_tiles.html" title="CCTurnOffTiles" alt="" coords="833,395,943,423"/>
+<area shape="rect" id="node33" href="$interface_c_c_waves_tiles3_d.html" title="CCWavesTiles3D" alt="" coords="829,447,947,475"/>
+<area shape="rect" id="node2" href="$interface_c_c_grid_action.html" title="CCGridAction" alt="" coords="481,239,581,267"/>
+<area shape="rect" id="node4" href="$interface_c_c_action_interval.html" title="CCActionInterval" alt="" coords="315,239,432,267"/>
+<area shape="rect" id="node6" href="$interface_c_c_finite_time_action.html" title="CCFiniteTimeAction" alt="" coords="131,239,266,267"/>
+<area shape="rect" id="node8" href="$interface_c_c_action.html" title="CCAction" alt="" coords="6,239,82,267"/>
+<area shape="rect" id="node13" href="$interface_c_c_fade_out_b_l_tiles.html" title="CCFadeOutBLTiles" alt="" coords="1004,6,1132,34"/>
+<area shape="rect" id="node15" href="$interface_c_c_fade_out_up_tiles.html" title="CCFadeOutUpTiles" alt="" coords="1004,58,1132,86"/>
+<area shape="rect" id="node17" href="$interface_c_c_fade_out_down_tiles.html" title="CCFadeOutDownTiles" alt="" coords="1181,58,1325,86"/>
+</map>

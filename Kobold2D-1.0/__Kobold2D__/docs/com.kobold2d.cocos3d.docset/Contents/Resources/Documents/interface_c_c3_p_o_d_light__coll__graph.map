@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$interface_c_c3_light.html" title="CC3Light represents the light in the 3D world." alt="" coords="249,273,324,301"/>
+<area shape="rect" id="node4" href="$interface_c_c3_targetting_node.html" title="This is a node class representing a 3D model node that can be pointed in a particular direction..." alt="" coords="124,179,253,207"/>
+<area shape="rect" id="node6" href="$interface_c_c3_node.html" title="CC3Node and its subclasses form the basis of all 3D artifacts in the 3D world, including visible mesh..." alt="" coords="143,99,216,127"/>
+<area shape="rect" id="node8" href="$interface_c_c3_identifiable.html" title="This is a base subclass for any class that uses tags or names to identify individual instances..." alt="" coords="5,6,112,34"/>
+<area shape="rect" id="node10" href="$interface_c_c3_g_l_matrix.html" title="A wrapper class for a 4x4 OpenGL matrix array." alt="" coords="137,6,236,34"/>
+<area shape="rect" id="node12" href="$interface_c_c3_open_g_l_e_s11_light.html" title="CC3OpenGLES11Light manages trackers for an individual light." alt="" coords="280,179,429,207"/>
+<area shape="rect" id="node14" href="$interface_c_c3_open_g_l_e_s11_state_tracker_manager.html" title="An CC3OpenGLES11StateTracker that manages a number of other trackers." alt="" coords="242,99,477,127"/>
+<area shape="rect" id="node16" href="$interface_c_c3_open_g_l_e_s11_state_tracker.html" title="This is the base class of all OpenGL ES 1.1 state trackers." alt="" coords="265,6,455,34"/>
+</map>

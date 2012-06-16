@@ -1,0 +1,13 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$interface_o_a_l_call_action.html" title="Calls a selector on a target." alt="" coords="161,5,268,33"/>
+<area shape="rect" id="node5" href="$interface_o_a_l_concurrent_actions.html" title="A set of actions that get run concurrently." alt="" coords="140,57,290,85"/>
+<area shape="rect" id="node7" href="$interface_o_a_l_function_action.html" title="An action that applies a function to the proportionComplete parameter in [update] before applying the..." alt="" coords="148,109,281,137"/>
+<area shape="rect" id="node15" href="$interface_o_a_l_move_by_action.html" title="Moves the target from its current position by the specified delta over time in 3D space..." alt="" coords="149,161,281,189"/>
+<area shape="rect" id="node17" href="$interface_o_a_l_move_to_action.html" title="Moves the target from its current position to the specified position over time in 3D space..." alt="" coords="149,213,280,241"/>
+<area shape="rect" id="node19" href="$interface_o_a_l_place_action.html" title="Places the target at the specified position." alt="" coords="158,265,272,293"/>
+<area shape="rect" id="node21" href="$interface_o_a_l_sequential_actions.html" title="A set of actions that get run in sequence." alt="" coords="141,317,288,345"/>
+<area shape="rect" id="node23" href="$interface_o_a_l_targeted_action.html" title="Ignores whatever target it was invoked upon and applies the specified action on the target specified ..." alt="" coords="148,369,281,397"/>
+<area shape="rect" id="node9" href="$interface_o_a_l_gain_action.html" title="A function&#45;based action that modifies the target&#39;s gain." alt="" coords="339,57,450,85"/>
+<area shape="rect" id="node11" href="$interface_o_a_l_pan_action.html" title="A function&#45;based action that modifies the target&#39;s pan." alt="" coords="342,109,447,137"/>
+<area shape="rect" id="node13" href="$interface_o_a_l_pitch_action.html" title="A function&#45;based action that modifies the target&#39;s pitch." alt="" coords="338,161,451,189"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$interface_a_l_channel_source.html" title="A Sound source composed of other sources." alt="" coords="5,83,125,111"/>
+<area shape="rect" id="node5" href="$interface_a_l_source.html" title="A source represents an object that emits sound which can be heard by a listener." alt="" coords="150,83,225,111"/>
+</map>

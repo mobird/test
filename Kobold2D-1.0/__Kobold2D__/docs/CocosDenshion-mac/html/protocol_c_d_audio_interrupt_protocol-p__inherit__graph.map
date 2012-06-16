@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$interface_c_d_audio_interrupt_target_group.html" title="CDAudioInterruptTargetGroup" alt="" coords="235,5,424,33"/>
+<area shape="rect" id="node5" href="$interface_c_d_audio_manager.html" title="CDAudioManager" alt="" coords="269,57,390,85"/>
+<area shape="rect" id="node7" href="$interface_c_d_long_audio_source.html" title="CDLongAudioSource" alt="" coords="260,109,399,137"/>
+<area shape="rect" id="node9" href="$interface_c_d_sound_engine.html" title="CDSoundEngine" alt="" coords="273,161,385,189"/>
+<area shape="rect" id="node11" href="$interface_c_d_sound_source.html" title="CDSoundSource" alt="" coords="274,213,385,241"/>
+<area shape="rect" id="node13" href="$interface_simple_audio_engine.html" title="SimpleAudioEngine" alt="" coords="264,265,394,293"/>
+</map>

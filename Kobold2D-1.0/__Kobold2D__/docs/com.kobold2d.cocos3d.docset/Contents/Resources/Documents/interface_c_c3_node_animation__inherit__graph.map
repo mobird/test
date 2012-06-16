@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$interface_c_c3_array_node_animation.html" title="A concrete CC3NodeAnimation that holds animation data in simple arrays." alt="" coords="5,83,168,111"/>
+<area shape="rect" id="node5" href="$interface_c_c3_p_o_d_node_animation.html" title="POD files can contain information to animate the nodes." alt="" coords="191,83,349,111"/>
+</map>

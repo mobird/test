@@ -1,0 +1,21 @@
+<map id="G" name="G">
+<area shape="rect" id="node9" href="$interface_c_c3_billboard.html" title="This CC3Node displays a 2D cocos2d CCNode as part of the 3D world." alt="" coords="659,30,755,58"/>
+<area shape="rect" id="node15" href="$interface_c_c3_box_node.html" title="CC3BoxNode is a type of CC3MeshNode that is specialized to display simple box or cube meshes..." alt="" coords="658,82,755,110"/>
+<area shape="rect" id="node17" href="$interface_c_c3_line_node.html" title="CC3LineNode is a type of CC3MeshNode that is specialized to display lines." alt="" coords="657,134,756,162"/>
+<area shape="rect" id="node25" href="$interface_c_c3_plane_node.html" title="CC3PlaneNode is a type of CC3MeshNode that is specialized to display planes and simple rectanglular m..." alt="" coords="655,186,759,214"/>
+<area shape="rect" id="node27" href="$interface_c_c3_p_o_d_mesh_node.html" title="A CC3MeshNode whose content originates from POD resource data." alt="" coords="641,238,772,266"/>
+<area shape="rect" id="node29" href="$interface_c_c3_point_particle_emitter.html" title="A CC3MeshNode that emits 3D point particles." alt="" coords="629,290,784,318"/>
+<area shape="rect" id="node37" href="$interface_c_c3_skin_mesh_node.html" title="CC3SkinMeshNode is a CC3MeshNode specialized to use vertex skinning to draw the contents of its mesh..." alt="" coords="642,342,771,370"/>
+<area shape="rect" id="node2" href="$interface_c_c3_local_content_node.html" title="CC3LocalContentNode is an abstract class that forms the basis for nodes that have local content to dr..." alt="" coords="282,186,430,214"/>
+<area shape="rect" id="node4" href="$interface_c_c3_node.html" title="CC3Node and its subclasses form the basis of all 3D artifacts in the 3D world, including visible mesh..." alt="" coords="160,186,235,214"/>
+<area shape="rect" id="node6" href="$interface_c_c3_identifiable.html" title="This is a base subclass for any class that uses tags or names to identify individual instances..." alt="" coords="5,186,112,214"/>
+<area shape="rect" id="node11" href="$interface_c_c3_node_descriptor.html" title="CC3NodeDescriptor is a type of CC3Billboard specialized for attaching a descriptive text label to ano..." alt="" coords="871,5,1001,33"/>
+<area shape="rect" id="node13" href="$interface_c_c3_particle_system_billboard.html" title="A CC3Billboard node customized to display and manage a cocos2d 2D CCParticleSystem." alt="" coords="848,57,1024,85"/>
+<area shape="rect" id="node19" href="$interface_c_c3_wireframe_bounding_box_node.html" title="CC3WireframeBoundingBoxNode is a type of CC3LineNode specialized for drawing a wireframe bounding box..." alt="" coords="832,134,1040,162"/>
+<area shape="rect" id="node21" href="$interface_c_c3_direction_marker_node.html" title="CC3DirectionMarkerNode is a type of CC3LineNode specialized for drawing a line from the pivot point o..." alt="" coords="1146,109,1310,137"/>
+<area shape="rect" id="node23" href="$interface_c_c3_wireframe_local_content_bounding_box_node.html" title="CC3WireframeLocalContentBoundingBoxNode is a CC3WireframeBoundingBoxNode that further specializes in ..." alt="" coords="1088,161,1368,189"/>
+<area shape="rect" id="node31" href="$interface_c_c3_mortal_point_particle_emitter.html" title="CC3MortalPointParticleEmitter emits particles of type CC3MortalPointParticle." alt="" coords="841,290,1031,318"/>
+<area shape="rect" id="node33" href="$interface_c_c3_point_particle_hose_emitter.html" title="CC3PointParticleHoseEmitter emits CC3UniformMotionParticle particles in a stream, as if from the nozz..." alt="" coords="1137,290,1319,318"/>
+<area shape="rect" id="node35" href="$interface_c_c3_variegated_point_particle_hose_emitter.html" title="CC3VariegatedPointParticleHoseEmitter is a type of CC3PointParticleHoseEmitter whose particles can ha..." alt="" coords="1416,290,1656,318"/>
+<area shape="rect" id="node39" href="$interface_c_c3_p_o_d_skin_mesh_node.html" title="A CC3SkinMeshNode extracted from a POD file." alt="" coords="858,342,1014,370"/>
+</map>

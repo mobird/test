@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DocSetNodes version="1.0">
+  <TOC>
+    <Node>
+      <Name>Root</Name>
+      <Path>index.html</Path>
+      <Subnodes>
+       <Node>
+        <Name>Class List</Name>
+        <Path>annotated.html</Path>
+        <Subnodes>
+         <Node>
+          <Name>ColoredCircleSprite</Name>
+          <Path>interface_colored_circle_sprite.html</Path>
+         </Node>
+         <Node>
+          <Name>ColoredSquareSprite</Name>
+          <Path>interface_colored_square_sprite.html</Path>
+         </Node>
+         <Node>
+          <Name>SneakyButton</Name>
+          <Path>interface_sneaky_button.html</Path>
+         </Node>
+         <Node>
+          <Name>SneakyButtonSkinnedBase</Name>
+          <Path>interface_sneaky_button_skinned_base.html</Path>
+         </Node>
+         <Node>
+          <Name>SneakyJoystickSkinnedBase</Name>
+          <Path>interface_sneaky_joystick_skinned_base.html</Path>
+         </Node>
+        </Subnodes>
+       </Node>
+       <Node>
+        <Name>Class Index</Name>
+        <Path>classes.html</Path>
+       </Node>
+       <Node>
+        <Name>Class Members</Name>
+        <Path>functions.html</Path>
+       </Node>
+      </Subnodes>
+    </Node>
+  </TOC>
+</DocSetNodes>

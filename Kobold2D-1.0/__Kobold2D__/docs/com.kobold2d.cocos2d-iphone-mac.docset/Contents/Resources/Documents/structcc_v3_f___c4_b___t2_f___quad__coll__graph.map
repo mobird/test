@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$structcc_v3_f___c4_b___t2_f.html" title="a Point with a vertex point, a tex coord point and a color 4B" alt="" coords="91,99,207,127"/>
+<area shape="rect" id="node4" href="$structcc_color4_b.html" title="ccColor4B" alt="" coords="4,6,83,34"/>
+<area shape="rect" id="node6" href="$structcc_vertex3_f.html" title="ccVertex3F" alt="" coords="108,6,191,34"/>
+<area shape="rect" id="node8" href="$structcc_tex2_f.html" title="ccTex2F" alt="" coords="215,6,283,34"/>
+</map>

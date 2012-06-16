@@ -1,0 +1,44 @@
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/SneakyInput/Classes/SneakyJoystickSkinnedBase.h:13: warning: Compound SneakyJoystickSkinnedBase is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/SneakyInput/Classes/ColoredCircleSprite.h:3: warning: Compound ColoredCircleSprite is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/SneakyInput/Classes/ColoredSquareSprite.h:3: warning: Compound ColoredSquareSprite is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/SneakyInput/Classes/SneakyButton.h:11: warning: Compound SneakyButton is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/SneakyInput/Classes/SneakyButtonSkinnedBase.h:13: warning: Compound SneakyButtonSkinnedBase is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/SneakyInput/Classes/ColoredCircleSprite.h:29: warning: Member containsPoint:(CGPoint point) (function) of class ColoredCircleSprite is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/SneakyInput/Classes/ColoredCircleSprite.h:4: warning: Member radius_ (variable) of class ColoredCircleSprite is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/SneakyInput/Classes/ColoredCircleSprite.h:5: warning: Member opacity_ (variable) of class ColoredCircleSprite is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/SneakyInput/Classes/ColoredCircleSprite.h:6: warning: Member color_ (variable) of class ColoredCircleSprite is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/SneakyInput/Classes/ColoredCircleSprite.h:8: warning: Member numberOfSegments (variable) of class ColoredCircleSprite is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/SneakyInput/Classes/ColoredCircleSprite.h:9: warning: Member circleVertices_ (variable) of class ColoredCircleSprite is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/SneakyInput/Classes/ColoredCircleSprite.h:11: warning: Member blendFunc_ (variable) of class ColoredCircleSprite is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/SneakyInput/Classes/ColoredCircleSprite.h:14: warning: Member radius (property) of class ColoredCircleSprite is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/SneakyInput/Classes/ColoredSquareSprite.h:30: warning: Member containsPoint:(CGPoint point) (function) of class ColoredSquareSprite is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/SneakyInput/Classes/ColoredSquareSprite.h:4: warning: Member size_ (variable) of class ColoredSquareSprite is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/SneakyInput/Classes/ColoredSquareSprite.h:5: warning: Member opacity_ (variable) of class ColoredSquareSprite is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/SneakyInput/Classes/ColoredSquareSprite.h:6: warning: Member color_ (variable) of class ColoredSquareSprite is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/SneakyInput/Classes/ColoredSquareSprite.h:8: warning: Member squareVertices_ (variable) of class ColoredSquareSprite is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/SneakyInput/Classes/ColoredSquareSprite.h:10: warning: Member blendFunc_ (variable) of class ColoredSquareSprite is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/SneakyInput/Classes/ColoredSquareSprite.h:13: warning: Member size (property) of class ColoredSquareSprite is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/SneakyInput/Classes/SneakyButton.h:36: warning: Member initWithRect:(CGRect rect) (function) of class SneakyButton is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/SneakyInput/Classes/SneakyButton.h:38: warning: Member button() (function) of class SneakyButton is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/SneakyInput/Classes/SneakyButton.h:39: warning: Member buttonWithRect:(CGRect rect) (function) of class SneakyButton is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/SneakyInput/Classes/SneakyButton.h:12: warning: Member center (variable) of class SneakyButton is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/SneakyInput/Classes/SneakyButton.h:15: warning: Member radiusSq (variable) of class SneakyButton is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/SneakyInput/Classes/SneakyButton.h:17: warning: Member bounds (variable) of class SneakyButton is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/SneakyInput/Classes/SneakyButton.h:19: warning: Member status (property) of class SneakyButton is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/SneakyInput/Classes/SneakyButton.h:20: warning: Member value (property) of class SneakyButton is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/SneakyInput/Classes/SneakyButton.h:18: warning: Member active (property) of class SneakyButton is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/SneakyInput/Classes/SneakyButton.h:21: warning: Member isHoldable (property) of class SneakyButton is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/SneakyInput/Classes/SneakyButton.h:22: warning: Member isToggleable (property) of class SneakyButton is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/SneakyInput/Classes/SneakyButton.h:23: warning: Member rateLimit (property) of class SneakyButton is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/SneakyInput/Classes/SneakyButton.h:14: warning: Member radius (property) of class SneakyButton is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/SneakyInput/Classes/SneakyButtonSkinnedBase.h:28: warning: Member skinnedButton() (function) of class SneakyButtonSkinnedBase is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/SneakyInput/Classes/SneakyButtonSkinnedBase.h:14: warning: Member defaultSprite (property) of class SneakyButtonSkinnedBase is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/SneakyInput/Classes/SneakyButtonSkinnedBase.h:15: warning: Member activatedSprite (property) of class SneakyButtonSkinnedBase is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/SneakyInput/Classes/SneakyButtonSkinnedBase.h:16: warning: Member disabledSprite (property) of class SneakyButtonSkinnedBase is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/SneakyInput/Classes/SneakyButtonSkinnedBase.h:17: warning: Member pressSprite (property) of class SneakyButtonSkinnedBase is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/SneakyInput/Classes/SneakyButtonSkinnedBase.h:18: warning: Member button (property) of class SneakyButtonSkinnedBase is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/SneakyInput/Classes/SneakyJoystickSkinnedBase.h:23: warning: Member updatePositions() (function) of class SneakyJoystickSkinnedBase is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/SneakyInput/Classes/SneakyJoystickSkinnedBase.h:25: warning: Member skinnedJoystick() (function) of class SneakyJoystickSkinnedBase is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/SneakyInput/Classes/SneakyJoystickSkinnedBase.h:14: warning: Member backgroundSprite (property) of class SneakyJoystickSkinnedBase is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/SneakyInput/Classes/SneakyJoystickSkinnedBase.h:15: warning: Member thumbSprite (property) of class SneakyJoystickSkinnedBase is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/SneakyInput/Classes/SneakyJoystickSkinnedBase.h:16: warning: Member joystick (property) of class SneakyJoystickSkinnedBase is not documented.

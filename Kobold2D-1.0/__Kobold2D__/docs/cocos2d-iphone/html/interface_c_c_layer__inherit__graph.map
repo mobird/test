@@ -1,0 +1,9 @@
+<map id="G" name="G">
+<area shape="rect" id="node9" href="$interface_c_c_layer_color.html" title="CCLayerColor" alt="" coords="12,161,112,189"/>
+<area shape="rect" id="node13" href="$interface_c_c_layer_multiplex.html" title="CCLayerMultiplex" alt="" coords="137,161,260,189"/>
+<area shape="rect" id="node15" href="$interface_c_c_menu.html" title="CCMenu" alt="" coords="284,161,353,189"/>
+<area shape="rect" id="node2" href="$interface_c_c_node.html" title="CCNode" alt="" coords="15,6,83,34"/>
+<area shape="rect" id="node4" href="$protocol_c_c_standard_touch_delegate-p.html" title="\&lt;CCStandardTouchDelegate\&gt;" alt="" coords="107,6,289,34"/>
+<area shape="rect" id="node6" href="$protocol_c_c_targeted_touch_delegate-p.html" title="\&lt;CCTargetedTouchDelegate\&gt;" alt="" coords="314,6,496,34"/>
+<area shape="rect" id="node11" href="$interface_c_c_layer_gradient.html" title="CCLayerGradient" alt="" coords="4,238,120,266"/>
+</map>

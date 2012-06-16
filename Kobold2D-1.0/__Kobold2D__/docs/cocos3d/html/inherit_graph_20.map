@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" id="node1" href="$interface_c_c3_performance_statistics.html" title="Collects statistics about the updating and drawing performance of the 3D world." alt="" coords="6,5,168,33"/>
+<area shape="rect" id="node3" href="$interface_c_c3_performance_statistics_histogram.html" title="Collects statistics about the updating and drawing performance of the 3D world, including a histogram..." alt="" coords="216,5,434,33"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$interface_controllable_c_c_layer.html" title="A CCLayerColor that implements the ControlledCCNodeProtocol protocol, and therefore can be controlled..." alt="" coords="29,83,165,111"/>
+<area shape="rect" id="node5" href="$interface_c_c3_layer.html" title="CC3Layer is a cocos2d CCLayer that supports full 3D rendering in combination with normal cocos2d 2D r..." alt="" coords="59,161,135,189"/>
+</map>

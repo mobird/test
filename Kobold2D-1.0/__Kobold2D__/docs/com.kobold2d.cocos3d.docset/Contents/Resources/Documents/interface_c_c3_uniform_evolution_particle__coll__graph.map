@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$interface_c_c3_uniform_motion_particle.html" title="CC3UniformMotionParticle is a type of CC3MortalPointParticle that moves in a straight line in a singl..." alt="" coords="11,161,183,189"/>
+<area shape="rect" id="node4" href="$interface_c_c3_mortal_point_particle.html" title="CC3MortalPointParticle is a type of CC3PointParticle that has a finite life." alt="" coords="22,83,172,111"/>
+<area shape="rect" id="node6" href="$interface_c_c3_point_particle.html" title="CC3PointParticle is an abstract class that represents a single particle emitted by a CC3PointParticle..." alt="" coords="40,6,153,34"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$interface_c_c_particle_system_quad.html" title="CCParticleSystemQuad" alt="" coords="29,238,176,266"/>
+<area shape="rect" id="node4" href="$interface_c_c_particle_system.html" title="CCParticleSystem" alt="" coords="43,161,161,189"/>
+<area shape="rect" id="node6" href="$interface_c_c_node.html" title="CCNode" alt="" coords="5,83,72,111"/>
+<area shape="rect" id="node8" href="$protocol_c_c_texture_protocol-p.html" title="\&lt;CCTextureProtocol\&gt;" alt="" coords="96,83,236,111"/>
+<area shape="rect" id="node10" href="$protocol_c_c_blend_protocol-p.html" title="\&lt;CCBlendProtocol\&gt;" alt="" coords="101,6,232,34"/>
+</map>

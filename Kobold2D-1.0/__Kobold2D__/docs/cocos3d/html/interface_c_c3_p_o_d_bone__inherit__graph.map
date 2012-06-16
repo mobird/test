@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$interface_c_c3_bone.html" title="CC3Bone is the building block of skeletons that control the deformation of a skin mesh..." alt="" coords="22,161,95,189"/>
+<area shape="rect" id="node4" href="$interface_c_c3_node.html" title="CC3Node and its subclasses form the basis of all 3D artifacts in the 3D world, including visible mesh..." alt="" coords="21,83,95,111"/>
+<area shape="rect" id="node6" href="$interface_c_c3_identifiable.html" title="This is a base subclass for any class that uses tags or names to identify individual instances..." alt="" coords="5,6,112,34"/>
+</map>

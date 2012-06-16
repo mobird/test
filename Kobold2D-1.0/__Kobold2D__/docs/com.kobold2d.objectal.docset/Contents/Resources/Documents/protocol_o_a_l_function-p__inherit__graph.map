@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$interface_o_a_l_exponential_function.html" title="Changes slowly at the start, and quickly at the end." alt="" coords="166,5,327,33"/>
+<area shape="rect" id="node5" href="$interface_o_a_l_linear_function.html" title="Function that changes at a constant rate." alt="" coords="181,57,312,85"/>
+<area shape="rect" id="node7" href="$interface_o_a_l_logarithmic_function.html" title="Changes quickly at the start, and slowly at the end." alt="" coords="166,109,328,137"/>
+<area shape="rect" id="node9" href="$interface_o_a_l_reverse_function.html" title="Returns the reverse of another function." alt="" coords="177,161,316,189"/>
+<area shape="rect" id="node11" href="$interface_o_a_l_s_curve_function.html" title="Changes slowly at the start, quickly at the midpoint, then slowly again at the end." alt="" coords="179,213,315,241"/>
+</map>

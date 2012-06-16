@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classb2_chain_shape.html" title="b2ChainShape" alt="" coords="5,83,104,111"/>
+<area shape="rect" id="node5" href="$classb2_circle_shape.html" title="A circle shape." alt="" coords="129,83,228,111"/>
+<area shape="rect" id="node7" href="$classb2_edge_shape.html" title="b2EdgeShape" alt="" coords="253,83,347,111"/>
+<area shape="rect" id="node9" href="$classb2_polygon_shape.html" title="b2PolygonShape" alt="" coords="371,83,481,111"/>
+</map>

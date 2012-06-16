@@ -1,0 +1,59 @@
+<map id="G" name="G">
+<area shape="rect" id="node1" href="$interface_c_c3_identifiable.html" title="This is a base subclass for any class that uses tags or names to identify individual instances..." alt="" coords="5,395,112,423"/>
+<area shape="rect" id="node3" href="$interface_c_c3_material.html" title="CC3Material manages information about a material that is used to cover one or more meshes..." alt="" coords="172,58,263,86"/>
+<area shape="rect" id="node7" href="$interface_c_c3_mesh.html" title="A CC3Mesh holds the 3D mesh for a CC3MeshNode." alt="" coords="180,135,255,163"/>
+<area shape="rect" id="node23" href="$interface_c_c3_node.html" title="CC3Node and its subclasses form the basis of all 3D artifacts in the 3D world, including visible mesh..." alt="" coords="180,369,255,397"/>
+<area shape="rect" id="node87" href="$interface_c_c3_resource.html" title="CC3Resource is a wrapper class around a resource structure loaded from a data file containing 3D reso..." alt="" coords="170,421,265,449"/>
+<area shape="rect" id="node91" href="$interface_c_c3_texture.html" title="Each instance of CC3Texture wraps a cocos2d CCTexture2D instance, and manages applying that texture t..." alt="" coords="174,473,261,501"/>
+<area shape="rect" id="node93" href="$interface_c_c3_vertex_array.html" title="CC3VertexArray manages the data associated with an aspect of a vertex." alt="" coords="161,758,274,786"/>
+<area shape="rect" id="node5" href="$interface_c_c3_p_o_d_material.html" title="A CC3Material whose content originates from POD resource data." alt="" coords="359,31,476,59"/>
+<area shape="rect" id="node9" href="$interface_c_c3_mesh_model.html" title="Deprecated CC3MeshModel renamed to CC3Mesh." alt="" coords="362,83,472,111"/>
+<area shape="rect" id="node11" href="$interface_c_c3_vertex_array_mesh.html" title="A CC3VertexArrayMesh is a mesh whose mesh data is kept in a set of CC3VertexArrays instances..." alt="" coords="346,135,489,163"/>
+<area shape="rect" id="node13" href="$interface_c_c3_p_o_d_mesh.html" title="A CC3VertexArrayMesh whose content originates from POD resource data." alt="" coords="598,5,700,33"/>
+<area shape="rect" id="node15" href="$interface_c_c3_point_particle_mesh.html" title="A mesh whose vertices are used to display point particles." alt="" coords="577,57,721,85"/>
+<area shape="rect" id="node17" href="$interface_c_c3_skin_mesh.html" title="CC3SkinMesh is a CC3VertexArrayMesh that, in addition to the familiar vertex data such as locations..." alt="" coords="599,109,699,137"/>
+<area shape="rect" id="node21" href="$interface_c_c3_vertex_array_mesh_model.html" title="Deprecated CC3VertexArrayMeshModel renamed to CC3VertexArrayMesh." alt="" coords="561,161,738,189"/>
+<area shape="rect" id="node19" href="$interface_c_c3_p_o_d_skin_mesh.html" title="A CC3SkinMesh extracted from a POD file." alt="" coords="814,57,941,85"/>
+<area shape="rect" id="node25" href="$interface_c_c3_bone.html" title="CC3Bone is the building block of skeletons that control the deformation of a skin mesh..." alt="" coords="380,213,454,241"/>
+<area shape="rect" id="node29" href="$interface_c_c3_local_content_node.html" title="CC3LocalContentNode is an abstract class that forms the basis for nodes that have local content to dr..." alt="" coords="344,265,491,293"/>
+<area shape="rect" id="node65" href="$interface_c_c3_p_o_d_node.html" title="A CC3Node extracted from a POD file." alt="" coords="367,317,468,345"/>
+<area shape="rect" id="node67" href="$interface_c_c3_resource_node.html" title="A CC3ResourceNode is a CC3Node that that wraps an instance of a subclass of CC3Resource in the resour..." alt="" coords="355,369,479,397"/>
+<area shape="rect" id="node71" href="$interface_c_c3_soft_body_node.html" title="CC3SoftBodyNode is the primary structural component for a soft&#45;body object that uses vertex skinning ..." alt="" coords="354,421,480,449"/>
+<area shape="rect" id="node73" href="$interface_c_c3_targetting_node.html" title="This is a node class representing a 3D model node that can be pointed in a particular direction..." alt="" coords="352,473,482,501"/>
+<area shape="rect" id="node85" href="$interface_c_c3_world.html" title="CC3World is a CC3Node that manages a 3D scene." alt="" coords="377,525,457,553"/>
+<area shape="rect" id="node27" href="$interface_c_c3_p_o_d_bone.html" title="A CC3Bone extracted from a POD file." alt="" coords="599,213,700,241"/>
+<area shape="rect" id="node31" href="$interface_c_c3_mesh_node.html" title="A CC3Node that draws a 3D mesh." alt="" coords="597,265,701,293"/>
+<area shape="rect" id="node33" href="$interface_c_c3_billboard.html" title="This CC3Node displays a 2D cocos2d CCNode as part of the 3D world." alt="" coords="829,109,925,137"/>
+<area shape="rect" id="node39" href="$interface_c_c3_box_node.html" title="CC3BoxNode is a type of CC3MeshNode that is specialized to display simple box or cube meshes..." alt="" coords="829,161,926,189"/>
+<area shape="rect" id="node41" href="$interface_c_c3_line_node.html" title="CC3LineNode is a type of CC3MeshNode that is specialized to display lines." alt="" coords="828,213,927,241"/>
+<area shape="rect" id="node49" href="$interface_c_c3_plane_node.html" title="CC3PlaneNode is a type of CC3MeshNode that is specialized to display planes and simple rectanglular m..." alt="" coords="825,265,929,293"/>
+<area shape="rect" id="node51" href="$interface_c_c3_p_o_d_mesh_node.html" title="A CC3MeshNode whose content originates from POD resource data." alt="" coords="812,317,943,345"/>
+<area shape="rect" id="node53" href="$interface_c_c3_point_particle_emitter.html" title="A CC3MeshNode that emits 3D point particles." alt="" coords="800,369,955,397"/>
+<area shape="rect" id="node61" href="$interface_c_c3_skin_mesh_node.html" title="CC3SkinMeshNode is a CC3MeshNode specialized to use vertex skinning to draw the contents of its mesh..." alt="" coords="813,421,942,449"/>
+<area shape="rect" id="node35" href="$interface_c_c3_node_descriptor.html" title="CC3NodeDescriptor is a type of CC3Billboard specialized for attaching a descriptive text label to ano..." alt="" coords="1055,83,1185,111"/>
+<area shape="rect" id="node37" href="$interface_c_c3_particle_system_billboard.html" title="A CC3Billboard node customized to display and manage a cocos2d 2D CCParticleSystem." alt="" coords="1032,135,1208,163"/>
+<area shape="rect" id="node43" href="$interface_c_c3_wireframe_bounding_box_node.html" title="CC3WireframeBoundingBoxNode is a type of CC3LineNode specialized for drawing a wireframe bounding box..." alt="" coords="1016,213,1224,241"/>
+<area shape="rect" id="node45" href="$interface_c_c3_direction_marker_node.html" title="CC3DirectionMarkerNode is a type of CC3LineNode specialized for drawing a line from the pivot point o..." alt="" coords="1330,187,1494,215"/>
+<area shape="rect" id="node47" href="$interface_c_c3_wireframe_local_content_bounding_box_node.html" title="CC3WireframeLocalContentBoundingBoxNode is a CC3WireframeBoundingBoxNode that further specializes in ..." alt="" coords="1272,239,1552,267"/>
+<area shape="rect" id="node55" href="$interface_c_c3_mortal_point_particle_emitter.html" title="CC3MortalPointParticleEmitter emits particles of type CC3MortalPointParticle." alt="" coords="1025,369,1215,397"/>
+<area shape="rect" id="node57" href="$interface_c_c3_point_particle_hose_emitter.html" title="CC3PointParticleHoseEmitter emits CC3UniformMotionParticle particles in a stream, as if from the nozz..." alt="" coords="1321,369,1503,397"/>
+<area shape="rect" id="node59" href="$interface_c_c3_variegated_point_particle_hose_emitter.html" title="CC3VariegatedPointParticleHoseEmitter is a type of CC3PointParticleHoseEmitter whose particles can ha..." alt="" coords="1600,369,1840,397"/>
+<area shape="rect" id="node63" href="$interface_c_c3_p_o_d_skin_mesh_node.html" title="A CC3SkinMeshNode extracted from a POD file." alt="" coords="1042,421,1198,449"/>
+<area shape="rect" id="node69" href="$interface_c_c3_p_o_d_resource_node.html" title="A CC3ResourceNode that that wraps a CC3PODResource PVR POD resource." alt="" coords="574,369,725,397"/>
+<area shape="rect" id="node75" href="$interface_c_c3_camera.html" title="CC3Camera represents the camera viewing the 3D world." alt="" coords="606,473,693,501"/>
+<area shape="rect" id="node79" href="$interface_c_c3_light.html" title="CC3Light represents the light in the 3D world." alt="" coords="612,525,687,553"/>
+<area shape="rect" id="node83" href="$interface_c_c3_light_tracker.html" title="CC3LightTracker is a specialized CC3TargettingNode that tracks a target and automatically updates its..." alt="" coords="591,577,707,605"/>
+<area shape="rect" id="node77" href="$interface_c_c3_p_o_d_camera.html" title="A CC3Camera whose content originates from POD resource data." alt="" coords="820,473,934,501"/>
+<area shape="rect" id="node81" href="$interface_c_c3_p_o_d_light.html" title="A CC3Light whose content originates from POD resource data." alt="" coords="827,525,928,553"/>
+<area shape="rect" id="node89" href="$interface_c_c3_p_o_d_resource.html" title="CC3PODResource is a CC3Resource that wraps a PVR POD data structure loaded from a file..." alt="" coords="356,577,478,605"/>
+<area shape="rect" id="node95" href="$interface_c_c3_drawable_vertex_array.html" title="This abstract subclass of CC3VertexArray adds the functionality to draw the vertex data to the displa..." alt="" coords="335,629,500,657"/>
+<area shape="rect" id="node103" href="$interface_c_c3_vertex_colors.html" title="A CC3VertexArray that manages the per&#45;vertex color aspect of an array of vertices." alt="" coords="359,681,476,709"/>
+<area shape="rect" id="node105" href="$interface_c_c3_vertex_matrix_indices.html" title="A CC3VertexArray that manages a collection of indices used by each vertex to point to a collection of..." alt="" coords="339,733,496,761"/>
+<area shape="rect" id="node107" href="$interface_c_c3_vertex_normals.html" title="A CC3VertexArray that manages the normal aspect of an array of vertices." alt="" coords="353,785,481,813"/>
+<area shape="rect" id="node109" href="$interface_c_c3_vertex_point_sizes.html" title="A CC3VertexArray that manages the point sizes aspect of an array of point sprite vertices." alt="" coords="348,837,487,865"/>
+<area shape="rect" id="node111" href="$interface_c_c3_vertex_texture_coordinates.html" title="A CC3VertexArray that manages the texture coordinates aspect of an array of vertices." alt="" coords="323,889,511,917"/>
+<area shape="rect" id="node113" href="$interface_c_c3_vertex_weights.html" title="A CC3VertexArray that manages a collection of weights used by each vertex during vertex skinning..." alt="" coords="354,941,481,969"/>
+<area shape="rect" id="node97" href="$interface_c_c3_vertex_indices.html" title="A CC3VertexArray that manages the drawing indices of an array of vertices." alt="" coords="589,629,710,657"/>
+<area shape="rect" id="node101" href="$interface_c_c3_vertex_locations.html" title="A CC3VertexArray that manages the location aspect of an array of vertices." alt="" coords="582,681,717,709"/>
+<area shape="rect" id="node99" href="$interface_c_c3_vertex_run_length_indices.html" title="An index array that manages the drawing indices of an array of vertices, treating the index array as ..." alt="" coords="787,629,968,657"/>
+</map>

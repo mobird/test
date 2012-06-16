@@ -1,0 +1,12 @@
+<map id="G" name="G">
+<area shape="rect" id="node1" href="$interface_c_c3_transform_by.html" title="CC3TransformBy is an abstract subclass of CCActionInterval that is the parent of subclasses that tran..." alt="" coords="5,83,123,111"/>
+<area shape="rect" id="node3" href="$interface_c_c3_move_by.html" title="CC3MoveBy is a CCActionInterval that moves a target CC3Node by a specific translation amount..." alt="" coords="183,5,276,33"/>
+<area shape="rect" id="node5" href="$interface_c_c3_rotate_by.html" title="CC3RotateBy is a CCActionInterval that rotates a target CC3Node by a specific rotation amount..." alt="" coords="181,57,277,85"/>
+<area shape="rect" id="node7" href="$interface_c_c3_scale_by.html" title="CC3ScaleBy is a CCActionInterval that scales a target CC3Node by a specific scale factor..." alt="" coords="184,109,274,137"/>
+<area shape="rect" id="node9" href="$interface_c_c3_transform_to.html" title="CC3TransformTo is an abstract subclass of CCActionInterval that is the parent of subclasses that tran..." alt="" coords="171,161,288,189"/>
+<area shape="rect" id="node11" href="$interface_c_c3_move_to.html" title="CC3MoveTo is a CCActionInterval that moves a target CC3Node to a specific location." alt="" coords="375,82,467,110"/>
+<area shape="rect" id="node13" href="$interface_c_c3_rotate_to.html" title="CC3RotateTo is a CCActionInterval that rotates a target CC3Node to a specific orientation." alt="" coords="374,134,469,162"/>
+<area shape="rect" id="node15" href="$interface_c_c3_rotate_to_look_towards.html" title="CC3RotateToLookTowards is a CCActionInterval that rotates a target CC3Node to look towards a specific..." alt="" coords="336,186,506,214"/>
+<area shape="rect" id="node19" href="$interface_c_c3_scale_to.html" title="CC3ScaleTo is a CCActionInterval that scales a target CC3Node to a specific scale." alt="" coords="377,238,466,266"/>
+<area shape="rect" id="node17" href="$interface_c_c3_rotate_to_look_at.html" title="CC3RotateToLookAt is a CCActionInterval that rotates a target CC3Node to look at a specific location..." alt="" coords="556,186,692,214"/>
+</map>

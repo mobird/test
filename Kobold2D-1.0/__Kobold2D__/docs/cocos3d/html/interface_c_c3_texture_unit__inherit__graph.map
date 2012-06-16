@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$interface_c_c3_bump_map_texture_unit.html" title="A texture unit configured for DOT3 bump&#45;mapping." alt="" coords="4,83,171,111"/>
+<area shape="rect" id="node5" href="$interface_c_c3_configurable_texture_unit.html" title="A texture unit that provides complete flexibility to define the way the texture will be combined with..." alt="" coords="196,83,376,111"/>
+</map>

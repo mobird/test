@@ -1,0 +1,16 @@
+<map id="G" name="G">
+<area shape="rect" id="node7" href="$interface_c_c_call_func.html" title="CCCallFunc" alt="" coords="495,31,583,59"/>
+<area shape="rect" id="node15" href="$interface_c_c_flip_x.html" title="CCFlipX" alt="" coords="504,83,574,111"/>
+<area shape="rect" id="node17" href="$interface_c_c_flip_y.html" title="CCFlipY" alt="" coords="504,135,574,163"/>
+<area shape="rect" id="node19" href="$interface_c_c_hide.html" title="CCHide" alt="" coords="506,187,571,215"/>
+<area shape="rect" id="node21" href="$interface_c_c_place.html" title="CCPlace" alt="" coords="505,239,573,267"/>
+<area shape="rect" id="node23" href="$interface_c_c_reuse_grid.html" title="CCReuseGrid" alt="" coords="491,291,587,319"/>
+<area shape="rect" id="node25" href="$interface_c_c_show.html" title="CCShow" alt="" coords="504,343,573,371"/>
+<area shape="rect" id="node27" href="$interface_c_c_stop_grid.html" title="CCStopGrid" alt="" coords="495,395,583,423"/>
+<area shape="rect" id="node29" href="$interface_c_c_toggle_visibility.html" title="CCToggleVisibility" alt="" coords="475,447,602,475"/>
+<area shape="rect" id="node2" href="$interface_c_c_finite_time_action.html" title="CCFiniteTimeAction" alt="" coords="131,239,266,267"/>
+<area shape="rect" id="node4" href="$interface_c_c_action.html" title="CCAction" alt="" coords="6,239,82,267"/>
+<area shape="rect" id="node9" href="$interface_c_c_call_func_n.html" title="CCCallFuncN" alt="" coords="651,6,749,34"/>
+<area shape="rect" id="node13" href="$interface_c_c_call_func_o.html" title="CCCallFuncO" alt="" coords="651,58,749,86"/>
+<area shape="rect" id="node11" href="$interface_c_c_call_func_n_d.html" title="CCCallFuncND" alt="" coords="797,6,904,34"/>
+</map>

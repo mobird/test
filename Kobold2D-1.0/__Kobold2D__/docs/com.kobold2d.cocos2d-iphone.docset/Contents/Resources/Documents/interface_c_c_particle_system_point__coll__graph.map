@@ -1,0 +1,19 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$interface_c_c_particle_system.html" title="CCParticleSystem" alt="" coords="292,318,411,346"/>
+<area shape="rect" id="node4" href="$interface_c_c_node.html" title="CCNode" alt="" coords="497,209,564,237"/>
+<area shape="rect" id="node7" href="$interface_c_c_grid_base.html" title="CCGridBase" alt="" coords="486,99,575,127"/>
+<area shape="rect" id="node9" href="$structcc_grid_size.html" title="A 2D grid size." alt="" coords="508,6,588,34"/>
+<area shape="rect" id="node11" href="$interface_c_c_grabber.html" title="CCGrabber" alt="" coords="612,6,695,34"/>
+<area shape="rect" id="node13" href="$interface_c_c_texture2_d.html" title="CCTexture2D" alt="" coords="385,6,481,34"/>
+<area shape="rect" id="node15" href="$interface_c_c_array.html" title="CCArray" alt="" coords="600,99,669,127"/>
+<area shape="rect" id="node17" href="$structcc_array.html" title="ccArray" alt="" coords="719,6,783,34"/>
+<area shape="rect" id="node19" href="$interface_c_c_camera.html" title="CCCamera" alt="" coords="694,99,775,127"/>
+<area shape="rect" id="node21" href="$protocol_c_c_texture_protocol-p.html" title="\&lt;CCTextureProtocol\&gt;" alt="" coords="4,209,144,237"/>
+<area shape="rect" id="node23" href="$protocol_c_c_blend_protocol-p.html" title="\&lt;CCBlendProtocol\&gt;" alt="" coords="9,99,140,127"/>
+<area shape="rect" id="node25" href="$structcc_blend_func.html" title="Blend Function used for textures." alt="" coords="169,209,260,237"/>
+<area shape="rect" id="node28" href="$structt_c_c_particle.html" title="tCCParticle" alt="" coords="285,209,368,237"/>
+<area shape="rect" id="node30" href="$structcc_color4_f.html" title="ccColor4F" alt="" coords="288,99,365,127"/>
+<area shape="rect" id="node32" href="$structcc_point_sprite.html" title="Point Sprite component." alt="" coords="651,318,743,346"/>
+<area shape="rect" id="node34" href="$structcc_color4_b.html" title="ccColor4B" alt="" coords="763,209,841,237"/>
+<area shape="rect" id="node36" href="$structcc_vertex2_f.html" title="ccVertex2F" alt="" coords="656,209,739,237"/>
+</map>

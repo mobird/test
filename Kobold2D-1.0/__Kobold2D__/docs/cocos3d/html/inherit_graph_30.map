@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node1" href="$interface_c_c3_tint_to.html" title="CC3TintTo is an abstract CCActionInterval whose subclasses changes one of the color properties of a t..." alt="" coords="5,83,88,111"/>
+<area shape="rect" id="node3" href="$interface_c_c3_tint_ambient_to.html" title="A concrete subclass of CC3TintTo that changes the ambient color of the target CC3Node." alt="" coords="138,5,267,33"/>
+<area shape="rect" id="node5" href="$interface_c_c3_tint_diffuse_to.html" title="A concrete subclass of CC3TintTo that changes the diffuse color of the target CC3Node." alt="" coords="141,57,264,85"/>
+<area shape="rect" id="node7" href="$interface_c_c3_tint_emission_to.html" title="A concrete subclass of CC3TintTo that changes the emission color of the target CC3Node." alt="" coords="136,109,269,137"/>
+<area shape="rect" id="node9" href="$interface_c_c3_tint_specular_to.html" title="A concrete subclass of CC3TintTo that changes the specular color of the target CC3Node." alt="" coords="138,161,267,189"/>
+</map>

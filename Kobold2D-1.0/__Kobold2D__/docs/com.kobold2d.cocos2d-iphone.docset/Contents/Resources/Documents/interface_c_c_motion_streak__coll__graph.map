@@ -1,0 +1,15 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$interface_c_c_node.html" title="CCNode" alt="" coords="121,193,188,221"/>
+<area shape="rect" id="node23" href="$interface_c_c_ribbon.html" title="CCRibbon" alt="" coords="279,286,357,314"/>
+<area shape="rect" id="node5" href="$interface_c_c_grid_base.html" title="CCGridBase" alt="" coords="207,99,296,127"/>
+<area shape="rect" id="node7" href="$structcc_grid_size.html" title="A 2D grid size." alt="" coords="102,6,183,34"/>
+<area shape="rect" id="node9" href="$interface_c_c_grabber.html" title="CCGrabber" alt="" coords="207,6,289,34"/>
+<area shape="rect" id="node11" href="$interface_c_c_texture2_d.html" title="CCTexture2D" alt="" coords="330,6,427,34"/>
+<area shape="rect" id="node13" href="$interface_c_c_array.html" title="CCArray" alt="" coords="8,99,77,127"/>
+<area shape="rect" id="node15" href="$structcc_array.html" title="ccArray" alt="" coords="11,6,75,34"/>
+<area shape="rect" id="node17" href="$interface_c_c_camera.html" title="CCCamera" alt="" coords="102,99,183,127"/>
+<area shape="rect" id="node19" href="$protocol_c_c_texture_protocol-p.html" title="\&lt;CCTextureProtocol\&gt;" alt="" coords="434,193,573,221"/>
+<area shape="rect" id="node21" href="$protocol_c_c_blend_protocol-p.html" title="\&lt;CCBlendProtocol\&gt;" alt="" coords="438,99,569,127"/>
+<area shape="rect" id="node27" href="$structcc_blend_func.html" title="Blend Function used for textures." alt="" coords="5,193,96,221"/>
+<area shape="rect" id="node29" href="$structcc_color4_b.html" title="ccColor4B" alt="" coords="279,193,357,221"/>
+</map>

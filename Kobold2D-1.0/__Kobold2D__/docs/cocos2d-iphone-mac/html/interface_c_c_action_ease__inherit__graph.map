@@ -1,0 +1,26 @@
+<map id="G" name="G">
+<area shape="rect" id="node9" href="$interface_c_c_ease_back_in.html" title="CCEaseBackIn" alt="" coords="658,5,761,33"/>
+<area shape="rect" id="node11" href="$interface_c_c_ease_back_in_out.html" title="CCEaseBackInOut" alt="" coords="648,57,771,85"/>
+<area shape="rect" id="node13" href="$interface_c_c_ease_back_out.html" title="CCEaseBackOut" alt="" coords="653,109,765,137"/>
+<area shape="rect" id="node15" href="$interface_c_c_ease_bounce.html" title="CCEaseBounce" alt="" coords="657,161,762,189"/>
+<area shape="rect" id="node23" href="$interface_c_c_ease_elastic.html" title="CCEaseElastic" alt="" coords="659,213,760,241"/>
+<area shape="rect" id="node31" href="$interface_c_c_ease_exponential_in.html" title="CCEaseExponentialIn" alt="" coords="639,265,779,293"/>
+<area shape="rect" id="node33" href="$interface_c_c_ease_exponential_in_out.html" title="CCEaseExponentialInOut" alt="" coords="629,317,789,345"/>
+<area shape="rect" id="node35" href="$interface_c_c_ease_exponential_out.html" title="CCEaseExponentialOut" alt="" coords="635,369,784,397"/>
+<area shape="rect" id="node37" href="$interface_c_c_ease_rate_action.html" title="CCEaseRateAction" alt="" coords="647,421,772,449"/>
+<area shape="rect" id="node45" href="$interface_c_c_ease_sine_in.html" title="CCEaseSineIn" alt="" coords="660,473,759,501"/>
+<area shape="rect" id="node47" href="$interface_c_c_ease_sine_in_out.html" title="CCEaseSineInOut" alt="" coords="650,525,769,553"/>
+<area shape="rect" id="node49" href="$interface_c_c_ease_sine_out.html" title="CCEaseSineOut" alt="" coords="655,577,763,605"/>
+<area shape="rect" id="node2" href="$interface_c_c_action_interval.html" title="CCActionInterval" alt="" coords="315,291,432,319"/>
+<area shape="rect" id="node4" href="$interface_c_c_finite_time_action.html" title="CCFiniteTimeAction" alt="" coords="131,291,266,319"/>
+<area shape="rect" id="node6" href="$interface_c_c_action.html" title="CCAction" alt="" coords="6,291,82,319"/>
+<area shape="rect" id="node17" href="$interface_c_c_ease_bounce_in.html" title="CCEaseBounceIn" alt="" coords="847,57,963,85"/>
+<area shape="rect" id="node19" href="$interface_c_c_ease_bounce_in_out.html" title="CCEaseBounceInOut" alt="" coords="837,109,973,137"/>
+<area shape="rect" id="node21" href="$interface_c_c_ease_bounce_out.html" title="CCEaseBounceOut" alt="" coords="843,161,968,189"/>
+<area shape="rect" id="node25" href="$interface_c_c_ease_elastic_in.html" title="CCEaseElasticIn" alt="" coords="849,213,961,241"/>
+<area shape="rect" id="node27" href="$interface_c_c_ease_elastic_in_out.html" title="CCEaseElasticInOut" alt="" coords="839,265,971,293"/>
+<area shape="rect" id="node29" href="$interface_c_c_ease_elastic_out.html" title="CCEaseElasticOut" alt="" coords="845,317,966,345"/>
+<area shape="rect" id="node39" href="$interface_c_c_ease_in.html" title="CCEaseIn" alt="" coords="868,369,943,397"/>
+<area shape="rect" id="node41" href="$interface_c_c_ease_in_out.html" title="CCEaseInOut" alt="" coords="858,421,953,449"/>
+<area shape="rect" id="node43" href="$interface_c_c_ease_out.html" title="CCEaseOut" alt="" coords="863,473,947,501"/>
+</map>

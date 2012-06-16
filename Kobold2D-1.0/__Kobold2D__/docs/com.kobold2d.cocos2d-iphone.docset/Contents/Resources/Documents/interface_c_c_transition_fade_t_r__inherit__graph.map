@@ -1,0 +1,9 @@
+<map id="G" name="G">
+<area shape="rect" id="node11" href="$interface_c_c_transition_fade_b_l.html" title="CCTransitionFadeBL" alt="" coords="5,315,141,343"/>
+<area shape="rect" id="node13" href="$interface_c_c_transition_fade_down.html" title="CCTransitionFadeDown" alt="" coords="165,315,317,343"/>
+<area shape="rect" id="node15" href="$interface_c_c_transition_fade_up.html" title="CCTransitionFadeUp" alt="" coords="341,315,477,343"/>
+<area shape="rect" id="node2" href="$interface_c_c_transition_scene.html" title="CCTransitionScene" alt="" coords="94,161,220,189"/>
+<area shape="rect" id="node4" href="$interface_c_c_scene.html" title="CCScene" alt="" coords="122,83,192,111"/>
+<area shape="rect" id="node6" href="$interface_c_c_node.html" title="CCNode" alt="" coords="123,6,191,34"/>
+<area shape="rect" id="node8" href="$protocol_c_c_transition_ease_scene-p.html" title="\&lt;CCTransitionEaseScene\&gt;" alt="" coords="244,161,409,189"/>
+</map>

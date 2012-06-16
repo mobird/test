@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node1" href="$interface_c_c3_node_animation.html" title="An instance of a subclass of CC3NodeAnimation manages the animation of nodes." alt="" coords="6,31,138,59"/>
+<area shape="rect" id="node3" href="$interface_c_c3_array_node_animation.html" title="A concrete CC3NodeAnimation that holds animation data in simple arrays." alt="" coords="187,5,349,33"/>
+<area shape="rect" id="node5" href="$interface_c_c3_p_o_d_node_animation.html" title="POD files can contain information to animate the nodes." alt="" coords="189,57,347,85"/>
+</map>

@@ -1,0 +1,22 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$interface_c_c_atlas_node.html" title="CCAtlasNode" alt="" coords="651,443,747,471"/>
+<area shape="rect" id="node4" href="$interface_c_c_node.html" title="CCNode" alt="" coords="423,334,491,362"/>
+<area shape="rect" id="node7" href="$interface_c_c_grid_base.html" title="CCGridBase" alt="" coords="350,241,439,269"/>
+<area shape="rect" id="node9" href="$structcc_grid_size.html" title="A 2D grid size." alt="" coords="353,99,433,127"/>
+<area shape="rect" id="node11" href="$interface_c_c_grabber.html" title="CCGrabber" alt="" coords="457,99,540,127"/>
+<area shape="rect" id="node13" href="$interface_c_c_texture2_d.html" title="CCTexture2D" alt="" coords="232,99,328,127"/>
+<area shape="rect" id="node31" href="$interface_c_c_texture_atlas.html" title="CCTextureAtlas" alt="" coords="219,334,327,362"/>
+<area shape="rect" id="node15" href="$interface_c_c_array.html" title="CCArray" alt="" coords="464,241,533,269"/>
+<area shape="rect" id="node17" href="$structcc_array.html" title="ccArray" alt="" coords="564,99,628,127"/>
+<area shape="rect" id="node19" href="$interface_c_c_camera.html" title="CCCamera" alt="" coords="558,241,639,269"/>
+<area shape="rect" id="node21" href="$protocol_c_c_r_g_b_a_protocol-p.html" title="CC RGBA protocol." alt="" coords="582,334,719,362"/>
+<area shape="rect" id="node23" href="$protocol_c_c_texture_protocol-p.html" title="\&lt;CCTextureProtocol\&gt;" alt="" coords="743,334,883,362"/>
+<area shape="rect" id="node25" href="$protocol_c_c_blend_protocol-p.html" title="\&lt;CCBlendProtocol\&gt;" alt="" coords="748,241,879,269"/>
+<area shape="rect" id="node27" href="$structcc_blend_func.html" title="Blend Function used for textures." alt="" coords="907,334,999,362"/>
+<area shape="rect" id="node29" href="$structcc_color3_b.html" title="ccColor3B" alt="" coords="1023,334,1101,362"/>
+<area shape="rect" id="node34" href="$structcc_v3_f___c4_b___t2_f___quad.html" title="4 ccVertex3FTex2FColor4B" alt="" coords="73,241,225,269"/>
+<area shape="rect" id="node36" href="$structcc_v3_f___c4_b___t2_f.html" title="a Point with a vertex point, a tex coord point and a color 4B" alt="" coords="91,99,207,127"/>
+<area shape="rect" id="node38" href="$structcc_color4_b.html" title="ccColor4B" alt="" coords="4,6,83,34"/>
+<area shape="rect" id="node40" href="$structcc_vertex3_f.html" title="ccVertex3F" alt="" coords="108,6,191,34"/>
+<area shape="rect" id="node42" href="$structcc_tex2_f.html" title="ccTex2F" alt="" coords="215,6,283,34"/>
+</map>

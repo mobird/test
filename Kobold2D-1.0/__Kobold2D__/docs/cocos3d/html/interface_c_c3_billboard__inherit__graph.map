@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="node11" href="$interface_c_c3_node_descriptor.html" title="CC3NodeDescriptor is a type of CC3Billboard specialized for attaching a descriptive text label to ano..." alt="" coords="5,393,136,421"/>
+<area shape="rect" id="node13" href="$interface_c_c3_particle_system_billboard.html" title="A CC3Billboard node customized to display and manage a cocos2d 2D CCParticleSystem." alt="" coords="160,393,336,421"/>
+<area shape="rect" id="node2" href="$interface_c_c3_mesh_node.html" title="A CC3Node that draws a 3D mesh." alt="" coords="107,238,211,266"/>
+<area shape="rect" id="node4" href="$interface_c_c3_local_content_node.html" title="CC3LocalContentNode is an abstract class that forms the basis for nodes that have local content to dr..." alt="" coords="85,161,232,189"/>
+<area shape="rect" id="node6" href="$interface_c_c3_node.html" title="CC3Node and its subclasses form the basis of all 3D artifacts in the 3D world, including visible mesh..." alt="" coords="121,83,195,111"/>
+<area shape="rect" id="node8" href="$interface_c_c3_identifiable.html" title="This is a base subclass for any class that uses tags or names to identify individual instances..." alt="" coords="105,6,212,34"/>
+</map>

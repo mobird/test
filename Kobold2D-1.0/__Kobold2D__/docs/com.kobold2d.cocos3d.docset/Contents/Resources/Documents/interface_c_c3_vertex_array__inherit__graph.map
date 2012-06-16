@@ -1,0 +1,13 @@
+<map id="G" name="G">
+<area shape="rect" id="node5" href="$interface_c_c3_drawable_vertex_array.html" title="This abstract subclass of CC3VertexArray adds the functionality to draw the vertex data to the displa..." alt="" coords="335,31,500,59"/>
+<area shape="rect" id="node13" href="$interface_c_c3_vertex_colors.html" title="A CC3VertexArray that manages the per&#45;vertex color aspect of an array of vertices." alt="" coords="359,83,476,111"/>
+<area shape="rect" id="node15" href="$interface_c_c3_vertex_matrix_indices.html" title="A CC3VertexArray that manages a collection of indices used by each vertex to point to a collection of..." alt="" coords="339,135,496,163"/>
+<area shape="rect" id="node17" href="$interface_c_c3_vertex_normals.html" title="A CC3VertexArray that manages the normal aspect of an array of vertices." alt="" coords="353,187,481,215"/>
+<area shape="rect" id="node19" href="$interface_c_c3_vertex_point_sizes.html" title="A CC3VertexArray that manages the point sizes aspect of an array of point sprite vertices." alt="" coords="348,239,487,267"/>
+<area shape="rect" id="node21" href="$interface_c_c3_vertex_texture_coordinates.html" title="A CC3VertexArray that manages the texture coordinates aspect of an array of vertices." alt="" coords="323,291,511,319"/>
+<area shape="rect" id="node23" href="$interface_c_c3_vertex_weights.html" title="A CC3VertexArray that manages a collection of weights used by each vertex during vertex skinning..." alt="" coords="354,343,481,371"/>
+<area shape="rect" id="node2" href="$interface_c_c3_identifiable.html" title="This is a base subclass for any class that uses tags or names to identify individual instances..." alt="" coords="5,187,112,215"/>
+<area shape="rect" id="node7" href="$interface_c_c3_vertex_indices.html" title="A CC3VertexArray that manages the drawing indices of an array of vertices." alt="" coords="568,6,688,34"/>
+<area shape="rect" id="node11" href="$interface_c_c3_vertex_locations.html" title="A CC3VertexArray that manages the location aspect of an array of vertices." alt="" coords="561,58,695,86"/>
+<area shape="rect" id="node9" href="$interface_c_c3_vertex_run_length_indices.html" title="An index array that manages the drawing indices of an array of vertices, treating the index array as ..." alt="" coords="744,6,925,34"/>
+</map>

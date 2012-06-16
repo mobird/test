@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="node6" href="$classb2_fixture.html" title="b2Fixture" alt="" coords="174,302,247,330"/>
+<area shape="rect" id="node2" href="$structb2_a_a_b_b.html" title="An axis aligned bounding box." alt="" coords="312,115,383,143"/>
+<area shape="rect" id="node4" href="$structb2_vec2.html" title="A 2D column vector." alt="" coords="317,6,379,34"/>
+<area shape="rect" id="node8" href="$classb2_body.html" title="A rigid body. These are created via b2World::CreateBody." alt="" coords="4,209,67,237"/>
+<area shape="rect" id="node11" href="$classb2_shape.html" title="b2Shape" alt="" coords="92,209,159,237"/>
+<area shape="rect" id="node13" href="$structb2_filter.html" title="This holds contact filtering data." alt="" coords="183,209,245,237"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$classb2_joint.html" title="b2Joint" alt="" coords="301,117,361,145"/>
+<area shape="rect" id="node6" href="$structb2_joint_edge.html" title="b2JointEdge" alt="" coords="394,373,481,401"/>
+<area shape="rect" id="node4" href="$classb2_body.html" title="A rigid body. These are created via b2World::CreateBody." alt="" coords="300,6,362,34"/>
+<area shape="rect" id="node13" href="$structb2_vec2.html" title="A 2D column vector." alt="" coords="139,117,201,145"/>
+</map>

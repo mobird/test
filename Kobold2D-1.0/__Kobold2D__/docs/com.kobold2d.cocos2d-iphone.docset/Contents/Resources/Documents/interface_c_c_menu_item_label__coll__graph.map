@@ -1,0 +1,14 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$interface_c_c_menu_item.html" title="CCMenuItem" alt="" coords="593,286,687,314"/>
+<area shape="rect" id="node4" href="$interface_c_c_node.html" title="CCNode" alt="" coords="215,193,283,221"/>
+<area shape="rect" id="node25" href="$interface_c_c_node.html" title="CCNode\&lt; CCLabelProtocol, CCRGBAProtocol \&gt;" alt="" coords="15,286,304,314"/>
+<area shape="rect" id="node7" href="$interface_c_c_grid_base.html" title="CCGridBase" alt="" coords="205,99,293,127"/>
+<area shape="rect" id="node9" href="$structcc_grid_size.html" title="A 2D grid size." alt="" coords="214,6,295,34"/>
+<area shape="rect" id="node11" href="$interface_c_c_grabber.html" title="CCGrabber" alt="" coords="319,6,401,34"/>
+<area shape="rect" id="node13" href="$interface_c_c_texture2_d.html" title="CCTexture2D" alt="" coords="93,6,189,34"/>
+<area shape="rect" id="node15" href="$interface_c_c_array.html" title="CCArray" alt="" coords="8,99,77,127"/>
+<area shape="rect" id="node17" href="$structcc_array.html" title="ccArray" alt="" coords="5,6,69,34"/>
+<area shape="rect" id="node19" href="$interface_c_c_camera.html" title="CCCamera" alt="" coords="337,99,417,127"/>
+<area shape="rect" id="node21" href="$protocol_c_c_r_g_b_a_protocol-p.html" title="CC RGBA protocol." alt="" coords="329,286,465,314"/>
+<area shape="rect" id="node23" href="$structcc_color3_b.html" title="ccColor3B" alt="" coords="490,286,568,314"/>
+</map>

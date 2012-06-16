@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:cocos2d-with-uikit-views-try/cocos2d-with-uikit-views-try.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:doodle-drop-try/doodle-drop-try.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:empty-project-try/empty-project-try.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Flipshot/Flipshot.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:hello-cocos3d-try/hello-cocos3d-try.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:hello-kobold2d-try/hello-kobold2d-try.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:isometric-tilemap-try/isometric-tilemap-try.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:__Kobold2D__/Kobold2D-Libraries.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:orthogonal-tilemap-try/orthogonal-tilemap-try.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:parallax-sild-scroller-try/parallax-sild-scroller-try.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:particle-effects-try/particle-effects-try.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:physics-box2d-try/physics-box2d-try.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:physics-chipmunk-spacemanager-try/physics-chipmunk-spacemanager-try.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:physics-chipmunk-try/physics-chipmunk-try.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:pinball-game-try/pinball-game-try.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:sprite-performence-try/sprite-performence-try.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:user-input-try/user-input-try.xcodeproj">
+   </FileRef>
+</Workspace>

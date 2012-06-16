@@ -1,0 +1,16 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$interface_c_c_layer.html" title="CCLayer" alt="" coords="505,273,575,301"/>
+<area shape="rect" id="node4" href="$interface_c_c_node.html" title="CCNode" alt="" coords="305,193,372,221"/>
+<area shape="rect" id="node29" href="$interface_c_c_menu_item.html" title="CCMenuItem" alt="" coords="329,273,423,301"/>
+<area shape="rect" id="node7" href="$interface_c_c_grid_base.html" title="CCGridBase" alt="" coords="134,99,223,127"/>
+<area shape="rect" id="node9" href="$structcc_grid_size.html" title="A 2D grid size." alt="" coords="5,6,85,34"/>
+<area shape="rect" id="node11" href="$interface_c_c_grabber.html" title="CCGrabber" alt="" coords="109,6,192,34"/>
+<area shape="rect" id="node13" href="$interface_c_c_texture2_d.html" title="CCTexture2D" alt="" coords="216,6,312,34"/>
+<area shape="rect" id="node15" href="$interface_c_c_array.html" title="CCArray" alt="" coords="304,99,373,127"/>
+<area shape="rect" id="node17" href="$structcc_array.html" title="ccArray" alt="" coords="336,6,400,34"/>
+<area shape="rect" id="node19" href="$interface_c_c_camera.html" title="CCCamera" alt="" coords="398,99,479,127"/>
+<area shape="rect" id="node21" href="$protocol_c_c_standard_touch_delegate-p.html" title="\&lt;CCStandardTouchDelegate\&gt;" alt="" coords="463,193,645,221"/>
+<area shape="rect" id="node23" href="$protocol_c_c_targeted_touch_delegate-p.html" title="\&lt;CCTargetedTouchDelegate\&gt;" alt="" coords="670,193,852,221"/>
+<area shape="rect" id="node25" href="$protocol_c_c_r_g_b_a_protocol-p.html" title="CC RGBA protocol." alt="" coords="598,273,735,301"/>
+<area shape="rect" id="node27" href="$structcc_color3_b.html" title="ccColor3B" alt="" coords="759,273,837,301"/>
+</map>

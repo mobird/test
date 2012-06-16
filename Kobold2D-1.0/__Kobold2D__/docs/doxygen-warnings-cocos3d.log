@@ -1,0 +1,164 @@
+warning: source Resources/ is not a readable file or directory... skipping.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cocos3d/CC3TargettingNode.h:445: warning: Compound CC3Node(CC3TargettingNode) is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cocos3d/Utility/CC3Foundation.h:399: warning: Member CCTexturedVertex (typedef) of file CC3Foundation.h is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cocos3d/Utility/CC3Logging.h:154: warning: Member LOG_FORMAT(fmt, lvl,...) (define) of file CC3Logging.h is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cocos3d/Utility/CC3Logging.h:149: warning: Member LOG_FORMAT_CLEAR(fmt,...) (define) of file CC3Logging.h is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cocos3d/Utility/CC3Logging.h:147: warning: Member LOG_FORMAT_NO_LOCATION(fmt, lvl,...) (define) of file CC3Logging.h is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cocos3d/Utility/CC3Logging.h:148: warning: Member LOG_FORMAT_WITH_LOCATION(fmt, lvl,...) (define) of file CC3Logging.h is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cocos3d/Utility/CC3Logging.h:190: warning: Member LogCleanDebug(...) (define) of file CC3Logging.h is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cocos3d/Utility/CC3Logging.h:181: warning: Member LogCleanError(...) (define) of file CC3Logging.h is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cocos3d/Utility/CC3Logging.h:172: warning: Member LogCleanInfo(...) (define) of file CC3Logging.h is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cocos3d/Utility/CC3Logging.h:199: warning: Member LogCleanRez(...) (define) of file CC3Logging.h is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cocos3d/Utility/CC3Logging.h:163: warning: Member LogCleanTrace(...) (define) of file CC3Logging.h is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cocos3d/Utility/CC3Logging.h:189: warning: Member LogDebug(...) (define) of file CC3Logging.h is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cocos3d/Utility/CC3Logging.h:180: warning: Member LogError(...) (define) of file CC3Logging.h is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cocos3d/Utility/CC3Logging.h:124: warning: Member LOGGING_REZLOAD (define) of file CC3Logging.h is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cocos3d/Utility/CC3Logging.h:171: warning: Member LogInfo(...) (define) of file CC3Logging.h is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cocos3d/Utility/CC3Logging.h:198: warning: Member LogRez(...) (define) of file CC3Logging.h is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cocos3d/Utility/CC3Logging.h:162: warning: Member LogTrace(...) (define) of file CC3Logging.h is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cocos3d/Utility/CC3Math.h:46: warning: Member DegreesToRadians(D) (define) of file CC3Math.h is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cocos3d/Utility/CC3Math.h:40: warning: Member kCircleDegrees (define) of file CC3Math.h is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cocos3d/Utility/CC3Math.h:155: warning: Member kRandomUIntMax (define) of file CC3Math.h is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cocos3d/Utility/CC3Math.h:41: warning: Member kSemiCircleDegrees (define) of file CC3Math.h is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cocos3d/Utility/CC3Math.h:39: warning: Member M_SQRT3 (define) of file CC3Math.h is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cocos3d/Utility/CC3Math.h:47: warning: Member RadiansToDegrees(R) (define) of file CC3Math.h is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cocos3d/Utility/CC3Math.h:45: warning: Member RadiansToDegreesFactor (define) of file CC3Math.h is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cocos3d/CC3Node.h:2590: warning: Member kCC3MatrixIsDirtyByAxisAngle (define) of file CC3Node.h is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cocos3d/CC3Node.h:2589: warning: Member kCC3MatrixIsDirtyByQuaternion (define) of file CC3Node.h is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cocos3d/CC3Node.h:2588: warning: Member kCC3MatrixIsDirtyByRotation (define) of file CC3Node.h is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cocos3d/OpenGLES11/CC3OpenGLES11Foundation.h:73: warning: Member LogGLErrorState(...) (define) of file CC3OpenGLES11Foundation.h is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cocos3d/OpenGLES11/CC3OpenGLES11Intercept.h:45: warning: explicit link request to 'include' could not be resolved
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cocos3d/CC3PerformanceStatistics.h:266: warning: Member kCC3RateHistogramSize (define) of file CC3PerformanceStatistics.h is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cocos3d/CC3ActionInterval.h:495: warning: Member rangeSpan (variable) of class CC3ActionRangeLimit is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cocos3d/CC3ActionInterval.h:494: warning: Member rangeStart (variable) of class CC3ActionRangeLimit is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cocos3d/CC3NodeAnimation.h:160: warning: Member locationsAreRetained (variable) of class CC3ArrayNodeAnimation is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cocos3d/CC3NodeAnimation.h:162: warning: Member quaternionsAreRetained (variable) of class CC3ArrayNodeAnimation is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cocos3d/CC3NodeAnimation.h:161: warning: Member rotationsAreRetained (variable) of class CC3ArrayNodeAnimation is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cocos3d/CC3NodeAnimation.h:163: warning: Member scalesAreRetained (variable) of class CC3ArrayNodeAnimation is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cocos3d/CC3Billboard.h:530: warning: Member globalBoundingRectVertices[4] (variable) of class CC3BillboardBoundingBoxArea is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cocos3d/CC3Camera.h:111: warning: Member isProjectionDirty (variable) of class CC3Camera is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cocos3d/CC3TargettingNode.h:364: warning: Member isForwardDirectionDirty (variable) of class CC3DirectionalRotator is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cocos3d/CC3TargettingNode.h:366: warning: Member isRightDirectionDirty (variable) of class CC3DirectionalRotator is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cocos3d/CC3TargettingNode.h:365: warning: Member isUpDirectionDirty (variable) of class CC3DirectionalRotator is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cocos3d/CC3VertexArrays.h:469: warning: Member stripLengthsAreRetained (variable) of class CC3DrawableVertexArray is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cocos3d/OpenGLES11/CC3EAGLView.h:121: warning: Member pickerDepthBuffer (variable) of class CC3ES1Renderer is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cocos3d/OpenGLES11/CC3EAGLView.h:120: warning: Member pickerFrameBuffer (variable) of class CC3ES1Renderer is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cocos3d/CC3Camera.h:603: warning: Member arePlanesDirty (variable) of class CC3Frustum is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cocos3d/CC3Light.h:81: warning: Member gles11Light (variable) of class CC3Light is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cocos3d/CC3Light.h:89: warning: Member lightIndex (variable) of class CC3Light is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cocos3d/CC3Material.h:157: warning: Member textureOverlays (variable) of class CC3Material is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cocos3d/CC3Material.h:74: warning: Unsupported xml/html tag <CCRGBAProtocol> found
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cocos3d/CC3Material.h:82: warning: Unsupported xml/html tag <CCRGBAProtocol> found
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cc3Extras/CC3ModelSampleFactory.h:50: warning: Member logoTexture (variable) of class CC3ModelSampleFactory is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cc3Extras/CC3ModelSampleFactory.h:55: warning: Member teapotVertexColors (variable) of class CC3ModelSampleFactory is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cc3Extras/CC3ModelSampleFactory.h:53: warning: Member teapotVertexIndices (variable) of class CC3ModelSampleFactory is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cc3Extras/CC3ModelSampleFactory.h:51: warning: Member teapotVertexLocations (variable) of class CC3ModelSampleFactory is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cc3Extras/CC3ModelSampleFactory.h:52: warning: Member teapotVertexNormals (variable) of class CC3ModelSampleFactory is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cc3Extras/CC3ModelSampleFactory.h:54: warning: Member teapotVertexTextureCoordinates (variable) of class CC3ModelSampleFactory is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cocos3d/CC3Node.h:151: warning: Member globalRotationMatrix (variable) of class CC3Node is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cocos3d/CC3Node.h:164: warning: Member isGlobalRotationDirty (variable) of class CC3Node is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cocos3d/CC3Node.h:163: warning: Member isTransformInvertedDirty (variable) of class CC3Node is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cocos3d/CC3BoundingVolumes.h:264: warning: Member globalBoundingBoxVertices[8] (variable) of class CC3NodeBoundingBoxVolume is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cocos3d/CC3BoundingVolumes.h:57: warning: Member volumeIsDirty (variable) of class CC3NodeBoundingVolume is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cocos3d/CC3NodeVisitor.h:417: warning: Member originalColor (variable) of class CC3NodePickingVisitor is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cocos3d/CC3NodeVisitor.h:62: warning: Member pendingRemovals (variable) of class CC3NodeVisitor is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cocos3d/OpenGLES11/CC3OpenGLES11Engine.h:112: warning: Member isClosing (variable) of class CC3OpenGLES11Engine is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cocos3d/OpenGLES11/CC3OpenGLES11Engine.h:113: warning: Member trackerToOpenWasAdded (variable) of class CC3OpenGLES11Engine is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cocos3d/OpenGLES11/CC3OpenGLES11Lighting.h:268: warning: Member lightIndex (variable) of class CC3OpenGLES11Light is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cocos3d/OpenGLES11/CC3OpenGLES11Matrices.h:129: warning: Member index (variable) of class CC3OpenGLES11MatrixPalette is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cocos3d/OpenGLES11/CC3OpenGLES11Matrices.h:50: warning: Member depthName (variable) of class CC3OpenGLES11MatrixStack is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cocos3d/OpenGLES11/CC3OpenGLES11Matrices.h:48: warning: Member mode (variable) of class CC3OpenGLES11MatrixStack is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cocos3d/OpenGLES11/CC3OpenGLES11Matrices.h:51: warning: Member modeTracker (variable) of class CC3OpenGLES11MatrixStack is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cocos3d/OpenGLES11/CC3OpenGLES11Matrices.h:49: warning: Member topName (variable) of class CC3OpenGLES11MatrixStack is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cocos3d/OpenGLES11/CC3OpenGLES11StateTracker.h:129: warning: Member isScheduledForClose (variable) of class CC3OpenGLES11StateTracker is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cocos3d/OpenGLES11/CC3OpenGLES11StateTracker.h:383: warning: End of list marker found without any preceding list items
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cocos3d/OpenGLES11/CC3OpenGLES11StateTracker.h:644: warning: End of list marker found without any preceding list items
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cocos3d/OpenGLES11/CC3OpenGLES11StateTracker.h:669: warning: Member fixedValueIsKnown (variable) of class CC3OpenGLES11StateTrackerColorFixedAndFloat is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cocos3d/OpenGLES11/CC3OpenGLES11StateTracker.h:718: warning: End of list marker found without any preceding list items
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cocos3d/OpenGLES11/CC3OpenGLES11StateTracker.h:707: warning: End of list marker found without any preceding list items
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cocos3d/OpenGLES11/CC3OpenGLES11StateTracker.h:584: warning: End of list marker found without any preceding list items
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cocos3d/OpenGLES11/CC3OpenGLES11StateTracker.h:465: warning: End of list marker found without any preceding list items
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cocos3d/OpenGLES11/CC3OpenGLES11StateTracker.h:525: warning: End of list marker found without any preceding list items
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cocos3d/OpenGLES11/CC3OpenGLES11StateTracker.h:269: warning: End of list marker found without any preceding list items
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cocos3d/OpenGLES11/CC3OpenGLES11StateTracker.h:781: warning: End of list marker found without any preceding list items
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cocos3d/OpenGLES11/CC3OpenGLES11Textures.h:234: warning: Member alphaScale (variable) of class CC3OpenGLES11TextureUnit is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cocos3d/OpenGLES11/CC3OpenGLES11Textures.h:226: warning: Member rgbScale (variable) of class CC3OpenGLES11TextureUnit is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cocos3d/OpenGLES11/CC3OpenGLES11Textures.h:213: warning: Member textureUnitIndex (variable) of class CC3OpenGLES11TextureUnit is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cocos3d/CC3PerformanceStatistics.h:285: warning: Member frameRateHistogram[kCC3RateHistogramSize] (variable) of class CC3PerformanceStatisticsHistogram is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cocos3d/CC3PerformanceStatistics.h:284: warning: Member updateRateHistogram[kCC3RateHistogramSize] (variable) of class CC3PerformanceStatisticsHistogram is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cc3PVR/CC3PODVertexSkinning.h:135: warning: Member podContentIndex (variable) of class CC3PODBone is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cc3PVR/CC3PODVertexSkinning.h:134: warning: Member podIndex (variable) of class CC3PODBone is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cc3PVR/CC3PODVertexSkinning.h:136: warning: Member podParentIndex (variable) of class CC3PODBone is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cc3PVR/CC3PODCamera.h:44: warning: Member podContentIndex (variable) of class CC3PODCamera is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cc3PVR/CC3PODCamera.h:43: warning: Member podIndex (variable) of class CC3PODCamera is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cc3PVR/CC3PODCamera.h:45: warning: Member podParentIndex (variable) of class CC3PODCamera is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cc3PVR/CC3PODCamera.h:46: warning: Member podTargetIndex (variable) of class CC3PODCamera is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cc3PVR/CC3PODLight.h:44: warning: Member podContentIndex (variable) of class CC3PODLight is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cc3PVR/CC3PODLight.h:43: warning: Member podIndex (variable) of class CC3PODLight is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cc3PVR/CC3PODLight.h:45: warning: Member podParentIndex (variable) of class CC3PODLight is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cc3PVR/CC3PODLight.h:46: warning: Member podTargetIndex (variable) of class CC3PODLight is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cc3PVR/CC3PODMaterial.h:39: warning: Member podIndex (variable) of class CC3PODMaterial is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cc3PVR/CC3PODMesh.h:57: warning: Member podIndex (variable) of class CC3PODMesh is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cc3PVR/CC3PODMeshNode.h:59: warning: Member podContentIndex (variable) of class CC3PODMeshNode is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cc3PVR/CC3PODMeshNode.h:61: warning: Member podMaterialIndex (variable) of class CC3PODMeshNode is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cc3PVR/CC3PODMeshNode.h:60: warning: Member podParentIndex (variable) of class CC3PODMeshNode is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cc3PVR/CC3PODMeshNode.h:58: warning: Member podIndex (property) of class CC3PODMeshNode is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cc3PVR/CC3PODNode.h:47: warning: Member podContentIndex (variable) of class CC3PODNode is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cc3PVR/CC3PODNode.h:46: warning: Member podIndex (variable) of class CC3PODNode is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cc3PVR/CC3PODNode.h:48: warning: Member podParentIndex (variable) of class CC3PODNode is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cc3PVR/CC3NodePODExtensions.h:130: warning: Member animatedLocations (variable) of class CC3PODNodeAnimation is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cc3PVR/CC3NodePODExtensions.h:133: warning: Member animatedQuaternions (variable) of class CC3PODNodeAnimation is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cc3PVR/CC3NodePODExtensions.h:132: warning: Member animatedQuaternionsIndices (variable) of class CC3PODNodeAnimation is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cc3PVR/CC3NodePODExtensions.h:135: warning: Member animatedScaleIndices (variable) of class CC3PODNodeAnimation is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cc3PVR/CC3NodePODExtensions.h:136: warning: Member animatedScales (variable) of class CC3PODNodeAnimation is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cc3PVR/CC3NodePODExtensions.h:129: warning: Member animatedLocationIndices (property) of class CC3PODNodeAnimation is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cc3PVR/CC3PODVertexSkinning.h:57: warning: Member podIndex (variable) of class CC3PODSkinMesh is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cc3PVR/CC3PODVertexSkinning.h:45: warning: Member podContentIndex (variable) of class CC3PODSkinMeshNode is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cc3PVR/CC3PODVertexSkinning.h:44: warning: Member podIndex (variable) of class CC3PODSkinMeshNode is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cc3PVR/CC3PODVertexSkinning.h:47: warning: Member podMaterialIndex (variable) of class CC3PODSkinMeshNode is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cc3PVR/CC3PODVertexSkinning.h:46: warning: Member podParentIndex (variable) of class CC3PODSkinMeshNode is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cocos3d/CC3PointParticles.h:261: warning: Member cachedCamera (variable) of class CC3PointParticleEmitter is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cocos3d/CC3PointParticles.h:262: warning: Member globalCameraLocation (variable) of class CC3PointParticleEmitter is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cocos3d/CC3PointParticles.h:271: warning: Member timeSinceEmission (variable) of class CC3PointParticleEmitter is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cocos3d/CC3PointParticles.h:280: warning: Member verticesAreDirty (variable) of class CC3PointParticleEmitter is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cocos3d/CC3PointParticles.h:279: warning: Member wasStarted (variable) of class CC3PointParticleEmitter is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cc3Extras/CC3PointParticleSamples.h:98: warning: Member nozzleShape (variable) of class CC3PointParticleHoseEmitter is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cocos3d/CC3ActionInterval.h:119: warning: Member diffAngle (variable) of class CC3RotateByAngle is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cocos3d/CC3ActionInterval.h:118: warning: Member startAngle (variable) of class CC3RotateByAngle is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cocos3d/CC3ActionInterval.h:247: warning: Member endAngle (variable) of class CC3RotateToAngle is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cocos3d/CC3Node.h:2618: warning: Member isAxisAngleDirty (variable) of class CC3Rotator is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cocos3d/CC3Node.h:2617: warning: Member isQuaternionDirty (variable) of class CC3Rotator is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cocos3d/CC3Node.h:2619: warning: Member isQuaternionDirtyByAxisAngle (variable) of class CC3Rotator is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cocos3d/CC3Node.h:2616: warning: Member isRotationDirty (variable) of class CC3Rotator is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cocos3d/CC3Node.h:2615: warning: Member matrixIsDirtyBy (variable) of class CC3Rotator is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cocos3d/CC3VertexSkinning.h:627: warning: Member node (variable) of class CC3SkinSection is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cocos3d/CC3TargettingNode.h:153: warning: Member isNewTarget (variable) of class CC3TargettingNode is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cocos3d/CC3TargettingNode.h:157: warning: Member isRotatorDirtyByTargetLocation (variable) of class CC3TargettingNode is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cocos3d/CC3TargettingNode.h:156: warning: Member isTargetLocationDirty (variable) of class CC3TargettingNode is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cocos3d/CC3TargettingNode.h:158: warning: Member wasGlobalLocationChanged (variable) of class CC3TargettingNode is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cocos3d/CC3ActionInterval.h:347: warning: Member endColor (variable) of class CC3TintTo is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cocos3d/CC3ActionInterval.h:346: warning: Member startColor (variable) of class CC3TintTo is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cocos3d/CC3World.h:785: warning: Member pickedNode (variable) of class CC3TouchedNodePicker is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cocos3d/CC3World.h:787: warning: Member queuedTouchCount (variable) of class CC3TouchedNodePicker is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cocos3d/CC3World.h:788: warning: Member touchPoint (variable) of class CC3TouchedNodePicker is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cocos3d/CC3World.h:786: warning: Member touchQueue[kCC3TouchQueueLength] (variable) of class CC3TouchedNodePicker is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cocos3d/CC3World.h:790: warning: Member wasPicked (variable) of class CC3TouchedNodePicker is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cocos3d/CC3World.h:789: warning: Member wasTouched (variable) of class CC3TouchedNodePicker is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cocos3d/CC3World.h:784: warning: Member world (variable) of class CC3TouchedNodePicker is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cocos3d/CC3ActionInterval.h:47: warning: Member diffVector (variable) of class CC3TransformBy is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cocos3d/CC3ActionInterval.h:46: warning: Member startVector (variable) of class CC3TransformBy is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cocos3d/CC3ActionInterval.h:166: warning: Member endVector (variable) of class CC3TransformTo is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cocos3d/CC3VertexArrays.h:110: warning: Member elementsAreRetained (variable) of class CC3VertexArray is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cocos3d/CC3VertexArrayMesh.h:96: warning: Member overlayTextureCoordinates (variable) of class CC3VertexArrayMesh is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cocos3d/CC3VertexArrays.h:585: warning: Member boundaryIsDirty (variable) of class CC3VertexLocations is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cocos3d/CC3VertexArrays.h:586: warning: Member radiusIsDirty (variable) of class CC3VertexLocations is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cocos3d/CC3VertexArrays.h:824: warning: Member naturalMapSize (variable) of class CC3VertexTextureCoordinates is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cocos3d/CC3World.h:880: warning: Member cc2ToGLPointMapX (variable) of class CC3ViewportManager is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cocos3d/CC3World.h:881: warning: Member cc2ToGLPointMapY (variable) of class CC3ViewportManager is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cocos3d/CC3World.h:878: warning: Member glToCC2PointMapX (variable) of class CC3ViewportManager is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cocos3d/CC3World.h:879: warning: Member glToCC2PointMapY (variable) of class CC3ViewportManager is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cocos3d/CC3World.h:875: warning: Member world (variable) of class CC3ViewportManager is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cocos3d/CC3World.h:224: warning: Member billboards (variable) of class CC3World is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cocos3d/CC3World.h:223: warning: Member cameras (variable) of class CC3World is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cocos3d/CC3World.h:222: warning: Member lights (variable) of class CC3World is not documented.
+/depot-kobold2d/Kobold2D-Master/Kobold2D-1.0/__Kobold2D__/libs/cocos3d/cocos3d/cocos3d/CC3World.h:221: warning: Member targettingNodes (variable) of class CC3World is not documented.

@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="node5" href="$interface_c_c3_move_to.html" title="CC3MoveTo is a CCActionInterval that moves a target CC3Node to a specific location." alt="" coords="5,161,96,189"/>
+<area shape="rect" id="node7" href="$interface_c_c3_rotate_to.html" title="CC3RotateTo is a CCActionInterval that rotates a target CC3Node to a specific orientation." alt="" coords="120,161,215,189"/>
+<area shape="rect" id="node9" href="$interface_c_c3_rotate_to_look_towards.html" title="CC3RotateToLookTowards is a CCActionInterval that rotates a target CC3Node to look towards a specific..." alt="" coords="240,161,409,189"/>
+<area shape="rect" id="node13" href="$interface_c_c3_scale_to.html" title="CC3ScaleTo is a CCActionInterval that scales a target CC3Node to a specific scale." alt="" coords="434,161,523,189"/>
+<area shape="rect" id="node2" href="$interface_c_c3_transform_by.html" title="CC3TransformBy is an abstract subclass of CCActionInterval that is the parent of subclasses that tran..." alt="" coords="188,6,305,34"/>
+<area shape="rect" id="node11" href="$interface_c_c3_rotate_to_look_at.html" title="CC3RotateToLookAt is a CCActionInterval that rotates a target CC3Node to look at a specific location..." alt="" coords="257,238,393,266"/>
+</map>

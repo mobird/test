@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$interface_controllable_c_c_layer.html" title="A CCLayerColor that implements the ControlledCCNodeProtocol protocol, and therefore can be controlled..." alt="" coords="118,99,255,127"/>
+<area shape="rect" id="node4" href="$protocol_controlled_c_c_node_protocol-p.html" title="This protocol adds to a CCNode the ability to be managed by a CCNodeController so that the CCNode can..." alt="" coords="5,6,189,34"/>
+<area shape="rect" id="node6" href="$interface_c_c_node_controller.html" title="An instance of CCNodeController manages a single CCNode (typically a CCLayer) as changes occur to the..." alt="" coords="215,6,337,34"/>
+</map>

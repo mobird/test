@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classb2_chain_and_circle_contact.html" title="b2ChainAndCircleContact" alt="" coords="137,5,300,33"/>
+<area shape="rect" id="node5" href="$classb2_chain_and_polygon_contact.html" title="b2ChainAndPolygonContact" alt="" coords="131,57,306,85"/>
+<area shape="rect" id="node7" href="$classb2_circle_contact.html" title="b2CircleContact" alt="" coords="164,109,273,137"/>
+<area shape="rect" id="node9" href="$classb2_edge_and_circle_contact.html" title="b2EdgeAndCircleContact" alt="" coords="139,161,298,189"/>
+<area shape="rect" id="node11" href="$classb2_edge_and_polygon_contact.html" title="b2EdgeAndPolygonContact" alt="" coords="133,213,304,241"/>
+<area shape="rect" id="node13" href="$classb2_null_contact.html" title="b2NullContact" alt="" coords="169,265,269,293"/>
+<area shape="rect" id="node15" href="$classb2_polygon_and_circle_contact.html" title="b2PolygonAndCircleContact" alt="" coords="131,317,307,345"/>
+<area shape="rect" id="node17" href="$classb2_polygon_contact.html" title="b2PolygonContact" alt="" coords="158,369,279,397"/>
+</map>

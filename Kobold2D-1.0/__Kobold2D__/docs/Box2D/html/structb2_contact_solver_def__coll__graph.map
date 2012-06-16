@@ -1,0 +1,20 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$structb2_time_step.html" title="This is an internal structure." alt="" coords="5,535,91,563"/>
+<area shape="rect" id="node4" href="$structb2_velocity.html" title="This is an internal structure." alt="" coords="277,265,357,293"/>
+<area shape="rect" id="node6" href="$structb2_vec2.html" title="A 2D column vector." alt="" coords="347,99,409,127"/>
+<area shape="rect" id="node8" href="$structb2_position.html" title="This is an internal structure." alt="" coords="122,371,200,399"/>
+<area shape="rect" id="node16" href="$structb2_manifold.html" title="b2Manifold" alt="" coords="462,318,545,346"/>
+<area shape="rect" id="node19" href="$structb2_manifold_point.html" title="b2ManifoldPoint" alt="" coords="469,210,581,238"/>
+<area shape="rect" id="node32" href="$structb2_a_a_b_b.html" title="An axis aligned bounding box." alt="" coords="645,210,716,238"/>
+<area shape="rect" id="node11" href="$classb2_contact.html" title="b2Contact" alt="" coords="526,535,601,563"/>
+<area shape="rect" id="node41" href="$structb2_contact_edge.html" title="b2ContactEdge" alt="" coords="599,647,701,675"/>
+<area shape="rect" id="node13" href="$structb2_contact_register.html" title="b2ContactRegister" alt="" coords="396,425,516,453"/>
+<area shape="rect" id="node22" href="$unionb2_contact_i_d.html" title="Contact ids to facilitate warm starting." alt="" coords="566,99,655,127"/>
+<area shape="rect" id="node24" href="$structb2_contact_feature.html" title="b2ContactFeature" alt="" coords="553,6,668,34"/>
+<area shape="rect" id="node26" href="$classb2_fixture.html" title="b2Fixture" alt="" coords="694,425,767,453"/>
+<area shape="rect" id="node30" href="$structb2_fixture_proxy.html" title="This proxy is used internally to connect fixtures to the broad&#45;phase." alt="" coords="749,318,853,346"/>
+<area shape="rect" id="node28" href="$classb2_body.html" title="A rigid body. These are created via b2World::CreateBody." alt="" coords="928,318,991,346"/>
+<area shape="rect" id="node36" href="$classb2_shape.html" title="b2Shape" alt="" coords="570,318,637,346"/>
+<area shape="rect" id="node38" href="$structb2_filter.html" title="This holds contact filtering data." alt="" coords="662,318,724,346"/>
+<area shape="rect" id="node46" href="$classb2_stack_allocator.html" title="b2StackAllocator" alt="" coords="165,535,279,563"/>
+</map>

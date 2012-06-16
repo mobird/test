@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$interface_c_c_layer.html" title="CCLayer" alt="" coords="254,83,324,111"/>
+<area shape="rect" id="node4" href="$interface_c_c_node.html" title="CCNode" alt="" coords="5,6,72,34"/>
+<area shape="rect" id="node6" href="$protocol_c_c_keyboard_event_delegate-p.html" title="\&lt;CCKeyboardEventDelegate\&gt;" alt="" coords="97,6,281,34"/>
+<area shape="rect" id="node8" href="$protocol_c_c_mouse_event_delegate-p.html" title="\&lt;CCMouseEventDelegate\&gt;" alt="" coords="306,6,475,34"/>
+<area shape="rect" id="node10" href="$protocol_c_c_touch_event_delegate-p.html" title="\&lt;CCTouchEventDelegate\&gt;" alt="" coords="499,6,665,34"/>
+</map>

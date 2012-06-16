@@ -1,0 +1,20 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$classb2_block_allocator.html" title="b2BlockAllocator" alt="" coords="4,429,120,457"/>
+<area shape="rect" id="node4" href="$classb2_contact.html" title="b2Contact" alt="" coords="654,429,729,457"/>
+<area shape="rect" id="node35" href="$structb2_contact_edge.html" title="b2ContactEdge" alt="" coords="726,541,828,569"/>
+<area shape="rect" id="node6" href="$structb2_contact_register.html" title="b2ContactRegister" alt="" coords="681,318,801,346"/>
+<area shape="rect" id="node9" href="$structb2_manifold.html" title="b2Manifold" alt="" coords="573,318,656,346"/>
+<area shape="rect" id="node11" href="$structb2_vec2.html" title="A 2D column vector." alt="" coords="697,99,759,127"/>
+<area shape="rect" id="node13" href="$structb2_manifold_point.html" title="b2ManifoldPoint" alt="" coords="558,210,671,238"/>
+<area shape="rect" id="node26" href="$structb2_a_a_b_b.html" title="An axis aligned bounding box." alt="" coords="1108,265,1179,293"/>
+<area shape="rect" id="node16" href="$unionb2_contact_i_d.html" title="Contact ids to facilitate warm starting." alt="" coords="562,99,651,127"/>
+<area shape="rect" id="node18" href="$structb2_contact_feature.html" title="b2ContactFeature" alt="" coords="549,6,664,34"/>
+<area shape="rect" id="node20" href="$classb2_fixture.html" title="b2Fixture" alt="" coords="941,318,1013,346"/>
+<area shape="rect" id="node24" href="$structb2_fixture_proxy.html" title="This proxy is used internally to connect fixtures to the broad&#45;phase." alt="" coords="1013,429,1117,457"/>
+<area shape="rect" id="node22" href="$classb2_body.html" title="A rigid body. These are created via b2World::CreateBody." alt="" coords="835,210,897,238"/>
+<area shape="rect" id="node30" href="$classb2_shape.html" title="b2Shape" alt="" coords="930,210,997,238"/>
+<area shape="rect" id="node32" href="$structb2_filter.html" title="This holds contact filtering data." alt="" coords="1022,210,1084,238"/>
+<area shape="rect" id="node40" href="$classb2_broad_phase.html" title="b2BroadPhase" alt="" coords="145,429,243,457"/>
+<area shape="rect" id="node42" href="$classb2_contact_filter.html" title="b2ContactFilter" alt="" coords="267,429,372,457"/>
+<area shape="rect" id="node44" href="$classb2_contact_listener.html" title="b2ContactListener" alt="" coords="396,429,515,457"/>
+</map>

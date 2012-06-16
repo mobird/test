@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$interface_c_d_long_audio_source_fader.html" title="CDLongAudioSourceFader" alt="" coords="192,5,360,33"/>
+<area shape="rect" id="node5" href="$interface_c_d_sound_engine_fader.html" title="CDSoundEngineFader" alt="" coords="205,57,347,85"/>
+<area shape="rect" id="node7" href="$interface_c_d_sound_source_fader.html" title="CDSoundSourceFader" alt="" coords="205,109,347,137"/>
+<area shape="rect" id="node9" href="$interface_c_d_sound_source_panner.html" title="CDSoundSourcePanner" alt="" coords="202,161,350,189"/>
+<area shape="rect" id="node11" href="$interface_c_d_sound_source_pitch_bender.html" title="CDSoundSourcePitchBender" alt="" coords="188,213,364,241"/>
+</map>

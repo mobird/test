@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$structb2_time_step.html" title="This is an internal structure." alt="" coords="5,99,91,127"/>
+<area shape="rect" id="node4" href="$structb2_velocity.html" title="This is an internal structure." alt="" coords="116,99,196,127"/>
+<area shape="rect" id="node6" href="$structb2_vec2.html" title="A 2D column vector." alt="" coords="183,6,245,34"/>
+<area shape="rect" id="node8" href="$structb2_position.html" title="This is an internal structure." alt="" coords="221,99,299,127"/>
+</map>

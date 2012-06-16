@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$interface_c_c3_camera.html" title="CC3Camera represents the camera viewing the 3D world." alt="" coords="79,259,165,287"/>
+<area shape="rect" id="node4" href="$interface_c_c3_targetting_node.html" title="This is a node class representing a 3D model node that can be pointed in a particular direction..." alt="" coords="58,179,187,207"/>
+<area shape="rect" id="node6" href="$interface_c_c3_node.html" title="CC3Node and its subclasses form the basis of all 3D artifacts in the 3D world, including visible mesh..." alt="" coords="85,99,159,127"/>
+<area shape="rect" id="node8" href="$interface_c_c3_identifiable.html" title="This is a base subclass for any class that uses tags or names to identify individual instances..." alt="" coords="5,6,112,34"/>
+<area shape="rect" id="node10" href="$interface_c_c3_g_l_matrix.html" title="A wrapper class for a 4x4 OpenGL matrix array." alt="" coords="137,6,236,34"/>
+</map>

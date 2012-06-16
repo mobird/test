@@ -1,0 +1,9 @@
+<map id="G" name="G">
+<area shape="rect" id="node5" href="$interface_c_c_menu_item_label.html" title="CCMenuItemLabel" alt="" coords="172,161,296,189"/>
+<area shape="rect" id="node11" href="$interface_c_c_menu_item_sprite.html" title="CCMenuItemSprite" alt="" coords="321,161,447,189"/>
+<area shape="rect" id="node15" href="$interface_c_c_menu_item_toggle.html" title="CCMenuItemToggle" alt="" coords="471,161,603,189"/>
+<area shape="rect" id="node2" href="$interface_c_c_node.html" title="CCNode" alt="" coords="350,6,417,34"/>
+<area shape="rect" id="node7" href="$interface_c_c_menu_item_atlas_font.html" title="CCMenuItemAtlasFont" alt="" coords="5,238,152,266"/>
+<area shape="rect" id="node9" href="$interface_c_c_menu_item_font.html" title="CCMenuItemFont" alt="" coords="176,238,295,266"/>
+<area shape="rect" id="node13" href="$interface_c_c_menu_item_image.html" title="CCMenuItemImage" alt="" coords="320,238,447,266"/>
+</map>

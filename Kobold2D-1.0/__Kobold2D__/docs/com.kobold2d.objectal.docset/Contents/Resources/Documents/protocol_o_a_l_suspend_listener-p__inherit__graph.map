@@ -1,0 +1,11 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$protocol_o_a_l_suspend_manager-p.html" title="A suspend manager is a listener that also allows other objects to subscribe to receive events as the ..." alt="" coords="206,187,362,215"/>
+<area shape="rect" id="node5" href="$interface_a_l_context.html" title="A context encompasses a single listener and a series of sources." alt="" coords="431,5,513,33"/>
+<area shape="rect" id="node7" href="$interface_a_l_device.html" title="A device is a logical mapping to an audio device through the OpenAL implementation." alt="" coords="434,57,510,85"/>
+<area shape="rect" id="node9" href="$interface_a_l_listener.html" title="The listener represents the user who is listening to sounds in 3D space." alt="" coords="431,109,513,137"/>
+<area shape="rect" id="node11" href="$interface_a_l_source.html" title="A source represents an object that emits sound which can be heard by a listener." alt="" coords="434,161,510,189"/>
+<area shape="rect" id="node13" href="$interface_o_a_l_audio_session.html" title="Handles the audio session and interrupts." alt="" coords="411,213,533,241"/>
+<area shape="rect" id="node15" href="$interface_o_a_l_audio_track.html" title="Plays an audio track via AVAudioPlayer." alt="" coords="415,265,529,293"/>
+<area shape="rect" id="node17" href="$interface_o_a_l_audio_tracks.html" title="Keeps track of all AudioTrack objects." alt="" coords="413,317,531,345"/>
+<area shape="rect" id="node19" href="$interface_open_a_l_manager.html" title="Manager class for OpenAL objects (ObjectAL)." alt="" coords="414,369,530,397"/>
+</map>
